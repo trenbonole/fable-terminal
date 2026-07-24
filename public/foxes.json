@@ -1,5 +1,5 @@
 {
-  "count": 12,
+  "count": 13,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -177,6 +177,21 @@
       "id": 12,
       "born": "2026-07-24T14:08:01.549Z",
       "name": "Ash the 12th"
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 13,
+      "born": "2026-07-24T14:38:01.498Z",
+      "name": "Pyre the 13th"
     }
   ]
 }
