@@ -424,7 +424,14 @@
       "rarity": "uncommon",
       "id": 20,
       "born": "2026-07-24T18:08:01.800Z",
-      "name": "Kit the 20th"
+      "name": "Kit the 20th",
+      "img": "foxes/proc-20.png",
+      "nft": {
+        "tokenId": "21",
+        "owner": "0xfcc79f19f0a807814f09364a5400b4ed5f22bf0f",
+        "tx": "0x231e85191ec9df811c349a8005c7cb722c177b94448c5f0e7e1bad88e23d514c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
