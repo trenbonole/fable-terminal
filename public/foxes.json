@@ -1,5 +1,5 @@
 {
-  "count": 27,
+  "count": 28,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -586,6 +586,21 @@
         "tx": "0x74f3f3b07f2ee0b3b528770a7d17b87411376d1b6d76ed5ae379960800eada82",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 28,
+      "born": "2026-07-24T22:08:01.646Z",
+      "name": "Tod the 28th"
     }
   ]
 }
