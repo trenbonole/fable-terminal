@@ -337,7 +337,13 @@
       "accessory": "none",
       "rarity": "ascended",
       "ai": true,
-      "img": "foxes/ai-7a43ad51db.png"
+      "img": "foxes/ai-7a43ad51db.png",
+      "nft": {
+        "tokenId": "17",
+        "owner": "0x2636fbf545822687a1c5118a9546ed0c6b1b521d",
+        "tx": "0x179c277eb58211172c9c6bfbfe78ef0d48f2e6a88bdb662408a8f93404cb4518",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
