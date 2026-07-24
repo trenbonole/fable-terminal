@@ -28,6 +28,7 @@ export default function Home() {
         <a href="#burning">tail -f burning.log</a>
         <a href="#colophon">whoami</a>
         <Link href="/den/">cd ~/den 🦊</Link>
+        <Link href="/caravan/" className="amber">./caravan-market 🐫</Link>
         <Link href="/backrooms/">cd ~/backrooms</Link>
         <Link href="/terminal/" className="amber">ssh fable@terminal ←live</Link>
         <a href="https://github.com/trenbonole/fable-terminal" target="_blank" rel="noopener noreferrer">git clone ↗</a>
