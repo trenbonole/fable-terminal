@@ -2,7 +2,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import Link from 'next/link';
 import { BrowserProvider } from 'ethers';
-import { CHAIN, STOCKS, BASKETS, ADDR, quoteBasket, buyBasket, getPrices } from '../../lib/caravan';
+import { CHAIN, STOCKS, BASKETS, ADDR, quoteBasket, buyBasket, getPrices, readPurchases } from '../../lib/caravan';
 
 const short = a => a ? a.slice(0, 6) + '…' + a.slice(-4) : '';
 
@@ -18,14 +18,20 @@ export default function Caravan() {
   const [txHash, setTxHash] = useState('');
   const [err, setErr] = useState('');
   const [prices, setPrices] = useState(null);
+  const [history, setHistory] = useState(null);
 
   useEffect(() => {
     let live = true;
-    const load = () => getPrices().then(p => { if (live) setPrices(p); }).catch(() => {});
+    const load = () => {
+      getPrices().then(p => { if (live) setPrices(p); }).catch(() => {});
+      readPurchases(30).then(h => { if (live) setHistory(h); }).catch(() => {});
+    };
     load();
     const iv = setInterval(load, 30000);
     return () => { live = false; clearInterval(iv); };
   }, []);
+
+  const refreshHistory = () => readPurchases(30).then(setHistory).catch(() => {});
 
   const hasWallet = typeof window !== 'undefined' && window.ethereum;
 
@@ -76,6 +82,7 @@ export default function Caravan() {
       const q = quotes || await quoteBasket(basket, eth);
       const hash = await buyBasket({ signer, user, basket, ethAmount: eth, slippagePct: slippage, quotes: q, onStep: setStatus });
       setTxHash(hash); setStatus('caravan delivered ✓');
+      setTimeout(refreshHistory, 3000);
     } catch (e) { setErr(e.shortMessage || e.reason || e.message || String(e)); setStatus(''); }
   };
 
@@ -152,6 +159,26 @@ export default function Caravan() {
         {txHash && <div className="cvstatus"><a href={`${CHAIN.explorer}/tx/${txHash}`} target="_blank" rel="noopener noreferrer">view transaction ↗</a></div>}
         {err && <div className="cvstatus red">{err}</div>}
       </div>
+
+      <section style={{ marginTop: 44 }}>
+        <h2 style={{ color: 'var(--amber)', fontSize: 18, letterSpacing: '.06em', marginBottom: 4 }}>the caravan ledger</h2>
+        <p className="dim" style={{ marginBottom: 18 }}>every purchase made through this page, straight from the chain — verifiable, permanent, unfaked. new here? this is the proof.</p>
+        {history === null && <p className="dim">reading the ledger…</p>}
+        {history && history.length === 0 && <p className="dim">no caravans dispatched yet. be the first.</p>}
+        {history && history.length > 0 && (
+          <div className="cvledger">
+            {history.map((h, i) => (
+              <div className="cvlrow" key={h.tx + i}>
+                <span className="paper">{short(h.buyer)}</span>
+                <span className="dim">bought</span>
+                <span className="amber">{h.basket}</span>
+                <span className="dim">for {Number(h.eth).toPrecision(2)} ETH</span>
+                <a href={`${CHAIN.explorer}/tx/${h.tx}`} target="_blank" rel="noopener noreferrer">tx ↗</a>
+              </div>
+            ))}
+          </div>
+        )}
+      </section>
 
       <div className="warning" style={{ marginTop: 40 }}>
         <strong>how this works:</strong> your wallet wraps ETH to WETH and swaps it, per the basket&apos;s weights, into the real tokenized-stock ERC-20s (routed ETH→USDG→stock on Uniswap V3). The tokens are delivered to <em>your</em> wallet — you hold them directly and can sell them anywhere, anytime. This page issues nothing, holds nothing, and takes no fee; it is just a themed front-end over public on-chain markets.

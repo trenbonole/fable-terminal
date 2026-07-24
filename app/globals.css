@@ -86,6 +86,10 @@ article.fable p.body::first-letter{
 .cvqline{display:flex;gap:10px;align-items:baseline;margin-top:8px}
 .cvqline .paper{font-size:17px}
 .cvstatus{margin-top:14px;font-size:14px}
+.cvledger{border:1px solid var(--dim);border-radius:8px;overflow:hidden}
+.cvlrow{display:flex;flex-wrap:wrap;gap:8px;align-items:baseline;padding:11px 16px;border-bottom:1px solid rgba(29,143,67,.25);font-size:14px}
+.cvlrow:last-child{border-bottom:none}
+.cvlrow .paper{font-family:inherit}
 
 /* fox den */
 .foxwall{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px;margin-top:24px}
