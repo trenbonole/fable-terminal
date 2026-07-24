@@ -274,7 +274,14 @@
       "rarity": "uncommon",
       "id": 13,
       "born": "2026-07-24T14:38:01.498Z",
-      "name": "Pyre the 13th"
+      "name": "Pyre the 13th",
+      "img": "foxes/proc-13.png",
+      "nft": {
+        "tokenId": "13",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x0a6f69ae3c04714586ba7a400ed603a2cc22d40813ea31dc4bcbbe6d7c808948",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
