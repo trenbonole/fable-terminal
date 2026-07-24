@@ -1,5 +1,5 @@
 {
-  "count": 9,
+  "count": 10,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -135,6 +135,21 @@
       "id": 9,
       "born": "2026-07-24T13:38:01.583Z",
       "name": "Sable the 9th"
+    },
+    {
+      "fur": "#4b2e83",
+      "belly": "#d9cbff",
+      "accent": "#b79bff",
+      "palette": "void",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 10,
+      "born": "2026-07-24T13:38:59.044Z",
+      "name": "Cairn the 10th"
     }
   ]
 }
