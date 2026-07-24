@@ -76,6 +76,10 @@ article.fable p.body::first-letter{
 .r-legendary{border-color:#ff5f56}
 .r-legendary .rar{color:var(--red)}
 .r-legendary{box-shadow:0 0 14px rgba(255,95,86,.25)}
+.r-ascended{border-color:#ffd869;background:linear-gradient(180deg,rgba(255,216,105,.08),rgba(57,255,110,.03))}
+.r-ascended .rar{color:#ffd869}
+.r-ascended{box-shadow:0 0 18px rgba(255,216,105,.28)}
+.foxcard.r-ascended .fox{border:1px solid rgba(255,216,105,.5)}
 
 .moral{color:var(--amber);font-style:italic}
 .moral::before{content:"⁂ moral: ";font-style:normal;color:var(--dim)}
