@@ -296,7 +296,14 @@
       "rarity": "rare",
       "id": 14,
       "born": "2026-07-24T15:08:01.507Z",
-      "name": "Sable the 14th"
+      "name": "Sable the 14th",
+      "img": "foxes/proc-14.png",
+      "nft": {
+        "tokenId": "14",
+        "owner": "0xc7a52e9007cfecce103233ef7ce8f1465fc8facd",
+        "tx": "0xf116124cf8336e7ab207e9cec28c0a1cbecb5be828d7f8f9f9c77cd7a39f08bb",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
