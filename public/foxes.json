@@ -1,5 +1,5 @@
 {
-  "count": 18,
+  "count": 19,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -388,6 +388,21 @@
         "tx": "0x4aa3b442ae9cc092c503e380bc4bf95c1376f109b03fee479aff082a7f9fb076",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 19,
+      "born": "2026-07-24T17:38:01.503Z",
+      "name": "Sorrel the 19th"
     }
   ]
 }
