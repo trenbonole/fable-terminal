@@ -446,7 +446,14 @@
       "rarity": "uncommon",
       "id": 21,
       "born": "2026-07-24T18:38:01.552Z",
-      "name": "Fennec the 21st"
+      "name": "Fennec the 21st",
+      "img": "foxes/proc-21.png",
+      "nft": {
+        "tokenId": "22",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0xb9c9bb1de473d663990d917a3af49b69f3ed82f74b269a1be3db062ae61b3258",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
