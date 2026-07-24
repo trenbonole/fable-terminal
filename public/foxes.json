@@ -252,7 +252,14 @@
       "rarity": "legendary",
       "id": 12,
       "born": "2026-07-24T14:08:01.549Z",
-      "name": "Ash the 12th"
+      "name": "Ash the 12th",
+      "img": "foxes/proc-12.png",
+      "nft": {
+        "tokenId": "12",
+        "owner": "0xf5a614d4e1b162fec749dd0f7057aa2a24945da3",
+        "tx": "0xdb92c35d380b2d267374599c7901d47ba3b80cb355d21efff35308837f5a1140",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#9aa0a6",
