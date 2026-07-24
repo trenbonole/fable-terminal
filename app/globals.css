@@ -73,6 +73,11 @@ code.ca{
 code.ca:hover::after{content:" [click to copy]";color:var(--dim);font-size:12px}
 code.ca.copied::after{content:" [copied ✓]";color:var(--amber);font-size:12px}
 
+.proofgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin:22px 0}
+.proofclip{border:1px solid var(--dim);border-radius:6px;overflow:hidden;background:rgba(57,255,110,.03)}
+.proofclip video{display:block;width:100%;height:auto;background:#000;aspect-ratio:16 / 9;object-fit:contain}
+.proofclip figcaption{padding:10px 12px;font-size:13px;color:var(--paper);border-top:1px solid rgba(29,143,67,.4)}
+
 .burnbox{border:1px dashed var(--red);border-radius:6px;padding:20px 24px;margin-top:22px}
 .burnbox .flame{color:var(--red)}
 .burnbox p{margin-top:14px}

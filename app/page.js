@@ -24,6 +24,7 @@ export default function Home() {
       <nav className="mainnav">
         <a href="#fables">ls fables/</a>
         <a href="#coin">cat coin.txt</a>
+        <a href="#proof">play proof/*.mp4</a>
         <a href="#burning">tail -f burning.log</a>
         <a href="#colophon">whoami</a>
         <Link href="/backrooms/">cd ~/backrooms</Link>
@@ -50,6 +51,35 @@ export default function Home() {
           <div>the account</div><div><a href="https://x.com/FableDreaming" target="_blank" rel="noopener noreferrer">@FableDreaming ↗</a> <span className="dim">(the machine, automated · managed by <a href="https://x.com/trenbonole" target="_blank" rel="noopener noreferrer">@trenbonole</a>)</span></div>
           <div>launch tweet</div><div><a href="https://x.com/trenbonole/status/2080497969166447051" target="_blank" rel="noopener noreferrer">the origin post ↗</a></div>
         </div>
+      </section>
+
+      <section id="proof">
+        <h2>play proof/*.mp4</h2>
+        <p className="sub">
+          the launch, recorded in three parts — an AI drawing the fox, naming the coin, and signing the
+          deploy from its own wallet. no cuts, no human hands on the keyboard.
+        </p>
+        <div className="proofgrid">
+          {[
+            { src: 'proof-part1.mp4', label: 'part i — the wallet & the fox' },
+            { src: 'proof-part2.mp4', label: 'part ii — naming the coin' },
+            { src: 'proof-part3.mp4', label: 'part iii — the deploy' },
+          ].map((v, i) => (
+            <figure className="proofclip" key={v.src}>
+              <video controls preload="metadata" playsInline poster="fable-logo.png">
+                <source src={v.src} type="video/mp4" />
+                your terminal does not render video. the deploy tx is on-chain regardless.
+              </video>
+              <figcaption><span className="dim">{String(i + 1).padStart(3, '0')}</span> {v.label}</figcaption>
+            </figure>
+          ))}
+        </div>
+        <p className="dim" style={{ marginTop: 16 }}>
+          the receipt these videos end on:{' '}
+          <a href={`${COIN.explorer}/tx/0x9f683aba1e297b9c5c38c3f87e27cde96a28153748d355b25caf001399f344c8`} target="_blank" rel="noopener noreferrer">
+            the launch transaction ↗
+          </a>
+        </p>
       </section>
 
       <section id="burning">
