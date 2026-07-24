@@ -1,5 +1,5 @@
 {
-  "count": 20,
+  "count": 21,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -432,6 +432,21 @@
         "tx": "0x231e85191ec9df811c349a8005c7cb722c177b94448c5f0e7e1bad88e23d514c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 21,
+      "born": "2026-07-24T18:38:01.552Z",
+      "name": "Fennec the 21st"
     }
   ]
 }
