@@ -1,5 +1,5 @@
 {
-  "count": 30,
+  "count": 31,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -648,6 +648,21 @@
         "tx": "0xab3ee039a61774601afc1e94e017b15a664a33c7457e9c9687445f6c08aaf873",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 31,
+      "born": "2026-07-24T23:08:01.767Z",
+      "name": "Wick the 31st"
     }
   ]
 }
