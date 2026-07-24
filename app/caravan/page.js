@@ -2,7 +2,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import Link from 'next/link';
 import { BrowserProvider } from 'ethers';
-import { CHAIN, STOCKS, BASKETS, ADDR, quoteBasket, buyBasket } from '../../lib/caravan';
+import { CHAIN, STOCKS, BASKETS, ADDR, quoteBasket, buyBasket, getPrices } from '../../lib/caravan';
 
 const short = a => a ? a.slice(0, 6) + '…' + a.slice(-4) : '';
 
@@ -17,6 +17,15 @@ export default function Caravan() {
   const [status, setStatus] = useState('');
   const [txHash, setTxHash] = useState('');
   const [err, setErr] = useState('');
+  const [prices, setPrices] = useState(null);
+
+  useEffect(() => {
+    let live = true;
+    const load = () => getPrices().then(p => { if (live) setPrices(p); }).catch(() => {});
+    load();
+    const iv = setInterval(load, 30000);
+    return () => { live = false; clearInterval(iv); };
+  }, []);
 
   const hasWallet = typeof window !== 'undefined' && window.ethereum;
 
@@ -80,6 +89,17 @@ export default function Caravan() {
         <Link href="/den/">the den</Link>
         <a href={`${CHAIN.explorer}/token/${ADDR.USDG}`} target="_blank" rel="noopener noreferrer">USDG ↗</a>
       </nav>
+
+      <div className="cvticker">
+        {prices
+          ? Object.keys(STOCKS).map(sym => (
+            <span key={sym} className="cvtick">
+              <span className="amber">{sym}</span>{' '}
+              <span className="paper">{prices[sym] != null ? '$' + prices[sym].toFixed(2) : '—'}</span>
+            </span>))
+          : <span className="dim">reading the caravans…</span>}
+        <span className="dim cvticknote">· live from Uniswap V3 · updates every 30s</span>
+      </div>
 
       <div className="cvbar">
         {account
