@@ -168,7 +168,14 @@
       "rarity": "uncommon",
       "id": 8,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Wick the 8th"
+      "name": "Wick the 8th",
+      "img": "foxes/proc-8.png",
+      "nft": {
+        "tokenId": "8",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x9f964df37025d2ddc9efe88113da52d1b7132044a5a26d39ba15af0cb1eaecd4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#4b2e83",
