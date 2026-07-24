@@ -146,7 +146,14 @@
       "rarity": "common",
       "id": 7,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Sable the 7th"
+      "name": "Sable the 7th",
+      "img": "foxes/proc-7.png",
+      "nft": {
+        "tokenId": "7",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x6ff92e8dec4b067e22685491baf2698c3f990514d37157a0aad8a8b34b60d8fd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#9aa0a6",
