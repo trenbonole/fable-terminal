@@ -600,7 +600,14 @@
       "rarity": "uncommon",
       "id": 28,
       "born": "2026-07-24T22:08:01.646Z",
-      "name": "Tod the 28th"
+      "name": "Tod the 28th",
+      "img": "foxes/proc-28.png",
+      "nft": {
+        "tokenId": "29",
+        "owner": "0xef9a1349d72ae46096996289fc8036c8e25388e3",
+        "tx": "0xd913640ccf93e5f898cedb8e7c632584374ed731955c0716945ca402242e92dd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
