@@ -14,7 +14,14 @@
       "rarity": "rare",
       "id": 1,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Fennec the 1st"
+      "name": "Fennec the 1st",
+      "img": "foxes/proc-1.png",
+      "nft": {
+        "tokenId": "1",
+        "owner": "0xc7a3bec11c7853dbc852ed0e910955b569b4ad05",
+        "tx": "0x93f0f34681d28eaed4f074eed106415759154d9dee4765c86f1763fbe483d55b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#8f2d2d",
