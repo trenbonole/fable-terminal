@@ -1,5 +1,5 @@
 {
-  "count": 25,
+  "count": 26,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -542,6 +542,21 @@
         "tx": "0x1c087a4bfea59de826283ce16b902e58e7067b4d4130f924c39196c46099d013",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 26,
+      "born": "2026-07-24T21:08:01.589Z",
+      "name": "Tod the 26th"
     }
   ]
 }
