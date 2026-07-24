@@ -662,7 +662,14 @@
       "rarity": "rare",
       "id": 31,
       "born": "2026-07-24T23:08:01.767Z",
-      "name": "Wick the 31st"
+      "name": "Wick the 31st",
+      "img": "foxes/proc-31.png",
+      "nft": {
+        "tokenId": "32",
+        "owner": "0xc7a52e9007cfecce103233ef7ce8f1465fc8facd",
+        "tx": "0xec5f4df5167486541f54a2db7a92d3b8d2cdfe45b8e944d8fc4aba3d04557810",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
