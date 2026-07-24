@@ -1,5 +1,5 @@
 {
-  "count": 14,
+  "count": 15,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -304,6 +304,21 @@
         "tx": "0xf116124cf8336e7ab207e9cec28c0a1cbecb5be828d7f8f9f9c77cd7a39f08bb",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 15,
+      "born": "2026-07-24T15:38:01.486Z",
+      "name": "Reynard the 15th"
     }
   ]
 }
