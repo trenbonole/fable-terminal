@@ -619,7 +619,13 @@
       "accessory": "crown",
       "rarity": "ascended",
       "ai": true,
-      "img": "foxes/ai-1557bf1b68.png"
+      "img": "foxes/ai-1557bf1b68.png",
+      "nft": {
+        "tokenId": "30",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0x5debb8ade10ae460a3a6a4f8b72713b4c80283a626c223dde69bf6be186fe3cf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
