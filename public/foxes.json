@@ -80,7 +80,14 @@
       "rarity": "common",
       "id": 4,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Pyre the 4th"
+      "name": "Pyre the 4th",
+      "img": "foxes/proc-4.png",
+      "nft": {
+        "tokenId": "4",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x55bb1e45996c85dc0f3597bb32338c47b7a6ff0d97094d790e5e061b2bac1cb1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#2b2f3a",

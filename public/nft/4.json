@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #4 — Pyre the 4th",
+  "description": "One of the foxes the machine dreams. common, one tail, blood fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-4.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "blood"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 1
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "glow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "common"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}
