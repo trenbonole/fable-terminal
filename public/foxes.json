@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 29,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -608,6 +608,18 @@
         "tx": "0xd913640ccf93e5f898cedb8e7c632584374ed731955c0716945ca402242e92dd",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "id": 29,
+      "born": "2026-07-24T22:22:52.156Z",
+      "name": "Tod the 29th",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "star",
+      "accessory": "crown",
+      "rarity": "ascended",
+      "ai": true,
+      "img": "foxes/ai-1557bf1b68.png"
     }
   ]
 }
