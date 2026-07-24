@@ -4,7 +4,9 @@ import Link from 'next/link';
 import FableFox from '../../components/FableFox';
 
 const BASE = '/fable-terminal';
-const RARITY_ORDER = { legendary: 0, rare: 1, uncommon: 2, common: 3 };
+const EXPLORER = 'https://robinhoodchain.blockscout.com';
+const NFT_CONTRACT = '0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07';
+const shortAddr = a => a ? a.slice(0, 6) + '…' + a.slice(-4) : '';
 
 export default function Den() {
   const [data, setData] = useState(null);
@@ -19,7 +21,8 @@ export default function Den() {
   return (
     <div className="wrap fox-den">
       <h1>~/den</h1>
-      <p className="dim">the machine dreams a fox every thirty minutes. each one is born once, named, and never dreamed again.</p>
+      <p className="dim">the machine dreams a fox every thirty minutes. each one is born once, named, minted as an NFT, and airdropped to a random $FABLE holder — the machine keeps none of them.</p>
+      <p className="dim" style={{ marginTop: 6 }}>collection: <a href={`${EXPLORER}/token/${NFT_CONTRACT}`} target="_blank" rel="noopener noreferrer">Fable Foxes (FOX) ↗</a> on Robinhood Chain</p>
 
       <nav className="mainnav">
         <Link href="/">back to the storybook</Link>
@@ -46,6 +49,12 @@ export default function Den() {
               <div className="foxname">{f.name}</div>
               <div className="dim">no.{f.id} · {f.tails}-tailed · {f.palette}</div>
               <div className={'rar r-' + f.rarity}>{f.rarity}</div>
+              {f.nft && (
+                <div className="dim nftline">
+                  NFT #{f.nft.tokenId} → <a href={`${EXPLORER}/address/${f.nft.owner}`} target="_blank" rel="noopener noreferrer">{shortAddr(f.nft.owner)}</a>
+                  {' · '}<a href={`${EXPLORER}/tx/${f.nft.tx}`} target="_blank" rel="noopener noreferrer">tx ↗</a>
+                </div>
+              )}
             </figcaption>
           </figure>
         ))}

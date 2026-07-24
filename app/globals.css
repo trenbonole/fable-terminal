@@ -68,6 +68,7 @@ article.fable p.body::first-letter{
 .foxcard figcaption{margin-top:8px;font-size:12px}
 .foxcard .foxname{color:var(--paper);font-size:14px;letter-spacing:.03em}
 .foxcard .rar{margin-top:4px;text-transform:uppercase;letter-spacing:.1em;font-size:10px}
+.foxcard .nftline{margin-top:6px;font-size:11px;border-top:1px solid rgba(29,143,67,.3);padding-top:5px}
 .r-common .rar{color:var(--dim)}
 .r-uncommon{border-color:#39ff6e55}
 .r-uncommon .rar{color:var(--phos)}
