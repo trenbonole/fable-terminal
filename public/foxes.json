@@ -102,7 +102,14 @@
       "rarity": "rare",
       "id": 5,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Ember the 5th"
+      "name": "Ember the 5th",
+      "img": "foxes/proc-5.png",
+      "nft": {
+        "tokenId": "5",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x508b010dd3435e3f6bcd44c53d38cacc22ee0685bd0c904a3a9d70bf13520a8e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#ff8c42",
