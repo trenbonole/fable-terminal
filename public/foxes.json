@@ -124,7 +124,14 @@
       "rarity": "uncommon",
       "id": 6,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Fennec the 6th"
+      "name": "Fennec the 6th",
+      "img": "foxes/proc-6.png",
+      "nft": {
+        "tokenId": "6",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x9782aab6c68c0017429e13b30a24354a712ddcdf84f93de0e4e9a314e89ebabe",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#b0552f",
