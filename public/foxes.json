@@ -512,7 +512,14 @@
       "rarity": "uncommon",
       "id": 24,
       "born": "2026-07-24T20:08:01.561Z",
-      "name": "Reynard the 24th"
+      "name": "Reynard the 24th",
+      "img": "foxes/proc-24.png",
+      "nft": {
+        "tokenId": "25",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x5f4d13eda2d687031931e619249a018acf3a8aa8eff92bb805f6cec1a1bfe62e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
