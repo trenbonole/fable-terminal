@@ -318,7 +318,14 @@
       "rarity": "uncommon",
       "id": 15,
       "born": "2026-07-24T15:38:01.486Z",
-      "name": "Reynard the 15th"
+      "name": "Reynard the 15th",
+      "img": "foxes/proc-15.png",
+      "nft": {
+        "tokenId": "15",
+        "owner": "0x41ccc209d3ba4e81ef0c1fcb6d191127fb5b42f5",
+        "tx": "0x396dd459e98b81cf7b08fad61e3edb2cc9fa497a8c7b9beae804387fc4b861e7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
