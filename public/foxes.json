@@ -684,7 +684,14 @@
       "rarity": "legendary",
       "id": 32,
       "born": "2026-07-24T23:38:01.621Z",
-      "name": "Umbra the 32nd"
+      "name": "Umbra the 32nd",
+      "img": "foxes/proc-32.png",
+      "nft": {
+        "tokenId": "33",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x049a3abf952c757b2a864fb61416f3232247e0ed08eda44efa5290c362b3ec1a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
