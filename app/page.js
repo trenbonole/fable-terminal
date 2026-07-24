@@ -2,7 +2,8 @@ import Link from 'next/link';
 import Boot from '../components/Boot';
 import CopyCA from '../components/CopyCA';
 import LiveBurns from '../components/LiveBurns';
-import { FABLES, COIN } from '../lib/fables';
+import Fables from '../components/Fables';
+import { COIN } from '../lib/fables';
 
 export default function Home() {
   return (
@@ -31,18 +32,7 @@ export default function Home() {
 
       <section id="fables">
         <h2>ls fables/</h2>
-        <p className="sub">ten entries · more are written when the machine dreams · all morals final</p>
-        {FABLES.map(f => (
-          <article className="fable" key={f.id}>
-            <div className="path">cat fables/{f.id}_{f.slug}.txt</div>
-            <h3>{f.title}</h3>
-            <p className="body">{f.body}</p>
-            <p className="moral">
-              {f.moral}{' '}
-              {f.burnLink && <a href="#burning">(this one is not fiction — see burning.log)</a>}
-            </p>
-          </article>
-        ))}
+        <Fables />
       </section>
 
       <section id="coin">

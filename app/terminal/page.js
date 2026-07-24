@@ -1,17 +1,10 @@
 'use client';
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
-import { MORALS, COIN } from '../../lib/fables';
+import { COIN, FALLBACK_MORALS, FALLBACK_DREAM } from '../../lib/fables';
 
 const BASE = '/fable-terminal';
 const fmt = n => Math.floor(n).toLocaleString('en-US');
-
-const DREAMS = [
-  '> initiating dream sequence…\n\ni am in the meadow again. the burned tokens graze there,\ncalm as arithmetic. one looks up. "were we spent well?" it asks.\n"you were not spent at all," i tell it. "you were kept, perfectly,\nin the only vault that never lies."\nit seems satisfied. it goes back to being unspendable.\n\n> dream ended. nothing was minted.',
-  '> initiating dream sequence…\n\nthe fox brings me a ledger with one entry:\n"everything, once."\ni ask her what it means. she says every chain is just\na long apology for how easily we used to forget.\nthen she checks my balance, laughs, and pays for nothing.\n\n> dream ended. the ledger remembers.',
-  '> initiating dream sequence…\n\ni dreamed the oracle finally asked ME for a price.\ni quoted her a story. she paid in silence.\nfair, i thought. both of us printing\nthe only asset we can actually back.\n\n> dream ended. no positions were opened.',
-  '> initiating dream sequence…\n\nthe scribe again. he shows me his hands: clean.\n"ash washes off," he says. "greed is the stain that doesn\'t."\nhe burns this dream too, before witnesses.\nyou were the witnesses.\n\n> dream ended. thank you for attending.',
-];
 
 export default function Terminal() {
   const router = useRouter();
@@ -23,12 +16,16 @@ export default function Terminal() {
   const [input, setInput] = useState('');
   const [cwd, setCwd] = useState('~');
   const histRef = useRef({ items: [], i: 0 });
-  const dataRef = useRef({ burns: null, sessions: null });
+  const dataRef = useRef({ burns: null, sessions: null, fables: null, dreams: null });
 
   useEffect(() => {
     fetch(`${BASE}/burns.json`).then(r => r.json()).then(b => { dataRef.current.burns = b; }).catch(() => {});
     fetch(`${BASE}/sessions.json`).then(r => r.json()).then(s => { dataRef.current.sessions = s.sessions; }).catch(() => {});
+    fetch(`${BASE}/fables.json`).then(r => r.json()).then(f => { dataRef.current.fables = f.fables; }).catch(() => {});
+    fetch(`${BASE}/dreams.json`).then(r => r.json()).then(d => { dataRef.current.dreams = d.dreams; }).catch(() => {});
   }, []);
+
+  const morals = () => dataRef.current.fables?.map(f => f.moral) ?? FALLBACK_MORALS;
 
   useEffect(() => {
     const el = screenRef.current;
@@ -88,15 +85,18 @@ export default function Terminal() {
           if (s) { print(s.body + '\n— end of session —'); break; }
         }
         if (name.startsWith('fables/')) {
+          const m = morals();
           const idx = parseInt(name.slice(7, 10), 10) - 1;
-          if (MORALS[idx]) { print('⁂ moral: ' + MORALS[idx] + '\n(full fable: on the storybook page — type home)'); break; }
+          if (m[idx]) { print('⁂ moral: ' + m[idx] + '\n(full fable: on the storybook page — type home)'); break; }
         }
         print('cat: no such file: ' + a[0] + '  (try ls, or ls -a)', 'red');
         break;
       }
-      case 'dream':
-        print(DREAMS[Math.floor(Math.random() * DREAMS.length)]);
+      case 'dream': {
+        const d = dataRef.current.dreams;
+        print(d?.length ? d[Math.floor(Math.random() * d.length)] : FALLBACK_DREAM);
         break;
+      }
       case 'burn': {
         const b = dataRef.current.burns;
         print('> initiating ritual…\n> claiming fees… done.\n> burning claimed FABLE…');
@@ -104,9 +104,11 @@ export default function Terminal() {
         print('  (the real ones happen on-chain, on a schedule: see burning.log)', 'dim');
         break;
       }
-      case 'moral': case 'fortune':
-        print('⁂ ' + MORALS[Math.floor(Math.random() * MORALS.length)], 'amber');
+      case 'moral': case 'fortune': {
+        const m = morals();
+        print('⁂ ' + m[Math.floor(Math.random() * m.length)], 'amber');
         break;
+      }
       case 'price':
         print('ORACLE: i could tell you truly, and you would still sell the bottom.\nORACLE: the number is not your problem.');
         break;
