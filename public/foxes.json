@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 20,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -410,6 +410,21 @@
         "tx": "0xf7d967a9df9721e19b0e39f02688cc360f8f8a5ea458a12547a0593a8e41c025",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 20,
+      "born": "2026-07-24T18:08:01.800Z",
+      "name": "Kit the 20th"
     }
   ]
 }
