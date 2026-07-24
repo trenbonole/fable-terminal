@@ -36,7 +36,14 @@
       "rarity": "common",
       "id": 2,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Wick the 2nd"
+      "name": "Wick the 2nd",
+      "img": "foxes/proc-2.png",
+      "nft": {
+        "tokenId": "2",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xf543718f4123bb5ec1b916c4cc091dfbb58a60371922dd74c012f9180433cfeb",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#9aa0a6",
