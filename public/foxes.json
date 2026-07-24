@@ -578,7 +578,14 @@
       "rarity": "common",
       "id": 27,
       "born": "2026-07-24T21:38:01.646Z",
-      "name": "Marlow the 27th"
+      "name": "Marlow the 27th",
+      "img": "foxes/proc-27.png",
+      "nft": {
+        "tokenId": "28",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0x74f3f3b07f2ee0b3b528770a7d17b87411376d1b6d76ed5ae379960800eada82",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
