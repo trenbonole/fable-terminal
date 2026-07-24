@@ -212,7 +212,14 @@
       "rarity": "rare",
       "id": 10,
       "born": "2026-07-24T13:38:59.044Z",
-      "name": "Cairn the 10th"
+      "name": "Cairn the 10th",
+      "img": "foxes/proc-10.png",
+      "nft": {
+        "tokenId": "10",
+        "owner": "0xf5c4f3dc02c3fb9279495a8fef7b0741da956157",
+        "tx": "0xb840453df3c4a81ca608efc7bc1cdf3b6a1fbe0261277ce801b6de43b0f464e5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "id": 11,
