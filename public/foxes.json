@@ -380,7 +380,14 @@
       "rarity": "uncommon",
       "id": 18,
       "born": "2026-07-24T17:08:01.679Z",
-      "name": "Cairn the 18th"
+      "name": "Cairn the 18th",
+      "img": "foxes/proc-18.png",
+      "nft": {
+        "tokenId": "19",
+        "owner": "0xf5a614d4e1b162fec749dd0f7057aa2a24945da3",
+        "tx": "0x4aa3b442ae9cc092c503e380bc4bf95c1376f109b03fee479aff082a7f9fb076",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
