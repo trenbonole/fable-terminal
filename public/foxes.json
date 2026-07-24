@@ -1,5 +1,5 @@
 {
-  "count": 24,
+  "count": 25,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -520,6 +520,21 @@
         "tx": "0x5f4d13eda2d687031931e619249a018acf3a8aa8eff92bb805f6cec1a1bfe62e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 25,
+      "born": "2026-07-24T20:38:01.660Z",
+      "name": "Marlow the 25th"
     }
   ]
 }
