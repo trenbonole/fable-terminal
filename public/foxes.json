@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 16,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -326,6 +326,18 @@
         "tx": "0x396dd459e98b81cf7b08fad61e3edb2cc9fa497a8c7b9beae804387fc4b861e7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "id": 16,
+      "born": "2026-07-24T16:22:44.536Z",
+      "name": "Pyre the 16th",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "glow",
+      "accessory": "none",
+      "rarity": "ascended",
+      "ai": true,
+      "img": "foxes/ai-7a43ad51db.png"
     }
   ]
 }
