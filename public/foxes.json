@@ -1,5 +1,5 @@
 {
-  "count": 10,
+  "count": 11,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -150,6 +150,18 @@
       "id": 10,
       "born": "2026-07-24T13:38:59.044Z",
       "name": "Cairn the 10th"
+    },
+    {
+      "id": 11,
+      "born": "2026-07-24T14:07:19.911Z",
+      "name": "Hollow the 11th",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "closed",
+      "accessory": "scarf",
+      "rarity": "ascended",
+      "ai": true,
+      "img": "foxes/ai-35641f4b8d.png"
     }
   ]
 }
