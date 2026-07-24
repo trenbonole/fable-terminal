@@ -58,7 +58,14 @@
       "rarity": "rare",
       "id": 3,
       "born": "2026-07-24T13:31:15.135Z",
-      "name": "Kit the 3rd"
+      "name": "Kit the 3rd",
+      "img": "foxes/proc-3.png",
+      "nft": {
+        "tokenId": "3",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xcd61ac70ce42911bfe0d557cf754f12544382d0943f1e69cf74d172c29894cb1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#8f2d2d",
