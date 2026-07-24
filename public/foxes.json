@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 12,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -162,6 +162,21 @@
       "rarity": "ascended",
       "ai": true,
       "img": "foxes/ai-35641f4b8d.png"
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 9,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "legendary",
+      "id": 12,
+      "born": "2026-07-24T14:08:01.549Z",
+      "name": "Ash the 12th"
     }
   ]
 }
