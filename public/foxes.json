@@ -1,5 +1,5 @@
 {
-  "count": 17,
+  "count": 18,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -366,6 +366,21 @@
         "tx": "0xf12fde80070a0940590b6da8bf6ab51b1290ecbd6696464fd9ef3b6ed43b2319",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 18,
+      "born": "2026-07-24T17:08:01.679Z",
+      "name": "Cairn the 18th"
     }
   ]
 }
