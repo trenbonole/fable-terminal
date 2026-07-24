@@ -1,5 +1,5 @@
 {
-  "count": 16,
+  "count": 17,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -344,6 +344,21 @@
         "tx": "0x179c277eb58211172c9c6bfbfe78ef0d48f2e6a88bdb662408a8f93404cb4518",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 17,
+      "born": "2026-07-24T16:38:01.493Z",
+      "name": "Wick the 17th"
     }
   ]
 }
