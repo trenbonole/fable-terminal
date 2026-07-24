@@ -402,7 +402,14 @@
       "rarity": "rare",
       "id": 19,
       "born": "2026-07-24T17:38:01.503Z",
-      "name": "Sorrel the 19th"
+      "name": "Sorrel the 19th",
+      "img": "foxes/proc-19.png",
+      "nft": {
+        "tokenId": "20",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xf7d967a9df9721e19b0e39f02688cc360f8f8a5ea458a12547a0593a8e41c025",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
