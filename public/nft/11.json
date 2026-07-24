@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #11 — Hollow the 11th",
+  "description": "One of the foxes the machine dreams. ascended, one tail, frost fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/ai-35641f4b8d.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "frost"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 1
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "ascended"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "ascended (AI-painted)"
+    }
+  ]
+}

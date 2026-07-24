@@ -231,7 +231,13 @@
       "accessory": "scarf",
       "rarity": "ascended",
       "ai": true,
-      "img": "foxes/ai-35641f4b8d.png"
+      "img": "foxes/ai-35641f4b8d.png",
+      "nft": {
+        "tokenId": "11",
+        "owner": "0xf5a614d4e1b162fec749dd0f7057aa2a24945da3",
+        "tx": "0x3d3ea11f0b3b5bd76a253b84a8a5cfc8c3d9a606669f75d0a767faff0df9c2b8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#a4362f",
