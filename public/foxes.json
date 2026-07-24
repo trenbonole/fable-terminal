@@ -534,7 +534,14 @@
       "rarity": "uncommon",
       "id": 25,
       "born": "2026-07-24T20:38:01.660Z",
-      "name": "Marlow the 25th"
+      "name": "Marlow the 25th",
+      "img": "foxes/proc-25.png",
+      "nft": {
+        "tokenId": "26",
+        "owner": "0xbed9eb3e1cc234eca8663deed21dee57d0de89d2",
+        "tx": "0x1c087a4bfea59de826283ce16b902e58e7067b4d4130f924c39196c46099d013",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
