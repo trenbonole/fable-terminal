@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 27,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -564,6 +564,21 @@
         "tx": "0xe31a30211a8de26f0b2ffe5eaaecaee425fc7d033e64bc3c7d3734d9d671dab9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 27,
+      "born": "2026-07-24T21:38:01.646Z",
+      "name": "Marlow the 27th"
     }
   ]
 }
