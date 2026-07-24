@@ -358,7 +358,14 @@
       "rarity": "uncommon",
       "id": 17,
       "born": "2026-07-24T16:38:01.493Z",
-      "name": "Wick the 17th"
+      "name": "Wick the 17th",
+      "img": "foxes/proc-17.png",
+      "nft": {
+        "tokenId": "18",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xf12fde80070a0940590b6da8bf6ab51b1290ecbd6696464fd9ef3b6ed43b2319",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
