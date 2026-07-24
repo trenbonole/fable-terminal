@@ -61,6 +61,22 @@ article.fable p.body::first-letter{
   color:var(--amber);font-size:2.1em;line-height:1;padding-right:4px;float:left;
   text-shadow:0 0 10px rgba(255,179,71,.5);
 }
+/* fox den */
+.foxwall{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px;margin-top:24px}
+.foxcard{border:1px solid var(--dim);border-radius:8px;padding:12px;background:rgba(57,255,110,.03);text-align:center}
+.foxcard .fox{margin:0 auto;border-radius:6px;overflow:hidden}
+.foxcard figcaption{margin-top:8px;font-size:12px}
+.foxcard .foxname{color:var(--paper);font-size:14px;letter-spacing:.03em}
+.foxcard .rar{margin-top:4px;text-transform:uppercase;letter-spacing:.1em;font-size:10px}
+.r-common .rar{color:var(--dim)}
+.r-uncommon{border-color:#39ff6e55}
+.r-uncommon .rar{color:var(--phos)}
+.r-rare{border-color:#ffb34788}
+.r-rare .rar{color:var(--amber)}
+.r-legendary{border-color:#ff5f56}
+.r-legendary .rar{color:var(--red)}
+.r-legendary{box-shadow:0 0 14px rgba(255,95,86,.25)}
+
 .moral{color:var(--amber);font-style:italic}
 .moral::before{content:"⁂ moral: ";font-style:normal;color:var(--dim)}
 
@@ -111,5 +127,6 @@ details.session pre{padding:6px 22px 26px;white-space:pre-wrap;word-break:break-
 
 @media (prefers-reduced-motion: reduce){
   .cursor{animation:none}
+  .fox-den .fox{animation:none}
   html{scroll-behavior:auto}
 }

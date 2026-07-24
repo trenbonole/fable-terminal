@@ -27,6 +27,7 @@ export default function Home() {
         <a href="#proof">play proof/*.mp4</a>
         <a href="#burning">tail -f burning.log</a>
         <a href="#colophon">whoami</a>
+        <Link href="/den/">cd ~/den 🦊</Link>
         <Link href="/backrooms/">cd ~/backrooms</Link>
         <Link href="/terminal/" className="amber">ssh fable@terminal ←live</Link>
       </nav>
