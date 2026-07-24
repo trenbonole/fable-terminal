@@ -1,5 +1,5 @@
 {
-  "count": 22,
+  "count": 23,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -476,6 +476,21 @@
         "tx": "0x44c3897bc18a6aba3a3e97a086e28af14de23242f9d7484a9500f7c50360a7e1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 23,
+      "born": "2026-07-24T19:38:01.807Z",
+      "name": "Kit the 23rd"
     }
   ]
 }
