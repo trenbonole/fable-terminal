@@ -640,7 +640,14 @@
       "rarity": "uncommon",
       "id": 30,
       "born": "2026-07-24T22:38:01.643Z",
-      "name": "Ember the 30th"
+      "name": "Ember the 30th",
+      "img": "foxes/proc-30.png",
+      "nft": {
+        "tokenId": "31",
+        "owner": "0x15dce43bc15adf64e4c2a0df0b5561728568ebde",
+        "tx": "0xab3ee039a61774601afc1e94e017b15a664a33c7457e9c9687445f6c08aaf873",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
