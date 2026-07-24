@@ -190,7 +190,14 @@
       "rarity": "common",
       "id": 9,
       "born": "2026-07-24T13:38:01.583Z",
-      "name": "Sable the 9th"
+      "name": "Sable the 9th",
+      "img": "foxes/proc-9.png",
+      "nft": {
+        "tokenId": "9",
+        "owner": "0x86c077bb3b57e4de5ce33f498dee889ec6087e90",
+        "tx": "0xc0adabe86f6d8cb12a53fd3938ed67932ca741ede462122e0be10ff00dfa26fc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     },
     {
       "fur": "#4b2e83",
