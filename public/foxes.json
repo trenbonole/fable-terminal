@@ -1,5 +1,5 @@
 {
-  "count": 13,
+  "count": 14,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -282,6 +282,21 @@
         "tx": "0x0a6f69ae3c04714586ba7a400ed603a2cc22d40813ea31dc4bcbbe6d7c808948",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 14,
+      "born": "2026-07-24T15:08:01.507Z",
+      "name": "Sable the 14th"
     }
   ]
 }
