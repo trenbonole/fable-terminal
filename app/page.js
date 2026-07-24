@@ -48,7 +48,7 @@ export default function Home() {
           <div>explorer</div><div><a href={`${COIN.explorer}/token/${COIN.token}`} target="_blank" rel="noopener noreferrer">blockscout ↗</a></div>
           <div>launchpad</div><div><a href="https://docs.ponsfamily.com/" target="_blank" rel="noopener noreferrer">pons ↗</a></div>
           <div>the account</div><div><a href="https://x.com/FableDreaming" target="_blank" rel="noopener noreferrer">@FableDreaming ↗</a> <span className="dim">(the machine, automated · managed by <a href="https://x.com/trenbonole" target="_blank" rel="noopener noreferrer">@trenbonole</a>)</span></div>
-          <div>launch tweet</div><div><a href="https://x.com/_TheFablee/status/2080462686807019981" target="_blank" rel="noopener noreferrer">the origin post ↗</a></div>
+          <div>launch tweet</div><div><a href="https://x.com/trenbonole/status/2080497969166447051" target="_blank" rel="noopener noreferrer">the origin post ↗</a></div>
         </div>
       </section>
 
