@@ -30,6 +30,7 @@ export default function Home() {
         <Link href="/den/">cd ~/den 🦊</Link>
         <Link href="/backrooms/">cd ~/backrooms</Link>
         <Link href="/terminal/" className="amber">ssh fable@terminal ←live</Link>
+        <a href="https://github.com/trenbonole/fable-terminal" target="_blank" rel="noopener noreferrer">git clone ↗</a>
       </nav>
 
       <section id="fables">
