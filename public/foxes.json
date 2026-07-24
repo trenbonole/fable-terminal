@@ -1,5 +1,5 @@
 {
-  "count": 8,
+  "count": 9,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -120,6 +120,21 @@
       "id": 8,
       "born": "2026-07-24T13:31:15.135Z",
       "name": "Wick the 8th"
+    },
+    {
+      "fur": "#4b2e83",
+      "belly": "#d9cbff",
+      "accent": "#b79bff",
+      "palette": "void",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 9,
+      "born": "2026-07-24T13:38:01.583Z",
+      "name": "Sable the 9th"
     }
   ]
 }
