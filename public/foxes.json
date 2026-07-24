@@ -1,5 +1,5 @@
 {
-  "count": 29,
+  "count": 30,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -626,6 +626,21 @@
         "tx": "0x5debb8ade10ae460a3a6a4f8b72713b4c80283a626c223dde69bf6be186fe3cf",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 30,
+      "born": "2026-07-24T22:38:01.643Z",
+      "name": "Ember the 30th"
     }
   ]
 }
