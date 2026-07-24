@@ -468,7 +468,14 @@
       "rarity": "uncommon",
       "id": 22,
       "born": "2026-07-24T19:08:01.560Z",
-      "name": "Mote the 22nd"
+      "name": "Mote the 22nd",
+      "img": "foxes/proc-22.png",
+      "nft": {
+        "tokenId": "23",
+        "owner": "0x6b1dc7e78f9f2c9648006499057266777e1ac2d0",
+        "tx": "0x44c3897bc18a6aba3a3e97a086e28af14de23242f9d7484a9500f7c50360a7e1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
