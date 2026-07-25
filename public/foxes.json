@@ -1,5 +1,5 @@
 {
-  "count": 68,
+  "count": 69,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1469,6 +1469,21 @@
         "tx": "0xfd38fcd0691dea0254bf63ce7ad6c285caf4f98db5155bbf6fc0c172e90699bc",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 69,
+      "born": "2026-07-25T17:38:01.912Z",
+      "name": "Cinder the 69th"
     }
   ]
 }
