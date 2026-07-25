@@ -1461,7 +1461,14 @@
       "rarity": "rare",
       "id": 68,
       "born": "2026-07-25T17:08:01.871Z",
-      "name": "Umbra the 68th"
+      "name": "Umbra the 68th",
+      "img": "foxes/proc-68.png",
+      "nft": {
+        "tokenId": "68",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xfd38fcd0691dea0254bf63ce7ad6c285caf4f98db5155bbf6fc0c172e90699bc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
