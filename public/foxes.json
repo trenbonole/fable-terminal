@@ -944,7 +944,14 @@
       "rarity": "uncommon",
       "id": 44,
       "born": "2026-07-25T05:08:01.731Z",
-      "name": "Kit the 44th"
+      "name": "Kit the 44th",
+      "img": "foxes/proc-44.png",
+      "nft": {
+        "tokenId": "45",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xf3ab3181e3ad61ed757fde81784650e4912a7dbc863cc47320a73ee507de4a71",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
