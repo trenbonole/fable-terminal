@@ -1,5 +1,5 @@
 {
-  "count": 70,
+  "count": 71,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1513,6 +1513,21 @@
         "tx": "0x403c2b6e725fc86374d56008f03cd5ffce948ab588fdb5bb8880e9aad3519ae2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 71,
+      "born": "2026-07-25T18:38:01.934Z",
+      "name": "Pyre the 71st"
     }
   ]
 }
