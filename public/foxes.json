@@ -1,5 +1,5 @@
 {
-  "count": 55,
+  "count": 56,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1190,6 +1190,21 @@
         "tx": "0x14a992e6b82b6e229c63102c516298da4d6410c142b118aaeef11eee0efb8f45",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 56,
+      "born": "2026-07-25T10:38:01.842Z",
+      "name": "Ember the 56th"
     }
   ]
 }
