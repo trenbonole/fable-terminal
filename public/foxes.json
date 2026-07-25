@@ -1,5 +1,5 @@
 {
-  "count": 62,
+  "count": 63,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1344,6 +1344,21 @@
         "tx": "0x2e4c27f9341b33da774a9fc78366edc640c42bddc2b968e243dec4c3fe5d2c46",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 63,
+      "born": "2026-07-25T14:08:01.809Z",
+      "name": "Marlow the 63rd"
     }
   ]
 }
