@@ -1703,7 +1703,14 @@
       "rarity": "rare",
       "id": 79,
       "born": "2026-07-25T23:54:37.392Z",
-      "name": "Hollow the 79th"
+      "name": "Hollow the 79th",
+      "img": "foxes/proc-79.png",
+      "nft": {
+        "tokenId": "79",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0x91f4f1015e7280f681623981a1cfd00d1971b6a9a431acd4e3d82a29ad015168",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
