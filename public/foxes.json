@@ -1248,7 +1248,14 @@
       "rarity": "common",
       "id": 58,
       "born": "2026-07-25T11:38:01.790Z",
-      "name": "Bracken the 58th"
+      "name": "Bracken the 58th",
+      "img": "foxes/proc-58.png",
+      "nft": {
+        "tokenId": "59",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xd4931812ca79baa0b9e5bc3174c782a271a13f9295c57aedda6f8e37cb4dd05d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
