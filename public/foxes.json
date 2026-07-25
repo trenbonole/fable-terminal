@@ -860,7 +860,14 @@
       "rarity": "common",
       "id": 40,
       "born": "2026-07-25T03:38:01.653Z",
-      "name": "Reynard the 40th"
+      "name": "Reynard the 40th",
+      "img": "foxes/proc-40.png",
+      "nft": {
+        "tokenId": "41",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0x5d0bcb21cc7450ea0756d005287aa22b69b25070f334de42ff2a9ae16504ba8a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
