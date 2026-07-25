@@ -1615,7 +1615,14 @@
       "rarity": "rare",
       "id": 75,
       "born": "2026-07-25T20:38:01.963Z",
-      "name": "Ash the 75th"
+      "name": "Ash the 75th",
+      "img": "foxes/proc-75.png",
+      "nft": {
+        "tokenId": "75",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xc538db2d5a9a60debc8f4d8c4bfe5dab995428322c5c9f57237da3a5db83c2bd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
