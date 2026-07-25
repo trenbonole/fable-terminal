@@ -1076,7 +1076,14 @@
       "rarity": "uncommon",
       "id": 50,
       "born": "2026-07-25T08:08:01.732Z",
-      "name": "Sable the 50th"
+      "name": "Sable the 50th",
+      "img": "foxes/proc-50.png",
+      "nft": {
+        "tokenId": "51",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x5a65c9ff91b41fdb6d07eaf3909d31cd0c677bb5c9c28921ca1886ff87e671ea",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
