@@ -1142,7 +1142,14 @@
       "rarity": "uncommon",
       "id": 53,
       "born": "2026-07-25T09:55:34.040Z",
-      "name": "Marlow the 53rd"
+      "name": "Marlow the 53rd",
+      "img": "foxes/proc-53.png",
+      "nft": {
+        "tokenId": "54",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x923a8db905905ded860b472914320a63744a6450d304e61a24587eb961b71d6c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
