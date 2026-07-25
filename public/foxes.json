@@ -1,5 +1,5 @@
 {
-  "count": 37,
+  "count": 38,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -802,6 +802,21 @@
         "tx": "0x46e6bb11c6e7dd2424b4c5be6a099aa3185ada006ad40893fb1cf10f00a47bc2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 38,
+      "born": "2026-07-25T02:38:01.618Z",
+      "name": "Kit the 38th"
     }
   ]
 }
