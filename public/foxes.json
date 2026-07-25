@@ -1,5 +1,5 @@
 {
-  "count": 76,
+  "count": 77,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1645,6 +1645,21 @@
         "tx": "0x53f434b3521aa4ca87c2c476f077c1c1e28572d0e15ab93c085396964d2d21f3",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 77,
+      "born": "2026-07-25T21:38:01.976Z",
+      "name": "Tod the 77th"
     }
   ]
 }
