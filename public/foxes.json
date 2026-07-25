@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 34,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -714,6 +714,21 @@
         "tx": "0x955f72aabf87ab50bc4fc1ac0d65425441927d52a7cd4ad15d44b4f194ba4ea6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 34,
+      "born": "2026-07-25T00:38:01.631Z",
+      "name": "Bracken the 34th"
     }
   ]
 }
