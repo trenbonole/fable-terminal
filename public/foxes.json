@@ -1226,7 +1226,14 @@
       "rarity": "rare",
       "id": 57,
       "born": "2026-07-25T11:08:01.790Z",
-      "name": "Reynard the 57th"
+      "name": "Reynard the 57th",
+      "img": "foxes/proc-57.png",
+      "nft": {
+        "tokenId": "58",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0xd81751e47433fd0d1e59ba44e7781b54a71b55dd23cdb90384ff2368bae2c898",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
