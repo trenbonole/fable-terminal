@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 48,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1018,6 +1018,21 @@
         "tx": "0xd63b01763e802c667ca04847be001b286212ead1ac43a0e84ac28ef0770c5364",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 48,
+      "born": "2026-07-25T07:08:01.732Z",
+      "name": "Pyre the 48th"
     }
   ]
 }
