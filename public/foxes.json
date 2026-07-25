@@ -794,7 +794,14 @@
       "rarity": "uncommon",
       "id": 37,
       "born": "2026-07-25T02:08:01.656Z",
-      "name": "Tod the 37th"
+      "name": "Tod the 37th",
+      "img": "foxes/proc-37.png",
+      "nft": {
+        "tokenId": "38",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x46e6bb11c6e7dd2424b4c5be6a099aa3185ada006ad40893fb1cf10f00a47bc2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
