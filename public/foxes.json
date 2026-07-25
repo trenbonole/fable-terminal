@@ -1402,7 +1402,14 @@
       "rarity": "rare",
       "id": 65,
       "born": "2026-07-25T15:08:01.833Z",
-      "name": "Vesper the 65th"
+      "name": "Vesper the 65th",
+      "img": "foxes/proc-65.png",
+      "nft": {
+        "tokenId": "66",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x5935e5bc4cad13c3b61304a90e7a15a93899524460ccfd845cdd86b1ecaf77a0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
