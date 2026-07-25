@@ -1,5 +1,5 @@
 {
-  "count": 49,
+  "count": 50,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1062,6 +1062,21 @@
         "tx": "0xe55970cfd030c72ab66327d26148db8f37e15f65424257d38e790d3b1051203d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 50,
+      "born": "2026-07-25T08:08:01.732Z",
+      "name": "Sable the 50th"
     }
   ]
 }
