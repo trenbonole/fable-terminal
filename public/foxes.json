@@ -1549,7 +1549,14 @@
       "rarity": "common",
       "id": 72,
       "born": "2026-07-25T19:08:01.936Z",
-      "name": "Pyre the 72nd"
+      "name": "Pyre the 72nd",
+      "img": "foxes/proc-72.png",
+      "nft": {
+        "tokenId": "72",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x484d0f48b393014a7c97bbd90ccea55d221e7ee14db561f9ae5925f5109c9e2b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
