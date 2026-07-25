@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 37,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -780,6 +780,21 @@
         "tx": "0x2f2d8432d1752e95d1ae750e86dfa246b48c685faa77bb6dc9612b56da31f41b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 37,
+      "born": "2026-07-25T02:08:01.656Z",
+      "name": "Tod the 37th"
     }
   ]
 }
