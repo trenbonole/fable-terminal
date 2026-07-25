@@ -1054,7 +1054,14 @@
       "rarity": "common",
       "id": 49,
       "born": "2026-07-25T07:38:01.690Z",
-      "name": "Pyre the 49th"
+      "name": "Pyre the 49th",
+      "img": "foxes/proc-49.png",
+      "nft": {
+        "tokenId": "50",
+        "owner": "0xe7fe37e68532490c2014b0337153caa6d23b8070",
+        "tx": "0xe55970cfd030c72ab66327d26148db8f37e15f65424257d38e790d3b1051203d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
