@@ -1098,7 +1098,14 @@
       "rarity": "uncommon",
       "id": 51,
       "born": "2026-07-25T08:38:01.693Z",
-      "name": "Kit the 51st"
+      "name": "Kit the 51st",
+      "img": "foxes/proc-51.png",
+      "nft": {
+        "tokenId": "52",
+        "owner": "0x8c70822caa1b65a2bee0d4c954e203d846b2998b",
+        "tx": "0x3723c8aab9a1c1bd13f3ff0f26c29a39779baac4ddf95da521d74b7d02844baa",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
