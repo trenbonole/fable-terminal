@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 41,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -868,6 +868,21 @@
         "tx": "0x5d0bcb21cc7450ea0756d005287aa22b69b25070f334de42ff2a9ae16504ba8a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 41,
+      "born": "2026-07-25T04:08:01.742Z",
+      "name": "Pyre the 41st"
     }
   ]
 }
