@@ -1483,7 +1483,14 @@
       "rarity": "uncommon",
       "id": 69,
       "born": "2026-07-25T17:38:01.912Z",
-      "name": "Cinder the 69th"
+      "name": "Cinder the 69th",
+      "img": "foxes/proc-69.png",
+      "nft": {
+        "tokenId": "69",
+        "owner": "0xd299648e2caa4fbaf5d4437d7507bf6daf4ad788",
+        "tx": "0x97608abcdbc6d303a7bbde109ddf074e3d8557faa5ed6080afc31556735c4a24",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
