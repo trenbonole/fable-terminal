@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 36,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -758,6 +758,21 @@
         "tx": "0xabbe5047811258bb62facf71ff6c5ea4ecb7c3b83c520546939b77f4ea06cb6c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 36,
+      "born": "2026-07-25T01:38:01.753Z",
+      "name": "Bracken the 36th"
     }
   ]
 }
