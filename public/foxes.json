@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 42,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -890,6 +890,18 @@
         "tx": "0xe8d49569a4fb46a07753b083342e87851d6318f5532c25a2d1635cf29e37f3b8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "id": 42,
+      "born": "2026-07-25T04:22:47.143Z",
+      "name": "Fennec the 42nd",
+      "palette": "phosphor",
+      "tails": 5,
+      "eyes": "round",
+      "accessory": "none",
+      "rarity": "ascended",
+      "ai": true,
+      "img": "foxes/ai-22617a8627.png"
     }
   ]
 }
