@@ -838,7 +838,14 @@
       "rarity": "uncommon",
       "id": 39,
       "born": "2026-07-25T03:08:01.649Z",
-      "name": "Vesper the 39th"
+      "name": "Vesper the 39th",
+      "img": "foxes/proc-39.png",
+      "nft": {
+        "tokenId": "40",
+        "owner": "0x0027a737448c41947b257eda33034dd152762ca2",
+        "tx": "0x0257a4f5ce6344fc0e7e6534d82513385dbf068bdec632185e193ab4a78f8138",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
