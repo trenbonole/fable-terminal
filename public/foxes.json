@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 76,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1623,6 +1623,21 @@
         "tx": "0xc538db2d5a9a60debc8f4d8c4bfe5dab995428322c5c9f57237da3a5db83c2bd",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 76,
+      "born": "2026-07-25T21:08:02.027Z",
+      "name": "Fennec the 76th"
     }
   ]
 }
