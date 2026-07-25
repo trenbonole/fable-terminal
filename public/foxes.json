@@ -1571,7 +1571,14 @@
       "rarity": "rare",
       "id": 73,
       "born": "2026-07-25T19:38:01.950Z",
-      "name": "Cairn the 73rd"
+      "name": "Cairn the 73rd",
+      "img": "foxes/proc-73.png",
+      "nft": {
+        "tokenId": "73",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0x364132345a20db663e36ad212f836abea02935990f9dc942ea8f6849234038f6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
