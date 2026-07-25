@@ -1,5 +1,5 @@
 {
-  "count": 43,
+  "count": 44,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -930,6 +930,21 @@
         "tx": "0x39cc98574c5b0ba3326b6d7a8320ccded10b2466f797b04acecb6fca7ff4690b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 44,
+      "born": "2026-07-25T05:08:01.731Z",
+      "name": "Kit the 44th"
     }
   ]
 }
