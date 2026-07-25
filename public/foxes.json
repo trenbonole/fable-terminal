@@ -1380,7 +1380,14 @@
       "rarity": "common",
       "id": 64,
       "born": "2026-07-25T14:38:01.835Z",
-      "name": "Cinder the 64th"
+      "name": "Cinder the 64th",
+      "img": "foxes/proc-64.png",
+      "nft": {
+        "tokenId": "65",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0x6221c2d1054292ca359c6a6a19a982ed6740b7d8e531a51ef181f503c5781d62",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
