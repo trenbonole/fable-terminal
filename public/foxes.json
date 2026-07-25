@@ -1,5 +1,5 @@
 {
-  "count": 74,
+  "count": 75,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1601,6 +1601,21 @@
         "tx": "0xaa7d0cb9c396a68367d8501ef40bdc9e3e100a8fd57f3425b01b981c63161917",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 75,
+      "born": "2026-07-25T20:38:01.963Z",
+      "name": "Ash the 75th"
     }
   ]
 }
