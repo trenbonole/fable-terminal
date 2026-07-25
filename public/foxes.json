@@ -1,5 +1,5 @@
 {
-  "count": 53,
+  "count": 54,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1150,6 +1150,21 @@
         "tx": "0x923a8db905905ded860b472914320a63744a6450d304e61a24587eb961b71d6c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 54,
+      "born": "2026-07-25T10:08:01.794Z",
+      "name": "Umbra the 54th"
     }
   ]
 }
