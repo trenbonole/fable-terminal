@@ -750,7 +750,14 @@
       "rarity": "common",
       "id": 35,
       "born": "2026-07-25T01:08:01.645Z",
-      "name": "Wick the 35th"
+      "name": "Wick the 35th",
+      "img": "foxes/proc-35.png",
+      "nft": {
+        "tokenId": "36",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0xabbe5047811258bb62facf71ff6c5ea4ecb7c3b83c520546939b77f4ea06cb6c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
