@@ -1,5 +1,5 @@
 {
-  "count": 73,
+  "count": 74,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1579,6 +1579,21 @@
         "tx": "0x364132345a20db663e36ad212f836abea02935990f9dc942ea8f6849234038f6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 74,
+      "born": "2026-07-25T20:08:01.944Z",
+      "name": "Hollow the 74th"
     }
   ]
 }
