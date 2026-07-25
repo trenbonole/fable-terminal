@@ -1593,7 +1593,14 @@
       "rarity": "uncommon",
       "id": 74,
       "born": "2026-07-25T20:08:01.944Z",
-      "name": "Hollow the 74th"
+      "name": "Hollow the 74th",
+      "img": "foxes/proc-74.png",
+      "nft": {
+        "tokenId": "74",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0xaa7d0cb9c396a68367d8501ef40bdc9e3e100a8fd57f3425b01b981c63161917",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
