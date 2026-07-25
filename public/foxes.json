@@ -882,7 +882,14 @@
       "rarity": "common",
       "id": 41,
       "born": "2026-07-25T04:08:01.742Z",
-      "name": "Pyre the 41st"
+      "name": "Pyre the 41st",
+      "img": "foxes/proc-41.png",
+      "nft": {
+        "tokenId": "42",
+        "owner": "0x0bd25aaf269cb40d023be6c80ab5c8cd08746935",
+        "tx": "0xe8d49569a4fb46a07753b083342e87851d6318f5532c25a2d1635cf29e37f3b8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
