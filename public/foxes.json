@@ -1,5 +1,5 @@
 {
-  "count": 59,
+  "count": 60,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1278,6 +1278,21 @@
         "tx": "0x93d9a694f738f0154b510805967238a2f485b646b294a80a2d712709b9b5e562",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 60,
+      "born": "2026-07-25T12:38:01.886Z",
+      "name": "Tod the 60th"
     }
   ]
 }
