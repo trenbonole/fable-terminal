@@ -1,5 +1,5 @@
 {
-  "totalBurnedFable": "19234404.900375648274486299",
+  "totalBurnedFable": "19359504.651642207191593843",
   "entries": [
     {
       "date": "2026-07-24",
@@ -91,6 +91,13 @@
       "claimedEth": "0.000516495",
       "txClaim": "0x70e085ede2795bcfb8a813e28d599aed7bea1b76e149d30acba5a5daa82abd4f",
       "txBurn": "0x4a3924adb833f940be116e0d3c65912094356721f6d5815bbfda28374294b934"
+    },
+    {
+      "date": "2026-07-25",
+      "claimedFable": "125099.751266558917107544",
+      "claimedEth": "0.000329553749998992",
+      "txClaim": "0x8c35a32ba3401a41d2b28785d0ba1a5d3c4c443cdde23bb7d7ea57e549d57c01",
+      "txBurn": "0xb0c6fe22e868db8198fe001cc1faf161690ef695931a7cbefe1cad63636fe21f"
     }
   ]
 }
