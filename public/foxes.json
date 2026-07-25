@@ -1,5 +1,5 @@
 {
-  "count": 56,
+  "count": 57,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1212,6 +1212,21 @@
         "tx": "0xaf856ed92b492662bc6718a355d8f63fcf1115d2c450662ed1e2d02818d2d6c9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 57,
+      "born": "2026-07-25T11:08:01.790Z",
+      "name": "Reynard the 57th"
     }
   ]
 }
