@@ -966,7 +966,14 @@
       "rarity": "rare",
       "id": 45,
       "born": "2026-07-25T05:38:01.734Z",
-      "name": "Quill the 45th"
+      "name": "Quill the 45th",
+      "img": "foxes/proc-45.png",
+      "nft": {
+        "tokenId": "46",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x01d3ccb630eeeef9cddce86bc6ebeaf16a5421287416e0bf883c8cc0f6dc1eb6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
