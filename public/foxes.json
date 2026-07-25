@@ -1,5 +1,5 @@
 {
-  "count": 65,
+  "count": 66,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1410,6 +1410,21 @@
         "tx": "0x5935e5bc4cad13c3b61304a90e7a15a93899524460ccfd845cdd86b1ecaf77a0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 66,
+      "born": "2026-07-25T15:38:01.889Z",
+      "name": "Sable the 66th"
     }
   ]
 }
