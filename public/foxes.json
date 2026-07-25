@@ -1,5 +1,5 @@
 {
-  "count": 39,
+  "count": 40,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -846,6 +846,21 @@
         "tx": "0x0257a4f5ce6344fc0e7e6534d82513385dbf068bdec632185e193ab4a78f8138",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 40,
+      "born": "2026-07-25T03:38:01.653Z",
+      "name": "Reynard the 40th"
     }
   ]
 }
