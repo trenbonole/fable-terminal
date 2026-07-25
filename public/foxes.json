@@ -1424,7 +1424,14 @@
       "rarity": "uncommon",
       "id": 66,
       "born": "2026-07-25T15:38:01.889Z",
-      "name": "Sable the 66th"
+      "name": "Sable the 66th",
+      "img": "foxes/proc-66.png",
+      "nft": {
+        "tokenId": "67",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0xb625d02b64f3a3ca45634b093af2ae660baf6334c06f358619c67c39a9d3619e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
