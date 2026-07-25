@@ -816,7 +816,14 @@
       "rarity": "rare",
       "id": 38,
       "born": "2026-07-25T02:38:01.618Z",
-      "name": "Kit the 38th"
+      "name": "Kit the 38th",
+      "img": "foxes/proc-38.png",
+      "nft": {
+        "tokenId": "39",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x001611dd2acbfbe43ba5bc03b03186f1a4d6094ac37fd1cb452be09f5e01f31b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
