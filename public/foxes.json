@@ -1010,7 +1010,14 @@
       "rarity": "uncommon",
       "id": 47,
       "born": "2026-07-25T06:38:01.688Z",
-      "name": "Ash the 47th"
+      "name": "Ash the 47th",
+      "img": "foxes/proc-47.png",
+      "nft": {
+        "tokenId": "48",
+        "owner": "0xd299648e2caa4fbaf5d4437d7507bf6daf4ad788",
+        "tx": "0xd63b01763e802c667ca04847be001b286212ead1ac43a0e84ac28ef0770c5364",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
