@@ -1,5 +1,5 @@
 {
-  "count": 44,
+  "count": 45,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -952,6 +952,21 @@
         "tx": "0xf3ab3181e3ad61ed757fde81784650e4912a7dbc863cc47320a73ee507de4a71",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 5,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 45,
+      "born": "2026-07-25T05:38:01.734Z",
+      "name": "Quill the 45th"
     }
   ]
 }
