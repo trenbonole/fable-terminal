@@ -1,5 +1,5 @@
 {
-  "count": 57,
+  "count": 58,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1234,6 +1234,21 @@
         "tx": "0xd81751e47433fd0d1e59ba44e7781b54a71b55dd23cdb90384ff2368bae2c898",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 58,
+      "born": "2026-07-25T11:38:01.790Z",
+      "name": "Bracken the 58th"
     }
   ]
 }
