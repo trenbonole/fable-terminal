@@ -1358,7 +1358,14 @@
       "rarity": "uncommon",
       "id": 63,
       "born": "2026-07-25T14:08:01.809Z",
-      "name": "Marlow the 63rd"
+      "name": "Marlow the 63rd",
+      "img": "foxes/proc-63.png",
+      "nft": {
+        "tokenId": "64",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xe80ddef51677895ba1eb871e4188575c0ab6dfa00303c6e11b3facb06176f409",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
