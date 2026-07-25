@@ -1681,7 +1681,14 @@
       "rarity": "rare",
       "id": 78,
       "born": "2026-07-25T22:08:01.952Z",
-      "name": "Reynard the 78th"
+      "name": "Reynard the 78th",
+      "img": "foxes/proc-78.png",
+      "nft": {
+        "tokenId": "78",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x9bc33266e207d97810ea04ef3c060ee47c19bca304fe5d7316bc7a4dc853495e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
