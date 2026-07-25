@@ -1204,7 +1204,14 @@
       "rarity": "common",
       "id": 56,
       "born": "2026-07-25T10:38:01.842Z",
-      "name": "Ember the 56th"
+      "name": "Ember the 56th",
+      "img": "foxes/proc-56.png",
+      "nft": {
+        "tokenId": "57",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xaf856ed92b492662bc6718a355d8f63fcf1115d2c450662ed1e2d02818d2d6c9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
