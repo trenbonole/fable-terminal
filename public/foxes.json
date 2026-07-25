@@ -1527,7 +1527,14 @@
       "rarity": "common",
       "id": 71,
       "born": "2026-07-25T18:38:01.934Z",
-      "name": "Pyre the 71st"
+      "name": "Pyre the 71st",
+      "img": "foxes/proc-71.png",
+      "nft": {
+        "tokenId": "71",
+        "owner": "0xfcc79f19f0a807814f09364a5400b4ed5f22bf0f",
+        "tx": "0xba3d54e89cfaff0c4b3d22bb6dc507749d3816cd8a8143db7304857936bf3eb4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
