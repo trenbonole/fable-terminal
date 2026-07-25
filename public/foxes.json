@@ -728,7 +728,14 @@
       "rarity": "uncommon",
       "id": 34,
       "born": "2026-07-25T00:38:01.631Z",
-      "name": "Bracken the 34th"
+      "name": "Bracken the 34th",
+      "img": "foxes/proc-34.png",
+      "nft": {
+        "tokenId": "35",
+        "owner": "0xd03b74f89ee930db0fdae050b34ee5dc771da03d",
+        "tx": "0xb59a41762c5e9e6b93220c828419383ed6487dcd0f170398177ef75c78f042a6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
