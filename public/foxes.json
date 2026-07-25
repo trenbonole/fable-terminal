@@ -1,5 +1,5 @@
 {
-  "count": 67,
+  "count": 68,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1447,6 +1447,21 @@
       "id": 67,
       "born": "2026-07-25T16:59:33.102Z",
       "name": "Pyre the 67th"
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 68,
+      "born": "2026-07-25T17:08:01.871Z",
+      "name": "Umbra the 68th"
     }
   ]
 }
