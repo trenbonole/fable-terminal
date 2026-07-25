@@ -1120,7 +1120,14 @@
       "rarity": "uncommon",
       "id": 52,
       "born": "2026-07-25T09:08:01.798Z",
-      "name": "Umbra the 52nd"
+      "name": "Umbra the 52nd",
+      "img": "foxes/proc-52.png",
+      "nft": {
+        "tokenId": "53",
+        "owner": "0x3391a39a1b508e54a361924a26056c01c1c2c07d",
+        "tx": "0x06dad4e24fc33378d42198b525ad4fac92083f2c5826b753f0f6f91c4c1bbe0f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
