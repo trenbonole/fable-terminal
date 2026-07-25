@@ -922,7 +922,14 @@
       "rarity": "rare",
       "id": 43,
       "born": "2026-07-25T04:38:01.689Z",
-      "name": "Kit the 43rd"
+      "name": "Kit the 43rd",
+      "img": "foxes/proc-43.png",
+      "nft": {
+        "tokenId": "44",
+        "owner": "0x05c5f6c9996c75efff9c4b7cfc89096e8e07dda2",
+        "tx": "0x39cc98574c5b0ba3326b6d7a8320ccded10b2466f797b04acecb6fca7ff4690b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
