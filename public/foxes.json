@@ -1292,7 +1292,14 @@
       "rarity": "common",
       "id": 60,
       "born": "2026-07-25T12:38:01.886Z",
-      "name": "Tod the 60th"
+      "name": "Tod the 60th",
+      "img": "foxes/proc-60.png",
+      "nft": {
+        "tokenId": "61",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x8fd82053320fca18579794ebbde3429f6259e5dfdbfd3480b39459c8fb73e482",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
