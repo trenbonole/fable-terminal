@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 43,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -908,6 +908,21 @@
         "tx": "0x50a98ae3eaccbbfc0560c2fb93089ee08ded13e0cb294e7ce291e6eb2ca9ba6e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 43,
+      "born": "2026-07-25T04:38:01.689Z",
+      "name": "Kit the 43rd"
     }
   ]
 }
