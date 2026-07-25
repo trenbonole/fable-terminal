@@ -706,7 +706,14 @@
       "rarity": "common",
       "id": 33,
       "born": "2026-07-25T00:08:01.566Z",
-      "name": "Umbra the 33rd"
+      "name": "Umbra the 33rd",
+      "img": "foxes/proc-33.png",
+      "nft": {
+        "tokenId": "34",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x955f72aabf87ab50bc4fc1ac0d65425441927d52a7cd4ad15d44b4f194ba4ea6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
