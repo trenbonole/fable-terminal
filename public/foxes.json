@@ -772,7 +772,14 @@
       "rarity": "common",
       "id": 36,
       "born": "2026-07-25T01:38:01.753Z",
-      "name": "Bracken the 36th"
+      "name": "Bracken the 36th",
+      "img": "foxes/proc-36.png",
+      "nft": {
+        "tokenId": "37",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x2f2d8432d1752e95d1ae750e86dfa246b48c685faa77bb6dc9612b56da31f41b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
