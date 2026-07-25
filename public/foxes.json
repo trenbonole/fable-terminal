@@ -988,7 +988,14 @@
       "rarity": "common",
       "id": 46,
       "born": "2026-07-25T06:08:01.703Z",
-      "name": "Ash the 46th"
+      "name": "Ash the 46th",
+      "img": "foxes/proc-46.png",
+      "nft": {
+        "tokenId": "47",
+        "owner": "0xe7fe37e68532490c2014b0337153caa6d23b8070",
+        "tx": "0x117abfb5beee52a2c3921edbecb0a71e9f343d5e781e4c49c4dfa703dd8c4270",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
