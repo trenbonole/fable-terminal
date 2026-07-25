@@ -1270,7 +1270,14 @@
       "rarity": "common",
       "id": 59,
       "born": "2026-07-25T12:08:01.790Z",
-      "name": "Umbra the 59th"
+      "name": "Umbra the 59th",
+      "img": "foxes/proc-59.png",
+      "nft": {
+        "tokenId": "60",
+        "owner": "0x92abc2165bb4e23da156035a228b7293497f0690",
+        "tx": "0x93d9a694f738f0154b510805967238a2f485b646b294a80a2d712709b9b5e562",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
