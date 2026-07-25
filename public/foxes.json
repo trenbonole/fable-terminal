@@ -1505,7 +1505,14 @@
       "rarity": "uncommon",
       "id": 70,
       "born": "2026-07-25T18:25:51.182Z",
-      "name": "Cinder the 70th"
+      "name": "Cinder the 70th",
+      "img": "foxes/proc-70.png",
+      "nft": {
+        "tokenId": "70",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x403c2b6e725fc86374d56008f03cd5ffce948ab588fdb5bb8880e9aad3519ae2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
