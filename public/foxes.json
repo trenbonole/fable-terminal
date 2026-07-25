@@ -1,5 +1,5 @@
 {
-  "count": 50,
+  "count": 51,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1084,6 +1084,21 @@
         "tx": "0x5a65c9ff91b41fdb6d07eaf3909d31cd0c677bb5c9c28921ca1886ff87e671ea",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 51,
+      "born": "2026-07-25T08:38:01.693Z",
+      "name": "Kit the 51st"
     }
   ]
 }
