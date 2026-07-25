@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 35,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -736,6 +736,21 @@
         "tx": "0xb59a41762c5e9e6b93220c828419383ed6487dcd0f170398177ef75c78f042a6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 35,
+      "born": "2026-07-25T01:08:01.645Z",
+      "name": "Wick the 35th"
     }
   ]
 }
