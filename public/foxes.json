@@ -1336,7 +1336,14 @@
       "rarity": "common",
       "id": 62,
       "born": "2026-07-25T13:38:01.780Z",
-      "name": "Tod the 62nd"
+      "name": "Tod the 62nd",
+      "img": "foxes/proc-62.png",
+      "nft": {
+        "tokenId": "63",
+        "owner": "0xf5c4f3dc02c3fb9279495a8fef7b0741da956157",
+        "tx": "0x2e4c27f9341b33da774a9fc78366edc640c42bddc2b968e243dec4c3fe5d2c46",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
