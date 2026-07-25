@@ -1659,7 +1659,14 @@
       "rarity": "rare",
       "id": 77,
       "born": "2026-07-25T21:38:01.976Z",
-      "name": "Tod the 77th"
+      "name": "Tod the 77th",
+      "img": "foxes/proc-77.png",
+      "nft": {
+        "tokenId": "77",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x85adf9ccea99f18a217ba1e79e1998aa0a752aaae15bc2ff5960a81c6cc04436",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
