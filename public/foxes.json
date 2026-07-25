@@ -1,5 +1,5 @@
 {
-  "count": 32,
+  "count": 33,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -692,6 +692,21 @@
         "tx": "0x049a3abf952c757b2a864fb61416f3232247e0ed08eda44efa5290c362b3ec1a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 33,
+      "born": "2026-07-25T00:08:01.566Z",
+      "name": "Umbra the 33rd"
     }
   ]
 }
