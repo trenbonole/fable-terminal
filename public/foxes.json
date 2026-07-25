@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 79,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1689,6 +1689,21 @@
         "tx": "0x9bc33266e207d97810ea04ef3c060ee47c19bca304fe5d7316bc7a4dc853495e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 79,
+      "born": "2026-07-25T23:54:37.392Z",
+      "name": "Hollow the 79th"
     }
   ]
 }
