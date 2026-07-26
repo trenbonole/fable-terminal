@@ -1,5 +1,5 @@
 {
-  "count": 86,
+  "count": 87,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1865,6 +1865,21 @@
         "tx": "0x26892863188ccfcea408d978ed77b8591d8c9ffda180795e035afe6d8f5e33c1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 87,
+      "born": "2026-07-26T12:38:01.819Z",
+      "name": "Mote the 87th"
     }
   ]
 }
