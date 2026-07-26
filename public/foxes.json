@@ -1,5 +1,5 @@
 {
-  "count": 91,
+  "count": 92,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1975,6 +1975,21 @@
         "tx": "0x78c254de39fffb98587420006840d22ca7e39c00cc844bdd774500fbcd7a6f89",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 92,
+      "born": "2026-07-26T15:08:01.912Z",
+      "name": "Sorrel the 92nd"
     }
   ]
 }
