@@ -1747,7 +1747,14 @@
       "rarity": "uncommon",
       "id": 81,
       "born": "2026-07-26T00:38:02.170Z",
-      "name": "Ember the 81st"
+      "name": "Ember the 81st",
+      "img": "foxes/proc-81.png",
+      "nft": {
+        "tokenId": "81",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x07ba12e754683d2fe4777b7c5a6468f19125daba466b370c28f363503190cfff",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
