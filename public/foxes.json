@@ -2341,7 +2341,14 @@
       "rarity": "common",
       "id": 108,
       "born": "2026-07-26T23:08:01.829Z",
-      "name": "Mote the 108th"
+      "name": "Mote the 108th",
+      "img": "foxes/proc-108.png",
+      "nft": {
+        "tokenId": "108",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x6aff7d68363fbd157681e1cb3b9b9545a0600b86317da21d3834f98ba916d4f7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
