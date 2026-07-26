@@ -1813,7 +1813,14 @@
       "rarity": "uncommon",
       "id": 84,
       "born": "2026-07-26T11:08:02.010Z",
-      "name": "Mote the 84th"
+      "name": "Mote the 84th",
+      "img": "foxes/proc-84.png",
+      "nft": {
+        "tokenId": "84",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x6b09b30a857a22ae8e3ab9cb9a486462e2eb8760c97224302446a7b3f4e98fb7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
