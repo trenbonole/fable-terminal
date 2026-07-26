@@ -2363,7 +2363,14 @@
       "rarity": "common",
       "id": 109,
       "born": "2026-07-26T23:38:01.800Z",
-      "name": "Vesper the 109th"
+      "name": "Vesper the 109th",
+      "img": "foxes/proc-109.png",
+      "nft": {
+        "tokenId": "109",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0xda0677414ca2f5fd2200cd96bd0dfe2659c3af6b4fa892338df61625b96fe5cb",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
