@@ -1967,7 +1967,14 @@
       "rarity": "common",
       "id": 91,
       "born": "2026-07-26T14:38:01.828Z",
-      "name": "Ash the 91st"
+      "name": "Ash the 91st",
+      "img": "foxes/proc-91.png",
+      "nft": {
+        "tokenId": "91",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0x78c254de39fffb98587420006840d22ca7e39c00cc844bdd774500fbcd7a6f89",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
