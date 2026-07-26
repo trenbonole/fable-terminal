@@ -1945,7 +1945,14 @@
       "rarity": "common",
       "id": 90,
       "born": "2026-07-26T14:08:01.870Z",
-      "name": "Kit the 90th"
+      "name": "Kit the 90th",
+      "img": "foxes/proc-90.png",
+      "nft": {
+        "tokenId": "90",
+        "owner": "0x2223e16feb379f8004822cb419ea6a49e8b7118f",
+        "tx": "0x8ab39d9118a87498952c794183cbf3e8064a46c3c178d96c9678de9b78ca253e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
