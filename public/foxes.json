@@ -2077,7 +2077,14 @@
       "rarity": "uncommon",
       "id": 96,
       "born": "2026-07-26T17:08:01.902Z",
-      "name": "Mote the 96th"
+      "name": "Mote the 96th",
+      "img": "foxes/proc-96.png",
+      "nft": {
+        "tokenId": "96",
+        "owner": "0xf5c4f3dc02c3fb9279495a8fef7b0741da956157",
+        "tx": "0xf94fa859d486889880dae4738aa6cc219a22a3ccd2285157f6672cdfdc2634a3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
