@@ -1,5 +1,5 @@
 {
-  "count": 103,
+  "count": 104,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2239,6 +2239,21 @@
         "tx": "0x6fa7a1b74d8a1d90be31a434dfbacf42a7b8f288bf5d573fa57a013b73a53d3e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 5,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 104,
+      "born": "2026-07-26T21:08:01.989Z",
+      "name": "Ember the 104th"
     }
   ]
 }
