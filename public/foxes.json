@@ -1769,7 +1769,14 @@
       "rarity": "uncommon",
       "id": 82,
       "born": "2026-07-26T01:08:02.303Z",
-      "name": "Cinder the 82nd"
+      "name": "Cinder the 82nd",
+      "img": "foxes/proc-82.png",
+      "nft": {
+        "tokenId": "82",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xad783d83f4b6abdb3bf5759a3b42c9d5a45bbbdef9607e05162871fe3e4c4c11",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
