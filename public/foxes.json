@@ -1,5 +1,5 @@
 {
-  "count": 97,
+  "count": 98,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2107,6 +2107,21 @@
         "tx": "0x4efdb477cc04c46bb0f11c9465c7ac6aecae600b8adb4acaf687384b5003b4ed",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 98,
+      "born": "2026-07-26T18:08:01.971Z",
+      "name": "Tod the 98th"
     }
   ]
 }
