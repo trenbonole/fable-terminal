@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 90,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1931,6 +1931,21 @@
         "tx": "0x94cc223bbdf41136d7c8949fef6dccfe8171e8cce3014a8350d5c3273ef9b7d1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 90,
+      "born": "2026-07-26T14:08:01.870Z",
+      "name": "Kit the 90th"
     }
   ]
 }
