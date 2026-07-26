@@ -2319,7 +2319,14 @@
       "rarity": "rare",
       "id": 107,
       "born": "2026-07-26T22:38:01.720Z",
-      "name": "Vulpes the 107th"
+      "name": "Vulpes the 107th",
+      "img": "foxes/proc-107.png",
+      "nft": {
+        "tokenId": "107",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x8da6de14c88e204a04e21cce7182d5126be2cbf7f267d65696e3b8d6f116dff3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
