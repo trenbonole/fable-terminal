@@ -1,5 +1,5 @@
 {
-  "count": 85,
+  "count": 86,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1843,6 +1843,21 @@
         "tx": "0x8db221377cd6136de02fcde38852aeb02151e09fb09d158d9ac1c5366e99fae9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 86,
+      "born": "2026-07-26T12:08:01.937Z",
+      "name": "Ember the 86th"
     }
   ]
 }
