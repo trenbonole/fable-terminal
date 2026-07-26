@@ -2297,7 +2297,14 @@
       "rarity": "rare",
       "id": 106,
       "born": "2026-07-26T22:08:01.803Z",
-      "name": "Cairn the 106th"
+      "name": "Cairn the 106th",
+      "img": "foxes/proc-106.png",
+      "nft": {
+        "tokenId": "106",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x0cc765fb9b13ebf98e602b844a8f31fa9cfd023f46dc1f94dd5a93dc6c9c9b0d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
