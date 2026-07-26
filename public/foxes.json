@@ -2055,7 +2055,14 @@
       "rarity": "rare",
       "id": 95,
       "born": "2026-07-26T16:38:01.951Z",
-      "name": "Umbra the 95th"
+      "name": "Umbra the 95th",
+      "img": "foxes/proc-95.png",
+      "nft": {
+        "tokenId": "95",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0xd389ea1d10d8ddb5eee639cbacd01ebfaecfd6cf03abefb089825608a5a3386d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
