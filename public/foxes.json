@@ -2143,7 +2143,14 @@
       "rarity": "uncommon",
       "id": 99,
       "born": "2026-07-26T18:38:02.026Z",
-      "name": "Quill the 99th"
+      "name": "Quill the 99th",
+      "img": "foxes/proc-99.png",
+      "nft": {
+        "tokenId": "99",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0xce988765a6b3603e51237362ed07c00ea5ab393ff650743782b24e1a17687899",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
