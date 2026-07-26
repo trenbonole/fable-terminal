@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 100,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2151,6 +2151,21 @@
         "tx": "0xce988765a6b3603e51237362ed07c00ea5ab393ff650743782b24e1a17687899",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 100,
+      "born": "2026-07-26T19:08:01.960Z",
+      "name": "Vesper the 100th"
     }
   ]
 }
