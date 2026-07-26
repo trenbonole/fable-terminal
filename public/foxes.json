@@ -1901,7 +1901,14 @@
       "rarity": "uncommon",
       "id": 88,
       "born": "2026-07-26T13:08:01.897Z",
-      "name": "Sorrel the 88th"
+      "name": "Sorrel the 88th",
+      "img": "foxes/proc-88.png",
+      "nft": {
+        "tokenId": "88",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x697f49b2c9e56942caa7769bdd6353e14ebb0be698640322f2b6ed744c2bb987",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
