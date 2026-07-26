@@ -1791,7 +1791,14 @@
       "rarity": "common",
       "id": 83,
       "born": "2026-07-26T10:59:57.894Z",
-      "name": "Hollow the 83rd"
+      "name": "Hollow the 83rd",
+      "img": "foxes/proc-83.png",
+      "nft": {
+        "tokenId": "83",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0x332ead167ac4d446dcc70e7be976ddb9dc4315ac6894792cd266302883ac90a2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
