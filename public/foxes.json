@@ -1835,7 +1835,14 @@
       "rarity": "rare",
       "id": 85,
       "born": "2026-07-26T11:38:01.858Z",
-      "name": "Reynard the 85th"
+      "name": "Reynard the 85th",
+      "img": "foxes/proc-85.png",
+      "nft": {
+        "tokenId": "85",
+        "owner": "0x2223e16feb379f8004822cb419ea6a49e8b7118f",
+        "tx": "0x8db221377cd6136de02fcde38852aeb02151e09fb09d158d9ac1c5366e99fae9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
