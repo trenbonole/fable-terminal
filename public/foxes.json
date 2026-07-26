@@ -2011,7 +2011,14 @@
       "rarity": "rare",
       "id": 93,
       "born": "2026-07-26T15:38:01.944Z",
-      "name": "Reynard the 93rd"
+      "name": "Reynard the 93rd",
+      "img": "foxes/proc-93.png",
+      "nft": {
+        "tokenId": "93",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0xfba6aa3331eb73f1533ef9462deb846fddf17d36fc2cfb8dddc64fff6f5bfc9a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
