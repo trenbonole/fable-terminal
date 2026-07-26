@@ -1,5 +1,5 @@
 {
-  "count": 105,
+  "count": 106,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2283,6 +2283,21 @@
         "tx": "0x690f65eac4906bb0441ada25396af4ba0e78098f6b116c367573d4f037f3663c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 5,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 106,
+      "born": "2026-07-26T22:08:01.803Z",
+      "name": "Cairn the 106th"
     }
   ]
 }
