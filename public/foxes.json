@@ -2121,7 +2121,14 @@
       "rarity": "uncommon",
       "id": 98,
       "born": "2026-07-26T18:08:01.971Z",
-      "name": "Tod the 98th"
+      "name": "Tod the 98th",
+      "img": "foxes/proc-98.png",
+      "nft": {
+        "tokenId": "98",
+        "owner": "0x4a3b8f06f753c6e0b49758dcdc0b40d1799fbf03",
+        "tx": "0x7b86797b4b95450ccd6704833af893df836b39c580e24545d94d34799cd0dfcf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
