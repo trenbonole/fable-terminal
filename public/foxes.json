@@ -1879,7 +1879,14 @@
       "rarity": "common",
       "id": 87,
       "born": "2026-07-26T12:38:01.819Z",
-      "name": "Mote the 87th"
+      "name": "Mote the 87th",
+      "img": "foxes/proc-87.png",
+      "nft": {
+        "tokenId": "87",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xcbde50703b94bc75a5e2444a8f7ab988bc4afd66b6de7144f047b1abd2897316",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
