@@ -1,5 +1,5 @@
 {
-  "count": 107,
+  "count": 108,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2327,6 +2327,21 @@
         "tx": "0x8da6de14c88e204a04e21cce7182d5126be2cbf7f267d65696e3b8d6f116dff3",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 108,
+      "born": "2026-07-26T23:08:01.829Z",
+      "name": "Mote the 108th"
     }
   ]
 }
