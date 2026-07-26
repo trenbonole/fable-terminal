@@ -2275,7 +2275,14 @@
       "rarity": "rare",
       "id": 105,
       "born": "2026-07-26T21:38:01.984Z",
-      "name": "Ash the 105th"
+      "name": "Ash the 105th",
+      "img": "foxes/proc-105.png",
+      "nft": {
+        "tokenId": "105",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0x690f65eac4906bb0441ada25396af4ba0e78098f6b116c367573d4f037f3663c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
