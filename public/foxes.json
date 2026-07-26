@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 91,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1953,6 +1953,21 @@
         "tx": "0x8ab39d9118a87498952c794183cbf3e8064a46c3c178d96c9678de9b78ca253e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 91,
+      "born": "2026-07-26T14:38:01.828Z",
+      "name": "Ash the 91st"
     }
   ]
 }
