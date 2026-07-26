@@ -1989,7 +1989,14 @@
       "rarity": "common",
       "id": 92,
       "born": "2026-07-26T15:08:01.912Z",
-      "name": "Sorrel the 92nd"
+      "name": "Sorrel the 92nd",
+      "img": "foxes/proc-92.png",
+      "nft": {
+        "tokenId": "92",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0xdc7a2738804651b2edcbf8cb756754819b7dfc5c06464ebbf79126711fb32a04",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
