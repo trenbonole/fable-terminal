@@ -2187,7 +2187,14 @@
       "rarity": "common",
       "id": 101,
       "born": "2026-07-26T19:38:01.919Z",
-      "name": "Mote the 101st"
+      "name": "Mote the 101st",
+      "img": "foxes/proc-101.png",
+      "nft": {
+        "tokenId": "101",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x131bcba9c9cf8f73c2f2317d600eafbca13180d87334bb8e4da8031b73306703",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
