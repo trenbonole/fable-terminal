@@ -1857,7 +1857,14 @@
       "rarity": "rare",
       "id": 86,
       "born": "2026-07-26T12:08:01.937Z",
-      "name": "Ember the 86th"
+      "name": "Ember the 86th",
+      "img": "foxes/proc-86.png",
+      "nft": {
+        "tokenId": "86",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x26892863188ccfcea408d978ed77b8591d8c9ffda180795e035afe6d8f5e33c1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
