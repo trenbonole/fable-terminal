@@ -1,5 +1,5 @@
 {
-  "count": 88,
+  "count": 89,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1909,6 +1909,21 @@
         "tx": "0x697f49b2c9e56942caa7769bdd6353e14ebb0be698640322f2b6ed744c2bb987",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 89,
+      "born": "2026-07-26T13:38:01.993Z",
+      "name": "Cairn the 89th"
     }
   ]
 }
