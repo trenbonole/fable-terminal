@@ -1,5 +1,5 @@
 {
-  "count": 82,
+  "count": 83,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1777,6 +1777,21 @@
         "tx": "0xad783d83f4b6abdb3bf5759a3b42c9d5a45bbbdef9607e05162871fe3e4c4c11",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 83,
+      "born": "2026-07-26T10:59:57.894Z",
+      "name": "Hollow the 83rd"
     }
   ]
 }
