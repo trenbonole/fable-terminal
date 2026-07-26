@@ -1,5 +1,5 @@
 {
-  "count": 100,
+  "count": 101,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2173,6 +2173,21 @@
         "tx": "0xc8fc9c693c47e5d21c6013667cf9d98d2495c107bac5cbfa9011658ab14d69f0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 101,
+      "born": "2026-07-26T19:38:01.919Z",
+      "name": "Mote the 101st"
     }
   ]
 }
