@@ -1,5 +1,5 @@
 {
-  "count": 83,
+  "count": 84,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1799,6 +1799,21 @@
         "tx": "0x332ead167ac4d446dcc70e7be976ddb9dc4315ac6894792cd266302883ac90a2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 84,
+      "born": "2026-07-26T11:08:02.010Z",
+      "name": "Mote the 84th"
     }
   ]
 }
