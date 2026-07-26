@@ -1,5 +1,5 @@
 {
-  "count": 98,
+  "count": 99,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2129,6 +2129,21 @@
         "tx": "0x7b86797b4b95450ccd6704833af893df836b39c580e24545d94d34799cd0dfcf",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 99,
+      "born": "2026-07-26T18:38:02.026Z",
+      "name": "Quill the 99th"
     }
   ]
 }
