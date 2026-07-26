@@ -1,5 +1,5 @@
 {
-  "count": 95,
+  "count": 96,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2063,6 +2063,21 @@
         "tx": "0xd389ea1d10d8ddb5eee639cbacd01ebfaecfd6cf03abefb089825608a5a3386d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 96,
+      "born": "2026-07-26T17:08:01.902Z",
+      "name": "Mote the 96th"
     }
   ]
 }
