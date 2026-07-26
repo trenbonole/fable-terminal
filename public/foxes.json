@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 88,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1887,6 +1887,21 @@
         "tx": "0xcbde50703b94bc75a5e2444a8f7ab988bc4afd66b6de7144f047b1abd2897316",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 88,
+      "born": "2026-07-26T13:08:01.897Z",
+      "name": "Sorrel the 88th"
     }
   ]
 }
