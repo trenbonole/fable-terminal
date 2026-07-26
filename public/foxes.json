@@ -1725,7 +1725,14 @@
       "rarity": "common",
       "id": 80,
       "born": "2026-07-26T00:08:02.493Z",
-      "name": "Marlow the 80th"
+      "name": "Marlow the 80th",
+      "img": "foxes/proc-80.png",
+      "nft": {
+        "tokenId": "80",
+        "owner": "0xf5c4f3dc02c3fb9279495a8fef7b0741da956157",
+        "tx": "0x63c42a22dc68aae646d256cf6da731e8a69f4a223e029ebc16993ffcb2e80720",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
