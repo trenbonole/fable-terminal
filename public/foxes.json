@@ -2099,7 +2099,14 @@
       "rarity": "rare",
       "id": 97,
       "born": "2026-07-26T17:38:01.919Z",
-      "name": "Vesper the 97th"
+      "name": "Vesper the 97th",
+      "img": "foxes/proc-97.png",
+      "nft": {
+        "tokenId": "97",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x4efdb477cc04c46bb0f11c9465c7ac6aecae600b8adb4acaf687384b5003b4ed",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
