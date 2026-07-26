@@ -2165,7 +2165,14 @@
       "rarity": "rare",
       "id": 100,
       "born": "2026-07-26T19:08:01.960Z",
-      "name": "Vesper the 100th"
+      "name": "Vesper the 100th",
+      "img": "foxes/proc-100.png",
+      "nft": {
+        "tokenId": "100",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xc8fc9c693c47e5d21c6013667cf9d98d2495c107bac5cbfa9011658ab14d69f0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
