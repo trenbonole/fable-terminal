@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 93,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1997,6 +1997,21 @@
         "tx": "0xdc7a2738804651b2edcbf8cb756754819b7dfc5c06464ebbf79126711fb32a04",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 93,
+      "born": "2026-07-26T15:38:01.944Z",
+      "name": "Reynard the 93rd"
     }
   ]
 }
