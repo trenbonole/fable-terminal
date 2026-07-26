@@ -1923,7 +1923,14 @@
       "rarity": "uncommon",
       "id": 89,
       "born": "2026-07-26T13:38:01.993Z",
-      "name": "Cairn the 89th"
+      "name": "Cairn the 89th",
+      "img": "foxes/proc-89.png",
+      "nft": {
+        "tokenId": "89",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x94cc223bbdf41136d7c8949fef6dccfe8171e8cce3014a8350d5c3273ef9b7d1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
