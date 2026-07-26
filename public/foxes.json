@@ -2253,7 +2253,14 @@
       "rarity": "rare",
       "id": 104,
       "born": "2026-07-26T21:08:01.989Z",
-      "name": "Ember the 104th"
+      "name": "Ember the 104th",
+      "img": "foxes/proc-104.png",
+      "nft": {
+        "tokenId": "104",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x2df9727729062798dd4d129eb114ce63058a7aa8dffc36bcfba5969b6626a8e5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
