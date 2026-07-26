@@ -1,5 +1,5 @@
 {
-  "count": 84,
+  "count": 85,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -1821,6 +1821,21 @@
         "tx": "0x6b09b30a857a22ae8e3ab9cb9a486462e2eb8760c97224302446a7b3f4e98fb7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 85,
+      "born": "2026-07-26T11:38:01.858Z",
+      "name": "Reynard the 85th"
     }
   ]
 }
