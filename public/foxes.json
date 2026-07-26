@@ -2033,7 +2033,14 @@
       "rarity": "common",
       "id": 94,
       "born": "2026-07-26T16:08:01.922Z",
-      "name": "Ash the 94th"
+      "name": "Ash the 94th",
+      "img": "foxes/proc-94.png",
+      "nft": {
+        "tokenId": "94",
+        "owner": "0xd03b74f89ee930db0fdae050b34ee5dc771da03d",
+        "tx": "0xe1fce1abe63497561669da88b84e13134eef5cc16b90f117ac995abe02612946",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
