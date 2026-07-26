@@ -2231,7 +2231,14 @@
       "rarity": "common",
       "id": 103,
       "born": "2026-07-26T20:38:01.980Z",
-      "name": "Bracken the 103rd"
+      "name": "Bracken the 103rd",
+      "img": "foxes/proc-103.png",
+      "nft": {
+        "tokenId": "103",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x6fa7a1b74d8a1d90be31a434dfbacf42a7b8f288bf5d573fa57a013b73a53d3e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
