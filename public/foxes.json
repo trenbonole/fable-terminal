@@ -2517,7 +2517,14 @@
       "rarity": "rare",
       "id": 116,
       "born": "2026-07-27T03:08:01.752Z",
-      "name": "Pyre the 116th"
+      "name": "Pyre the 116th",
+      "img": "foxes/proc-116.png",
+      "nft": {
+        "tokenId": "116",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0xdeaf394e8cd0c94dab28f7e99067a23e9d3334df70068bd145f4ea16a0b61968",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
