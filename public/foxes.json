@@ -2473,7 +2473,14 @@
       "rarity": "uncommon",
       "id": 114,
       "born": "2026-07-27T02:08:01.787Z",
-      "name": "Reynard the 114th"
+      "name": "Reynard the 114th",
+      "img": "foxes/proc-114.png",
+      "nft": {
+        "tokenId": "114",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0xed3d6ebd841ebf998ab4b6c561b7a46afc9173be87099bed46d1b71398357097",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
