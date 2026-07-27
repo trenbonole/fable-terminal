@@ -1,5 +1,5 @@
 {
-  "count": 116,
+  "count": 117,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2525,6 +2525,21 @@
         "tx": "0xdeaf394e8cd0c94dab28f7e99067a23e9d3334df70068bd145f4ea16a0b61968",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 117,
+      "born": "2026-07-27T03:38:01.763Z",
+      "name": "Kit the 117th"
     }
   ]
 }
