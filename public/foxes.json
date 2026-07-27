@@ -1,5 +1,5 @@
 {
-  "count": 109,
+  "count": 110,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2371,6 +2371,21 @@
         "tx": "0xda0677414ca2f5fd2200cd96bd0dfe2659c3af6b4fa892338df61625b96fe5cb",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 110,
+      "born": "2026-07-27T00:08:01.849Z",
+      "name": "Vulpes the 110th"
     }
   ]
 }
