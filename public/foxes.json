@@ -1,5 +1,5 @@
 {
-  "count": 113,
+  "count": 114,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2459,6 +2459,21 @@
         "tx": "0x53523896fef382de51f60eec4ac844bee483fd95de297b0d629f5c9674c7b59a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 114,
+      "born": "2026-07-27T02:08:01.787Z",
+      "name": "Reynard the 114th"
     }
   ]
 }
