@@ -1,5 +1,5 @@
 {
-  "count": 119,
+  "count": 120,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2591,6 +2591,21 @@
         "tx": "0xb5cf85728f1b55d418c8d5f8330907aa1e5c66b0973ec066985a85e58b1bf349",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 5,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 120,
+      "born": "2026-07-27T05:08:01.779Z",
+      "name": "Hollow the 120th"
     }
   ]
 }
