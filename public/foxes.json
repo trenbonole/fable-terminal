@@ -1,5 +1,5 @@
 {
-  "count": 121,
+  "count": 122,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2635,6 +2635,21 @@
         "tx": "0x8df07640538802218760fc47c6c5189fcf2923cf925a2685f88039f53f4fb08a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 122,
+      "born": "2026-07-27T06:08:01.810Z",
+      "name": "Wick the 122nd"
     }
   ]
 }
