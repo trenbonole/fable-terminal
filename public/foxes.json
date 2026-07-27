@@ -2561,7 +2561,14 @@
       "rarity": "rare",
       "id": 118,
       "born": "2026-07-27T04:08:01.748Z",
-      "name": "Sable the 118th"
+      "name": "Sable the 118th",
+      "img": "foxes/proc-118.png",
+      "nft": {
+        "tokenId": "118",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xe50a553add2e2ed691525ef871e5071b64153d755861404f5818af6993e41aa8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
