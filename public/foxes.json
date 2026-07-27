@@ -1,5 +1,5 @@
 {
-  "count": 155,
+  "count": 156,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3383,6 +3383,21 @@
         "tx": "0x92ef93a4a5aed49091a7815d18c8b529336e815af98c862284bf3a975094174d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 156,
+      "born": "2026-07-27T23:08:02.155Z",
+      "name": "Marlow the 156th"
     }
   ]
 }
