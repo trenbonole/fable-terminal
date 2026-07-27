@@ -1,5 +1,5 @@
 {
-  "count": 142,
+  "count": 143,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3097,6 +3097,21 @@
         "tx": "0x1acaa309087da667923b09b7629ed5719c273f130ec76c644de97e1c37093463",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 143,
+      "born": "2026-07-27T16:38:02.170Z",
+      "name": "Quill the 143rd"
     }
   ]
 }
