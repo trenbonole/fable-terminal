@@ -3331,7 +3331,14 @@
       "rarity": "common",
       "id": 153,
       "born": "2026-07-27T21:38:02.163Z",
-      "name": "Ember the 153rd"
+      "name": "Ember the 153rd",
+      "img": "foxes/proc-153.png",
+      "nft": {
+        "tokenId": "153",
+        "owner": "0x56bab42ea4cf60be55f9e52008fea40a18247b77",
+        "tx": "0x8172ae495cf7c6d75ab8f34142d0c52fc96640e05506b5b24e6366161518bd8a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
