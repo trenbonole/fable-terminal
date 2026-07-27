@@ -1,5 +1,5 @@
 {
-  "count": 138,
+  "count": 139,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3009,6 +3009,21 @@
         "tx": "0x1b24126aa8304d4aa24f2d0b40ea96ce372c09b1e68d3e98e54497717f4f1ca0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 139,
+      "born": "2026-07-27T14:38:02.036Z",
+      "name": "Marlow the 139th"
     }
   ]
 }
