@@ -1,5 +1,5 @@
 {
-  "count": 154,
+  "count": 155,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3361,6 +3361,21 @@
         "tx": "0x4819f2eaf6f536725ddf98c7bc79c21d924d8faed5c064b4d1831087324b64df",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 155,
+      "born": "2026-07-27T22:38:02.107Z",
+      "name": "Vulpes the 155th"
     }
   ]
 }
