@@ -1,5 +1,5 @@
 {
-  "count": 141,
+  "count": 142,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3075,6 +3075,21 @@
         "tx": "0xfc3eb48af971fdc4953e5df62adff86793c568814f578cca75d7cb3bf593adc7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 142,
+      "born": "2026-07-27T16:08:02.092Z",
+      "name": "Ash the 142nd"
     }
   ]
 }
