@@ -3243,7 +3243,14 @@
       "rarity": "rare",
       "id": 149,
       "born": "2026-07-27T19:38:02.087Z",
-      "name": "Quill the 149th"
+      "name": "Quill the 149th",
+      "img": "foxes/proc-149.png",
+      "nft": {
+        "tokenId": "149",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x2578a414212fd6550c364ff925dec7d77af4a7a1c4fc67841a70d8e0711b2c96",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
