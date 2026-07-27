@@ -2803,7 +2803,14 @@
       "rarity": "uncommon",
       "id": 129,
       "born": "2026-07-27T09:38:01.854Z",
-      "name": "Ember the 129th"
+      "name": "Ember the 129th",
+      "img": "foxes/proc-129.png",
+      "nft": {
+        "tokenId": "129",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x56623665383441f80fd0fb200879ed020d58375830ccd60245a5deed54fa933d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
