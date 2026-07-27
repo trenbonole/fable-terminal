@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #113 — Bracken the 113th",
+  "description": "One of the foxes the machine dreams. common, one tail, rust fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-113.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "rust"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 1
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sleepy"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "common"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}

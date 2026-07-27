@@ -2451,7 +2451,14 @@
       "rarity": "common",
       "id": 113,
       "born": "2026-07-27T01:38:01.924Z",
-      "name": "Bracken the 113th"
+      "name": "Bracken the 113th",
+      "img": "foxes/proc-113.png",
+      "nft": {
+        "tokenId": "113",
+        "owner": "0xd299648e2caa4fbaf5d4437d7507bf6daf4ad788",
+        "tx": "0x53523896fef382de51f60eec4ac844bee483fd95de297b0d629f5c9674c7b59a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
