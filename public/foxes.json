@@ -1,5 +1,5 @@
 {
-  "count": 147,
+  "count": 148,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3207,6 +3207,21 @@
         "tx": "0x67ac8fe81b7196b29650f72a85fe5cb4f127f85c147ca83602d6a638e8c1e998",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 148,
+      "born": "2026-07-27T19:08:02.047Z",
+      "name": "Marlow the 148th"
     }
   ]
 }
