@@ -3177,7 +3177,14 @@
       "rarity": "uncommon",
       "id": 146,
       "born": "2026-07-27T18:08:02.129Z",
-      "name": "Vulpes the 146th"
+      "name": "Vulpes the 146th",
+      "img": "foxes/proc-146.png",
+      "nft": {
+        "tokenId": "146",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x4d1de9b8261e4136d9183a60fda1ff3d888ac4aa1a0a97d9ab698799a20d08a7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
