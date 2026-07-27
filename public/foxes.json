@@ -1,5 +1,5 @@
 {
-  "count": 135,
+  "count": 136,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2943,6 +2943,21 @@
         "tx": "0x3638e1e44381840e2087effdb1827477ed1497a818518d8ec468d908dda8b384",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 136,
+      "born": "2026-07-27T13:08:02.020Z",
+      "name": "Sorrel the 136th"
     }
   ]
 }
