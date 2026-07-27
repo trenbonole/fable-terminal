@@ -1,5 +1,5 @@
 {
-  "count": 114,
+  "count": 115,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2481,6 +2481,21 @@
         "tx": "0xed3d6ebd841ebf998ab4b6c561b7a46afc9173be87099bed46d1b71398357097",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 115,
+      "born": "2026-07-27T02:38:01.945Z",
+      "name": "Bracken the 115th"
     }
   ]
 }
