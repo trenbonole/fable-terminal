@@ -1,5 +1,5 @@
 {
-  "count": 132,
+  "count": 133,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2877,6 +2877,21 @@
         "tx": "0xa9af10ff25055842b7ae9f961b7079467cebbc8e862f399f7b2c30d899019151",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 133,
+      "born": "2026-07-27T11:38:01.986Z",
+      "name": "Ash the 133rd"
     }
   ]
 }
