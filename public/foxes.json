@@ -2913,7 +2913,14 @@
       "rarity": "rare",
       "id": 134,
       "born": "2026-07-27T12:08:01.960Z",
-      "name": "Ash the 134th"
+      "name": "Ash the 134th",
+      "img": "foxes/proc-134.png",
+      "nft": {
+        "tokenId": "134",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x886a2aa16f4c70e42b4780a292931bee432ba4636a0e7a190122028afa4cc8c7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
