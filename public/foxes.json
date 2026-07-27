@@ -3067,7 +3067,14 @@
       "rarity": "rare",
       "id": 141,
       "born": "2026-07-27T15:38:02.091Z",
-      "name": "Quill the 141st"
+      "name": "Quill the 141st",
+      "img": "foxes/proc-141.png",
+      "nft": {
+        "tokenId": "141",
+        "owner": "0x2636fbf545822687a1c5118a9546ed0c6b1b521d",
+        "tx": "0xfc3eb48af971fdc4953e5df62adff86793c568814f578cca75d7cb3bf593adc7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
