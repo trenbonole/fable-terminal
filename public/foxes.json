@@ -1,5 +1,5 @@
 {
-  "count": 125,
+  "count": 126,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2723,6 +2723,21 @@
         "tx": "0xbeb5e433ad40c29c14f191fbd0669ff3c5d59e583b8f538a7b90acc4f88f4e01",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 126,
+      "born": "2026-07-27T08:08:01.831Z",
+      "name": "Bracken the 126th"
     }
   ]
 }
