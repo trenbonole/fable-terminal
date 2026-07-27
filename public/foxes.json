@@ -2583,7 +2583,14 @@
       "rarity": "common",
       "id": 119,
       "born": "2026-07-27T04:38:01.803Z",
-      "name": "Sable the 119th"
+      "name": "Sable the 119th",
+      "img": "foxes/proc-119.png",
+      "nft": {
+        "tokenId": "119",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0xb5cf85728f1b55d418c8d5f8330907aa1e5c66b0973ec066985a85e58b1bf349",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
