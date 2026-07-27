@@ -3045,7 +3045,14 @@
       "rarity": "uncommon",
       "id": 140,
       "born": "2026-07-27T15:08:02.016Z",
-      "name": "Vulpes the 140th"
+      "name": "Vulpes the 140th",
+      "img": "foxes/proc-140.png",
+      "nft": {
+        "tokenId": "140",
+        "owner": "0xbe41dbc50995e9ba418abeb0988fa63e40b86bd0",
+        "tx": "0x9a8122e2ea5c36d8f1955397025007171225991cdc43710cba43364deec77890",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
