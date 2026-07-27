@@ -2979,7 +2979,14 @@
       "rarity": "uncommon",
       "id": 137,
       "born": "2026-07-27T13:38:02.131Z",
-      "name": "Marlow the 137th"
+      "name": "Marlow the 137th",
+      "img": "foxes/proc-137.png",
+      "nft": {
+        "tokenId": "137",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0xc87fe04a3b1a15c7c0067fce7ce761b2792c57038a47962312ef62e1a07738c7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
