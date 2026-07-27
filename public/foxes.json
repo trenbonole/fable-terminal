@@ -2429,7 +2429,14 @@
       "rarity": "common",
       "id": 112,
       "born": "2026-07-27T01:08:01.784Z",
-      "name": "Bracken the 112th"
+      "name": "Bracken the 112th",
+      "img": "foxes/proc-112.png",
+      "nft": {
+        "tokenId": "112",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0xe2a41dbb003d1c8c37550e68149c8a504742f16fccc4751b074d5f5c26810b08",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
