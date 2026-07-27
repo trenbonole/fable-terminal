@@ -1,5 +1,5 @@
 {
-  "count": 145,
+  "count": 146,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3163,6 +3163,21 @@
         "tx": "0xcdac046545107a7838a88ede4793817c54165dd508f28188453eb4157f90a725",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 146,
+      "born": "2026-07-27T18:08:02.129Z",
+      "name": "Vulpes the 146th"
     }
   ]
 }
