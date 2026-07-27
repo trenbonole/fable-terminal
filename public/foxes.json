@@ -1,5 +1,5 @@
 {
-  "count": 122,
+  "count": 123,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2657,6 +2657,21 @@
         "tx": "0xada1abf2cea1349f1b5197d325f66c4c829987a53f0d66e3cba377089995a8ed",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 123,
+      "born": "2026-07-27T06:38:01.817Z",
+      "name": "Marlow the 123rd"
     }
   ]
 }
