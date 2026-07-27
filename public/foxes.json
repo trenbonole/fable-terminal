@@ -1,5 +1,5 @@
 {
-  "count": 124,
+  "count": 125,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2701,6 +2701,21 @@
         "tx": "0x793766e9ac73d31b15f3cf7ea16fb1c6d386ab990afff9aa6edf7c76cbf3af54",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 125,
+      "born": "2026-07-27T07:38:01.784Z",
+      "name": "Cinder the 125th"
     }
   ]
 }
