@@ -3133,7 +3133,14 @@
       "rarity": "uncommon",
       "id": 144,
       "born": "2026-07-27T17:08:02.172Z",
-      "name": "Pyre the 144th"
+      "name": "Pyre the 144th",
+      "img": "foxes/proc-144.png",
+      "nft": {
+        "tokenId": "144",
+        "owner": "0xfcc79f19f0a807814f09364a5400b4ed5f22bf0f",
+        "tx": "0x12173a163d5302ec55d97532be86e121af297460c39510ec931e8e95969e88ef",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
