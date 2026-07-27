@@ -3375,7 +3375,14 @@
       "rarity": "uncommon",
       "id": 155,
       "born": "2026-07-27T22:38:02.107Z",
-      "name": "Vulpes the 155th"
+      "name": "Vulpes the 155th",
+      "img": "foxes/proc-155.png",
+      "nft": {
+        "tokenId": "155",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x92ef93a4a5aed49091a7815d18c8b529336e815af98c862284bf3a975094174d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
