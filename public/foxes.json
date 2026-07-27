@@ -1,5 +1,5 @@
 {
-  "count": 153,
+  "count": 154,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3339,6 +3339,21 @@
         "tx": "0x8172ae495cf7c6d75ab8f34142d0c52fc96640e05506b5b24e6366161518bd8a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 154,
+      "born": "2026-07-27T22:08:02.124Z",
+      "name": "Mote the 154th"
     }
   ]
 }
