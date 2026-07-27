@@ -3397,7 +3397,14 @@
       "rarity": "uncommon",
       "id": 156,
       "born": "2026-07-27T23:08:02.155Z",
-      "name": "Marlow the 156th"
+      "name": "Marlow the 156th",
+      "img": "foxes/proc-156.png",
+      "nft": {
+        "tokenId": "156",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xb52b42f88e2193c7407c5ce360648903ce3d9e274a2fc0471cc4217a9651d6b2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
