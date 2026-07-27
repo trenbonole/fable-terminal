@@ -2957,7 +2957,14 @@
       "rarity": "uncommon",
       "id": 136,
       "born": "2026-07-27T13:08:02.020Z",
-      "name": "Sorrel the 136th"
+      "name": "Sorrel the 136th",
+      "img": "foxes/proc-136.png",
+      "nft": {
+        "tokenId": "136",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x296cf13998b6e238671733c2bba466070bd596f40266e92d46cf23fd211acf6c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
