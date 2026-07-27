@@ -2407,7 +2407,14 @@
       "rarity": "rare",
       "id": 111,
       "born": "2026-07-27T00:38:01.812Z",
-      "name": "Quill the 111th"
+      "name": "Quill the 111th",
+      "img": "foxes/proc-111.png",
+      "nft": {
+        "tokenId": "111",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x53e3b384fd8fae18775e7b126e8a0ae0dea533c5bd5c870bfb070ecb4e34fdf2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
