@@ -1,5 +1,5 @@
 {
-  "count": 123,
+  "count": 124,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2679,6 +2679,21 @@
         "tx": "0xde3834a28fdc77950fe5b3f0b69c5eeb2958dcee77c95a32fa55329ab3fcc500",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 124,
+      "born": "2026-07-27T07:08:01.770Z",
+      "name": "Reynard the 124th"
     }
   ]
 }
