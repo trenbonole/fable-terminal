@@ -3023,7 +3023,14 @@
       "rarity": "common",
       "id": 139,
       "born": "2026-07-27T14:38:02.036Z",
-      "name": "Marlow the 139th"
+      "name": "Marlow the 139th",
+      "img": "foxes/proc-139.png",
+      "nft": {
+        "tokenId": "139",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0x6df7e263e4423da41f334b1619585074c24e991167bf11b2d85456fc346fde51",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
