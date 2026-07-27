@@ -1,5 +1,5 @@
 {
-  "count": 120,
+  "count": 121,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2613,6 +2613,21 @@
         "tx": "0x9e315613cc2dae243fc2ccf801a8a233aa70db69730151831c00b7280c2eaba9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 121,
+      "born": "2026-07-27T05:38:01.796Z",
+      "name": "Fennec the 121st"
     }
   ]
 }
