@@ -3419,7 +3419,14 @@
       "rarity": "common",
       "id": 157,
       "born": "2026-07-27T23:38:02.171Z",
-      "name": "Hollow the 157th"
+      "name": "Hollow the 157th",
+      "img": "foxes/proc-157.png",
+      "nft": {
+        "tokenId": "157",
+        "owner": "0x56bab42ea4cf60be55f9e52008fea40a18247b77",
+        "tx": "0x8b3da3187e4fc0fcf60532031fb2b6b077a59a59c1c158f643a36a454c6b0d11",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
