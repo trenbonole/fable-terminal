@@ -3155,7 +3155,14 @@
       "rarity": "uncommon",
       "id": 145,
       "born": "2026-07-27T17:38:02.065Z",
-      "name": "Sorrel the 145th"
+      "name": "Sorrel the 145th",
+      "img": "foxes/proc-145.png",
+      "nft": {
+        "tokenId": "145",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0xcdac046545107a7838a88ede4793817c54165dd508f28188453eb4157f90a725",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
