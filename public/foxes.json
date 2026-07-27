@@ -2385,7 +2385,14 @@
       "rarity": "rare",
       "id": 110,
       "born": "2026-07-27T00:08:01.849Z",
-      "name": "Vulpes the 110th"
+      "name": "Vulpes the 110th",
+      "img": "foxes/proc-110.png",
+      "nft": {
+        "tokenId": "110",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0xa54644f8855529a29453949e7eac1d6371f21666ab4eab548eade4f5e68074fb",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
