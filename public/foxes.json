@@ -2935,7 +2935,14 @@
       "rarity": "rare",
       "id": 135,
       "born": "2026-07-27T12:38:02.007Z",
-      "name": "Mote the 135th"
+      "name": "Mote the 135th",
+      "img": "foxes/proc-135.png",
+      "nft": {
+        "tokenId": "135",
+        "owner": "0xfcc79f19f0a807814f09364a5400b4ed5f22bf0f",
+        "tx": "0x3638e1e44381840e2087effdb1827477ed1497a818518d8ec468d908dda8b384",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
