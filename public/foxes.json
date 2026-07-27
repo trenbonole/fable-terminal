@@ -1,5 +1,5 @@
 {
-  "count": 127,
+  "count": 128,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2767,6 +2767,21 @@
         "tx": "0x2bd934c493bea3b307c5e9f10176fc42a3b952e4fcc1ed5226d47ccad6a20f20",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 128,
+      "born": "2026-07-27T09:08:01.819Z",
+      "name": "Kit the 128th"
     }
   ]
 }
