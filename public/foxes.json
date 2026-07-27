@@ -2869,7 +2869,14 @@
       "rarity": "common",
       "id": 132,
       "born": "2026-07-27T11:08:01.930Z",
-      "name": "Umbra the 132nd"
+      "name": "Umbra the 132nd",
+      "img": "foxes/proc-132.png",
+      "nft": {
+        "tokenId": "132",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0xa9af10ff25055842b7ae9f961b7079467cebbc8e862f399f7b2c30d899019151",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
