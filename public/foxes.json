@@ -1,5 +1,5 @@
 {
-  "count": 146,
+  "count": 147,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3185,6 +3185,21 @@
         "tx": "0x4d1de9b8261e4136d9183a60fda1ff3d888ac4aa1a0a97d9ab698799a20d08a7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 147,
+      "born": "2026-07-27T18:38:02.118Z",
+      "name": "Tod the 147th"
     }
   ]
 }
