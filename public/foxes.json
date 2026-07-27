@@ -1,5 +1,5 @@
 {
-  "count": 137,
+  "count": 138,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2987,6 +2987,21 @@
         "tx": "0xc87fe04a3b1a15c7c0067fce7ce761b2792c57038a47962312ef62e1a07738c7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 138,
+      "born": "2026-07-27T14:08:02.107Z",
+      "name": "Sable the 138th"
     }
   ]
 }
