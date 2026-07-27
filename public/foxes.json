@@ -2847,7 +2847,14 @@
       "rarity": "uncommon",
       "id": 131,
       "born": "2026-07-27T10:38:01.947Z",
-      "name": "Tod the 131st"
+      "name": "Tod the 131st",
+      "img": "foxes/proc-131.png",
+      "nft": {
+        "tokenId": "131",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xd3a74d2307d796542904d7de6cc1fe6df9f297f5444df265c66df11427bf13ca",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
