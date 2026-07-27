@@ -1,5 +1,5 @@
 {
-  "count": 126,
+  "count": 127,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2745,6 +2745,21 @@
         "tx": "0x51e682967ad2d608cafd0e2e68d22ff16a91d14181dc67a8fd24baadf44c1a31",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 127,
+      "born": "2026-07-27T08:38:01.832Z",
+      "name": "Marlow the 127th"
     }
   ]
 }
