@@ -3221,7 +3221,14 @@
       "rarity": "common",
       "id": 148,
       "born": "2026-07-27T19:08:02.047Z",
-      "name": "Marlow the 148th"
+      "name": "Marlow the 148th",
+      "img": "foxes/proc-148.png",
+      "nft": {
+        "tokenId": "148",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xc10229f931106b09f5691c256d8c7581733a1f281048e95b2fb40e5b677c025e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
