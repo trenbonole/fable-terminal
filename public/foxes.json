@@ -2539,7 +2539,14 @@
       "rarity": "common",
       "id": 117,
       "born": "2026-07-27T03:38:01.763Z",
-      "name": "Kit the 117th"
+      "name": "Kit the 117th",
+      "img": "foxes/proc-117.png",
+      "nft": {
+        "tokenId": "117",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x4549e9dccd6e83e5750620e9c404c7165b766778ab208bc95a130b70bdc1e5f9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
