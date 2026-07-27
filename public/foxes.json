@@ -1,5 +1,5 @@
 {
-  "count": 130,
+  "count": 131,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2833,6 +2833,21 @@
         "tx": "0x9c5d5abb9d795d6e219fcafb8a7280588779b654d0e28915779b16984563549d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 131,
+      "born": "2026-07-27T10:38:01.947Z",
+      "name": "Tod the 131st"
     }
   ]
 }
