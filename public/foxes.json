@@ -2605,7 +2605,14 @@
       "rarity": "rare",
       "id": 120,
       "born": "2026-07-27T05:08:01.779Z",
-      "name": "Hollow the 120th"
+      "name": "Hollow the 120th",
+      "img": "foxes/proc-120.png",
+      "nft": {
+        "tokenId": "120",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0x9e315613cc2dae243fc2ccf801a8a233aa70db69730151831c00b7280c2eaba9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
