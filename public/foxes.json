@@ -1,5 +1,5 @@
 {
-  "count": 129,
+  "count": 130,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2811,6 +2811,21 @@
         "tx": "0x56623665383441f80fd0fb200879ed020d58375830ccd60245a5deed54fa933d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 130,
+      "born": "2026-07-27T10:08:01.982Z",
+      "name": "Fennec the 130th"
     }
   ]
 }
