@@ -2781,7 +2781,14 @@
       "rarity": "rare",
       "id": 128,
       "born": "2026-07-27T09:08:01.819Z",
-      "name": "Kit the 128th"
+      "name": "Kit the 128th",
+      "img": "foxes/proc-128.png",
+      "nft": {
+        "tokenId": "128",
+        "owner": "0xfcc79f19f0a807814f09364a5400b4ed5f22bf0f",
+        "tx": "0x42920f4bcb09b6eaea4488dd4be8453378d08598009c0d2376e5e5612f54353e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
