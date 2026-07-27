@@ -1,5 +1,5 @@
 {
-  "count": 148,
+  "count": 149,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3229,6 +3229,21 @@
         "tx": "0xc10229f931106b09f5691c256d8c7581733a1f281048e95b2fb40e5b677c025e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 149,
+      "born": "2026-07-27T19:38:02.087Z",
+      "name": "Quill the 149th"
     }
   ]
 }
