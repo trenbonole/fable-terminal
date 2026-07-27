@@ -3001,7 +3001,14 @@
       "rarity": "uncommon",
       "id": 138,
       "born": "2026-07-27T14:08:02.107Z",
-      "name": "Sable the 138th"
+      "name": "Sable the 138th",
+      "img": "foxes/proc-138.png",
+      "nft": {
+        "tokenId": "138",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0x1b24126aa8304d4aa24f2d0b40ea96ce372c09b1e68d3e98e54497717f4f1ca0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
