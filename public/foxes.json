@@ -2649,7 +2649,14 @@
       "rarity": "common",
       "id": 122,
       "born": "2026-07-27T06:08:01.810Z",
-      "name": "Wick the 122nd"
+      "name": "Wick the 122nd",
+      "img": "foxes/proc-122.png",
+      "nft": {
+        "tokenId": "122",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0xada1abf2cea1349f1b5197d325f66c4c829987a53f0d66e3cba377089995a8ed",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
