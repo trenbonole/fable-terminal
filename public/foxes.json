@@ -2891,7 +2891,14 @@
       "rarity": "uncommon",
       "id": 133,
       "born": "2026-07-27T11:38:01.986Z",
-      "name": "Ash the 133rd"
+      "name": "Ash the 133rd",
+      "img": "foxes/proc-133.png",
+      "nft": {
+        "tokenId": "133",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0xf05ccddd39eedf0474ecca2461f7a6794df62df1a3c92be73eeff1bea57814a0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
