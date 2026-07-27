@@ -1,5 +1,5 @@
 {
-  "count": 139,
+  "count": 140,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3031,6 +3031,21 @@
         "tx": "0x6df7e263e4423da41f334b1619585074c24e991167bf11b2d85456fc346fde51",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 140,
+      "born": "2026-07-27T15:08:02.016Z",
+      "name": "Vulpes the 140th"
     }
   ]
 }
