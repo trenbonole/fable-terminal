@@ -3265,7 +3265,14 @@
       "rarity": "uncommon",
       "id": 150,
       "born": "2026-07-27T20:08:02.164Z",
-      "name": "Pyre the 150th"
+      "name": "Pyre the 150th",
+      "img": "foxes/proc-150.png",
+      "nft": {
+        "tokenId": "150",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x75876350193b4b3deac178866d8f29b8cdb326ef31b9213440dd6fa873952178",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
