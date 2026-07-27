@@ -2759,7 +2759,14 @@
       "rarity": "common",
       "id": 127,
       "born": "2026-07-27T08:38:01.832Z",
-      "name": "Marlow the 127th"
+      "name": "Marlow the 127th",
+      "img": "foxes/proc-127.png",
+      "nft": {
+        "tokenId": "127",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x2bd934c493bea3b307c5e9f10176fc42a3b952e4fcc1ed5226d47ccad6a20f20",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
