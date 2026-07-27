@@ -1,5 +1,5 @@
 {
-  "count": 150,
+  "count": 151,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3273,6 +3273,21 @@
         "tx": "0x75876350193b4b3deac178866d8f29b8cdb326ef31b9213440dd6fa873952178",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 151,
+      "born": "2026-07-27T20:38:02.071Z",
+      "name": "Mote the 151st"
     }
   ]
 }
