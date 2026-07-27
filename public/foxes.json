@@ -2693,7 +2693,14 @@
       "rarity": "common",
       "id": 124,
       "born": "2026-07-27T07:08:01.770Z",
-      "name": "Reynard the 124th"
+      "name": "Reynard the 124th",
+      "img": "foxes/proc-124.png",
+      "nft": {
+        "tokenId": "124",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0x793766e9ac73d31b15f3cf7ea16fb1c6d386ab990afff9aa6edf7c76cbf3af54",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
