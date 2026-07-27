@@ -1,5 +1,5 @@
 {
-  "count": 110,
+  "count": 111,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2393,6 +2393,21 @@
         "tx": "0xa54644f8855529a29453949e7eac1d6371f21666ab4eab548eade4f5e68074fb",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 111,
+      "born": "2026-07-27T00:38:01.812Z",
+      "name": "Quill the 111th"
     }
   ]
 }
