@@ -1,5 +1,5 @@
 {
-  "count": 118,
+  "count": 119,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2569,6 +2569,21 @@
         "tx": "0xe50a553add2e2ed691525ef871e5071b64153d755861404f5818af6993e41aa8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 119,
+      "born": "2026-07-27T04:38:01.803Z",
+      "name": "Sable the 119th"
     }
   ]
 }
