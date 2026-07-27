@@ -1,5 +1,5 @@
 {
-  "count": 131,
+  "count": 132,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2855,6 +2855,21 @@
         "tx": "0xd3a74d2307d796542904d7de6cc1fe6df9f297f5444df265c66df11427bf13ca",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 132,
+      "born": "2026-07-27T11:08:01.930Z",
+      "name": "Umbra the 132nd"
     }
   ]
 }
