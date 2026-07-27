@@ -2737,7 +2737,14 @@
       "rarity": "rare",
       "id": 126,
       "born": "2026-07-27T08:08:01.831Z",
-      "name": "Bracken the 126th"
+      "name": "Bracken the 126th",
+      "img": "foxes/proc-126.png",
+      "nft": {
+        "tokenId": "126",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x51e682967ad2d608cafd0e2e68d22ff16a91d14181dc67a8fd24baadf44c1a31",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
