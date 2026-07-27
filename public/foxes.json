@@ -1,5 +1,5 @@
 {
-  "count": 144,
+  "count": 145,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3141,6 +3141,21 @@
         "tx": "0x12173a163d5302ec55d97532be86e121af297460c39510ec931e8e95969e88ef",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 145,
+      "born": "2026-07-27T17:38:02.065Z",
+      "name": "Sorrel the 145th"
     }
   ]
 }
