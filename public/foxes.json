@@ -1,5 +1,5 @@
 {
-  "count": 134,
+  "count": 135,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2921,6 +2921,21 @@
         "tx": "0x886a2aa16f4c70e42b4780a292931bee432ba4636a0e7a190122028afa4cc8c7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 135,
+      "born": "2026-07-27T12:38:02.007Z",
+      "name": "Mote the 135th"
     }
   ]
 }
