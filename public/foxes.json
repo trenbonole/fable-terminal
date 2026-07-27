@@ -1,5 +1,5 @@
 {
-  "count": 151,
+  "count": 152,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3295,6 +3295,21 @@
         "tx": "0xd4b7a454f67c609d3ee0e521235dafdccc16ac5df1403b7a1dfdf623f9285fd0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 152,
+      "born": "2026-07-27T21:08:02.106Z",
+      "name": "Vulpes the 152nd"
     }
   ]
 }
