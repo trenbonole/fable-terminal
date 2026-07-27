@@ -2495,7 +2495,14 @@
       "rarity": "rare",
       "id": 115,
       "born": "2026-07-27T02:38:01.945Z",
-      "name": "Bracken the 115th"
+      "name": "Bracken the 115th",
+      "img": "foxes/proc-115.png",
+      "nft": {
+        "tokenId": "115",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x7db703426af2ee28232d72132e5c49d45c918c5cf8ff9b3e3c7b2b09dd9fc7f4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
