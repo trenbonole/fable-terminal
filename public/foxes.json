@@ -3199,7 +3199,14 @@
       "rarity": "common",
       "id": 147,
       "born": "2026-07-27T18:38:02.118Z",
-      "name": "Tod the 147th"
+      "name": "Tod the 147th",
+      "img": "foxes/proc-147.png",
+      "nft": {
+        "tokenId": "147",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0x67ac8fe81b7196b29650f72a85fe5cb4f127f85c147ca83602d6a638e8c1e998",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
