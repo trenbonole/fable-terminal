@@ -2671,7 +2671,14 @@
       "rarity": "rare",
       "id": 123,
       "born": "2026-07-27T06:38:01.817Z",
-      "name": "Marlow the 123rd"
+      "name": "Marlow the 123rd",
+      "img": "foxes/proc-123.png",
+      "nft": {
+        "tokenId": "123",
+        "owner": "0xf5c4f3dc02c3fb9279495a8fef7b0741da956157",
+        "tx": "0xde3834a28fdc77950fe5b3f0b69c5eeb2958dcee77c95a32fa55329ab3fcc500",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
