@@ -3353,7 +3353,14 @@
       "rarity": "common",
       "id": 154,
       "born": "2026-07-27T22:08:02.124Z",
-      "name": "Mote the 154th"
+      "name": "Mote the 154th",
+      "img": "foxes/proc-154.png",
+      "nft": {
+        "tokenId": "154",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x4819f2eaf6f536725ddf98c7bc79c21d924d8faed5c064b4d1831087324b64df",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
