@@ -1,5 +1,5 @@
 {
-  "count": 115,
+  "count": 116,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -2503,6 +2503,21 @@
         "tx": "0x7db703426af2ee28232d72132e5c49d45c918c5cf8ff9b3e3c7b2b09dd9fc7f4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 116,
+      "born": "2026-07-27T03:08:01.752Z",
+      "name": "Pyre the 116th"
     }
   ]
 }
