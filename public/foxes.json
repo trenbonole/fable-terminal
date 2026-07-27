@@ -3111,7 +3111,14 @@
       "rarity": "rare",
       "id": 143,
       "born": "2026-07-27T16:38:02.170Z",
-      "name": "Quill the 143rd"
+      "name": "Quill the 143rd",
+      "img": "foxes/proc-143.png",
+      "nft": {
+        "tokenId": "143",
+        "owner": "0x4a3b8f06f753c6e0b49758dcdc0b40d1799fbf03",
+        "tx": "0x9c6e52f6347fccdd8c6188c272c88148202503874a96458e06f8cab62480d325",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
