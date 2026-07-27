@@ -1,5 +1,5 @@
 {
-  "count": 149,
+  "count": 150,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3251,6 +3251,21 @@
         "tx": "0x2578a414212fd6550c364ff925dec7d77af4a7a1c4fc67841a70d8e0711b2c96",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 150,
+      "born": "2026-07-27T20:08:02.164Z",
+      "name": "Pyre the 150th"
     }
   ]
 }
