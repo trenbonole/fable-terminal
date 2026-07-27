@@ -2715,7 +2715,14 @@
       "rarity": "uncommon",
       "id": 125,
       "born": "2026-07-27T07:38:01.784Z",
-      "name": "Cinder the 125th"
+      "name": "Cinder the 125th",
+      "img": "foxes/proc-125.png",
+      "nft": {
+        "tokenId": "125",
+        "owner": "0x56bab42ea4cf60be55f9e52008fea40a18247b77",
+        "tx": "0xbeb5e433ad40c29c14f191fbd0669ff3c5d59e583b8f538a7b90acc4f88f4e01",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
