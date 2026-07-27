@@ -3309,7 +3309,14 @@
       "rarity": "rare",
       "id": 152,
       "born": "2026-07-27T21:08:02.106Z",
-      "name": "Vulpes the 152nd"
+      "name": "Vulpes the 152nd",
+      "img": "foxes/proc-152.png",
+      "nft": {
+        "tokenId": "152",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xb497c3d55707285ea68c75e0205772c5266a055d4dc43118e64bf033bd532ea6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
