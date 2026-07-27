@@ -2627,7 +2627,14 @@
       "rarity": "rare",
       "id": 121,
       "born": "2026-07-27T05:38:01.796Z",
-      "name": "Fennec the 121st"
+      "name": "Fennec the 121st",
+      "img": "foxes/proc-121.png",
+      "nft": {
+        "tokenId": "121",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x8df07640538802218760fc47c6c5189fcf2923cf925a2685f88039f53f4fb08a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
