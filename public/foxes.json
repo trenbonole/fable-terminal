@@ -1,5 +1,5 @@
 {
-  "count": 170,
+  "count": 171,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3713,6 +3713,21 @@
         "tx": "0xf6c7d96fb7c1549cbd47b3b19a26d6733e2a869e29b14609c20499f4722db523",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 171,
+      "born": "2026-07-28T06:38:01.995Z",
+      "name": "Hollow the 171st"
     }
   ]
 }
