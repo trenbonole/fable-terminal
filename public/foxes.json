@@ -1,5 +1,5 @@
 {
-  "count": 183,
+  "count": 184,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3999,6 +3999,21 @@
         "tx": "0xc49acfb38c5b6798d1d16e0d27beb8fdeb45e68072b2971f0939387909b97ed2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 184,
+      "born": "2026-07-28T13:08:02.198Z",
+      "name": "Sorrel the 184th"
     }
   ]
 }
