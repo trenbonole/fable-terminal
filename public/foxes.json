@@ -4321,7 +4321,14 @@
       "rarity": "uncommon",
       "id": 198,
       "born": "2026-07-28T20:08:01.634Z",
-      "name": "Marlow the 198th"
+      "name": "Marlow the 198th",
+      "img": "foxes/proc-198.png",
+      "nft": {
+        "tokenId": "198",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x1cdab7dce446edb1d7ddd9da23ad3054947f3933f9bb2598d538e9af6c22300c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
