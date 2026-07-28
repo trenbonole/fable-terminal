@@ -3749,7 +3749,14 @@
       "rarity": "rare",
       "id": 172,
       "born": "2026-07-28T07:08:01.989Z",
-      "name": "Cairn the 172nd"
+      "name": "Cairn the 172nd",
+      "img": "foxes/proc-172.png",
+      "nft": {
+        "tokenId": "172",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x1d2cda98971b43b5c4c7ed387d5759a09724c1a9591944b4edf06175a19838fc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
