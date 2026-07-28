@@ -1,5 +1,5 @@
 {
-  "count": 162,
+  "count": 163,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3537,6 +3537,21 @@
         "tx": "0x63179d3698d15592738585a378fec294cd2105631c5a1ca71166baba2e6f384d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 163,
+      "born": "2026-07-28T02:38:01.931Z",
+      "name": "Pyre the 163rd"
     }
   ]
 }
