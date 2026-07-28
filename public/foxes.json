@@ -3969,7 +3969,14 @@
       "rarity": "rare",
       "id": 182,
       "born": "2026-07-28T12:08:02.175Z",
-      "name": "Reynard the 182nd"
+      "name": "Reynard the 182nd",
+      "img": "foxes/proc-182.png",
+      "nft": {
+        "tokenId": "182",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0xe406116915e9319b3306c497ec879326c9ca3b7f56e824eb460ca5b8ee4b80f4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
