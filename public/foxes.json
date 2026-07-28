@@ -3639,7 +3639,14 @@
       "rarity": "rare",
       "id": 167,
       "born": "2026-07-28T04:38:01.962Z",
-      "name": "Reynard the 167th"
+      "name": "Reynard the 167th",
+      "img": "foxes/proc-167.png",
+      "nft": {
+        "tokenId": "167",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0xd64735355092355aac4d158ad59c1c0c050b5e7a1defd64afce522f5b487b905",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
