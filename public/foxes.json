@@ -1,5 +1,5 @@
 {
-  "count": 191,
+  "count": 192,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4175,6 +4175,21 @@
         "tx": "0x7f9027b97953fbafd4b666febce6b6a6dd936d0b232fcf7f40b6069c4dddfe32",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 192,
+      "born": "2026-07-28T17:08:03.387Z",
+      "name": "Umbra the 192nd"
     }
   ]
 }
