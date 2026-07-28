@@ -1,5 +1,5 @@
 {
-  "count": 197,
+  "count": 198,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4307,6 +4307,21 @@
         "tx": "0x57dbc48c26eb9d1de882fa849845bf6463ae1565c8c5ff41167f77cdbd2caa4c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 198,
+      "born": "2026-07-28T20:08:01.634Z",
+      "name": "Marlow the 198th"
     }
   ]
 }
