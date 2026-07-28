@@ -1,5 +1,5 @@
 {
-  "count": 194,
+  "count": 195,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4241,6 +4241,21 @@
         "tx": "0xf5951e31ac5bc46962dcf9ab6dc1a732240bebf8b407891fd64f5d7027b4b7d0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 195,
+      "born": "2026-07-28T18:38:01.600Z",
+      "name": "Reynard the 195th"
     }
   ]
 }
