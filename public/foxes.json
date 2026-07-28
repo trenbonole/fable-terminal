@@ -3595,7 +3595,14 @@
       "rarity": "uncommon",
       "id": 165,
       "born": "2026-07-28T03:38:01.943Z",
-      "name": "Sable the 165th"
+      "name": "Sable the 165th",
+      "img": "foxes/proc-165.png",
+      "nft": {
+        "tokenId": "165",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x8d3144b36c84ddeaa730ef6c1a8b3a0954a053ac469e81d434634fe1be531feb",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
