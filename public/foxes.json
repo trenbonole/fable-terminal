@@ -1,5 +1,5 @@
 {
-  "count": 203,
+  "count": 204,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4432,6 +4432,21 @@
       "id": 203,
       "born": "2026-07-28T22:38:01.649Z",
       "name": "Umbra the 203rd"
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 204,
+      "born": "2026-07-28T23:08:01.652Z",
+      "name": "Cairn the 204th"
     }
   ]
 }
