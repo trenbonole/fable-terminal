@@ -1,5 +1,5 @@
 {
-  "count": 168,
+  "count": 169,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3669,6 +3669,21 @@
         "tx": "0x6af5a557a44174c57da3ca200676c95a8633dadf66a8309f68c84e746e09996e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 169,
+      "born": "2026-07-28T05:38:02.140Z",
+      "name": "Vulpes the 169th"
     }
   ]
 }
