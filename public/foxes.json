@@ -4255,7 +4255,14 @@
       "rarity": "common",
       "id": 195,
       "born": "2026-07-28T18:38:01.600Z",
-      "name": "Reynard the 195th"
+      "name": "Reynard the 195th",
+      "img": "foxes/proc-195.png",
+      "nft": {
+        "tokenId": "195",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0xb90781cf8360779530a4337f658eae142feb683934b5dfe51ca9117df4c4fabd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
