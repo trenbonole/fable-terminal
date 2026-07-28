@@ -3485,7 +3485,14 @@
       "rarity": "uncommon",
       "id": 160,
       "born": "2026-07-28T01:08:02.089Z",
-      "name": "Bracken the 160th"
+      "name": "Bracken the 160th",
+      "img": "foxes/proc-160.png",
+      "nft": {
+        "tokenId": "160",
+        "owner": "0x56bab42ea4cf60be55f9e52008fea40a18247b77",
+        "tx": "0x9b9ad549fadef86640ae598900d6f883a35c463226041fee18e2ba3276cb33a7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
