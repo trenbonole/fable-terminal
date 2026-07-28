@@ -3727,7 +3727,14 @@
       "rarity": "uncommon",
       "id": 171,
       "born": "2026-07-28T06:38:01.995Z",
-      "name": "Hollow the 171st"
+      "name": "Hollow the 171st",
+      "img": "foxes/proc-171.png",
+      "nft": {
+        "tokenId": "171",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0x5b5c0789888d1550b1b09ce5754bcab25c3400fe21e694afa551157bd545244a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
