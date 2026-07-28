@@ -4057,7 +4057,14 @@
       "rarity": "rare",
       "id": 186,
       "born": "2026-07-28T14:08:01.490Z",
-      "name": "Reynard the 186th"
+      "name": "Reynard the 186th",
+      "img": "foxes/proc-186.png",
+      "nft": {
+        "tokenId": "186",
+        "owner": "0xb2d8c700b05437547c2eeef189e117fdf0f4442d",
+        "tx": "0xc8d47dfd655a92412d340ae9403e38e84670d4986d533405ad918cc71b174386",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
