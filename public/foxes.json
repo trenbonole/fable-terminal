@@ -1,5 +1,5 @@
 {
-  "count": 184,
+  "count": 185,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4021,6 +4021,21 @@
         "tx": "0xa34ebbe91c126d0cbc7272236b06ac397c69897fce6effb2e148e2cbbb2476ee",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 185,
+      "born": "2026-07-28T14:05:56.934Z",
+      "name": "Pyre the 185th"
     }
   ]
 }
