@@ -4409,7 +4409,14 @@
       "rarity": "common",
       "id": 202,
       "born": "2026-07-28T22:08:01.829Z",
-      "name": "Bracken the 202nd"
+      "name": "Bracken the 202nd",
+      "img": "foxes/proc-202.png",
+      "nft": {
+        "tokenId": "202",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x6622e5bddb69d0923029c63552a2fd7dcc47f014ba3efc0579744f3e5e05ed5d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
