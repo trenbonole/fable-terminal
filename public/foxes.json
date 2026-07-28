@@ -1,5 +1,5 @@
 {
-  "count": 193,
+  "count": 194,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4219,6 +4219,21 @@
         "tx": "0x2ace6d66846b904fd545b730d76d0edf090e6a1f2118f2c9b76ee40dc9d0dbb3",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 194,
+      "born": "2026-07-28T18:08:01.655Z",
+      "name": "Ember the 194th"
     }
   ]
 }
