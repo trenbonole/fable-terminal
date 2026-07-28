@@ -3859,7 +3859,14 @@
       "rarity": "common",
       "id": 177,
       "born": "2026-07-28T09:38:02.072Z",
-      "name": "Quill the 177th"
+      "name": "Quill the 177th",
+      "img": "foxes/proc-177.png",
+      "nft": {
+        "tokenId": "177",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x1f291917d54c7db0a38b33bb1e13f5d8b9ac14bc71394cbd3acfad219269cf1c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
