@@ -4387,7 +4387,14 @@
       "rarity": "common",
       "id": 201,
       "born": "2026-07-28T21:38:01.651Z",
-      "name": "Ember the 201st"
+      "name": "Ember the 201st",
+      "img": "foxes/proc-201.png",
+      "nft": {
+        "tokenId": "201",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x50917ed460f7d9fb3714fab47966f30fcaaf1f441ed5bed16eb62ad665b832a3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
