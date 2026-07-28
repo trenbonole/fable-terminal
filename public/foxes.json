@@ -3903,7 +3903,14 @@
       "rarity": "common",
       "id": 179,
       "born": "2026-07-28T10:38:02.090Z",
-      "name": "Quill the 179th"
+      "name": "Quill the 179th",
+      "img": "foxes/proc-179.png",
+      "nft": {
+        "tokenId": "179",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x263fc6356390f32fc1411f34607bc1196adb8992554f9df2a81484caf052c557",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
