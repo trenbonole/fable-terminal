@@ -3529,7 +3529,14 @@
       "rarity": "rare",
       "id": 162,
       "born": "2026-07-28T02:08:02.114Z",
-      "name": "Sorrel the 162nd"
+      "name": "Sorrel the 162nd",
+      "img": "foxes/proc-162.png",
+      "nft": {
+        "tokenId": "162",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0x63179d3698d15592738585a378fec294cd2105631c5a1ca71166baba2e6f384d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
