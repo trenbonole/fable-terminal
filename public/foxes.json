@@ -3573,7 +3573,14 @@
       "rarity": "common",
       "id": 164,
       "born": "2026-07-28T03:08:01.940Z",
-      "name": "Hollow the 164th"
+      "name": "Hollow the 164th",
+      "img": "foxes/proc-164.png",
+      "nft": {
+        "tokenId": "164",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0xda873aa66448e74efbd0e10cea461b2dea9bb8dd6a1356959f0525763b4e8f59",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
