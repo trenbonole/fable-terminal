@@ -3507,7 +3507,14 @@
       "rarity": "uncommon",
       "id": 161,
       "born": "2026-07-28T01:38:02.160Z",
-      "name": "Vesper the 161st"
+      "name": "Vesper the 161st",
+      "img": "foxes/proc-161.png",
+      "nft": {
+        "tokenId": "161",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x2e788437719c7a905e6412006e4bf3cfca3a4431efa00171ca6a04ede809e20e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
