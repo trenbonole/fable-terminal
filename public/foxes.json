@@ -3441,7 +3441,14 @@
       "rarity": "common",
       "id": 158,
       "born": "2026-07-28T00:08:02.776Z",
-      "name": "Cinder the 158th"
+      "name": "Cinder the 158th",
+      "img": "foxes/proc-158.png",
+      "nft": {
+        "tokenId": "158",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x13ce097b8246b2121fa9b7a9914d0d9a486256b06763f4020715052da00988a7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
