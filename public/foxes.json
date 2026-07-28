@@ -4189,7 +4189,14 @@
       "rarity": "common",
       "id": 192,
       "born": "2026-07-28T17:08:03.387Z",
-      "name": "Umbra the 192nd"
+      "name": "Umbra the 192nd",
+      "img": "foxes/proc-192.png",
+      "nft": {
+        "tokenId": "192",
+        "owner": "0x2636fbf545822687a1c5118a9546ed0c6b1b521d",
+        "tx": "0xa9d04ac255245a533e2298deef22a4eaffafd47fa745f839aa3b4bbdabc26b03",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
