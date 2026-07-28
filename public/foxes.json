@@ -1,5 +1,5 @@
 {
-  "count": 167,
+  "count": 168,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3647,6 +3647,21 @@
         "tx": "0xd64735355092355aac4d158ad59c1c0c050b5e7a1defd64afce522f5b487b905",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 168,
+      "born": "2026-07-28T05:08:01.975Z",
+      "name": "Cairn the 168th"
     }
   ]
 }
