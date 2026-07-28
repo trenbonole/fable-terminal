@@ -1,5 +1,5 @@
 {
-  "count": 173,
+  "count": 174,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3779,6 +3779,21 @@
         "tx": "0xed02fac1368a901481d8f6841debe62ea0eb04f7bdb24067eb96a40182afd4cc",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 174,
+      "born": "2026-07-28T08:08:01.982Z",
+      "name": "Reynard the 174th"
     }
   ]
 }
