@@ -1,5 +1,5 @@
 {
-  "count": 176,
+  "count": 177,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3845,6 +3845,21 @@
         "tx": "0xd8088ac630df3cbe741f67bc9d170c56fea278f1b9a7dc1cbd8884540f9f3ba9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 177,
+      "born": "2026-07-28T09:38:02.072Z",
+      "name": "Quill the 177th"
     }
   ]
 }
