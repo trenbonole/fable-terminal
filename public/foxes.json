@@ -1,5 +1,5 @@
 {
-  "count": 188,
+  "count": 189,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4109,6 +4109,21 @@
         "tx": "0xd2f118ce66e94a23c0a940a546bd3d40775a119869261a0352163b5571d212bd",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 189,
+      "born": "2026-07-28T15:38:01.574Z",
+      "name": "Vesper the 189th"
     }
   ]
 }
