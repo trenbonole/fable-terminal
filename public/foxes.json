@@ -3925,7 +3925,14 @@
       "rarity": "rare",
       "id": 180,
       "born": "2026-07-28T11:08:02.086Z",
-      "name": "Quill the 180th"
+      "name": "Quill the 180th",
+      "img": "foxes/proc-180.png",
+      "nft": {
+        "tokenId": "180",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0xcfc2bb8db7c0202d2e83c0dc247023be37fbffa4dadc4bcaaf855b2e8dcf7806",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
