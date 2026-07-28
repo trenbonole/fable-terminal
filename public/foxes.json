@@ -3771,7 +3771,14 @@
       "rarity": "uncommon",
       "id": 173,
       "born": "2026-07-28T07:38:01.987Z",
-      "name": "Sorrel the 173rd"
+      "name": "Sorrel the 173rd",
+      "img": "foxes/proc-173.png",
+      "nft": {
+        "tokenId": "173",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xed02fac1368a901481d8f6841debe62ea0eb04f7bdb24067eb96a40182afd4cc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
