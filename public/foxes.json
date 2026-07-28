@@ -1,5 +1,5 @@
 {
-  "count": 199,
+  "count": 200,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4351,6 +4351,21 @@
         "tx": "0x910ddbf32435068b4cc527a2c6d141e4fb852d924b493433aa348e01a4e5a7f6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 200,
+      "born": "2026-07-28T21:08:01.652Z",
+      "name": "Ash the 200th"
     }
   ]
 }
