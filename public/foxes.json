@@ -4123,7 +4123,14 @@
       "rarity": "uncommon",
       "id": 189,
       "born": "2026-07-28T15:38:01.574Z",
-      "name": "Vesper the 189th"
+      "name": "Vesper the 189th",
+      "img": "foxes/proc-189.png",
+      "nft": {
+        "tokenId": "189",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x6a7b22b7b50abaf0edcd28fe4c6cee4c7e4b546e8e578941c9551ac36c23ee31",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
