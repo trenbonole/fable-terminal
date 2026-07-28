@@ -4035,7 +4035,14 @@
       "rarity": "rare",
       "id": 185,
       "born": "2026-07-28T14:05:56.934Z",
-      "name": "Pyre the 185th"
+      "name": "Pyre the 185th",
+      "img": "foxes/proc-185.png",
+      "nft": {
+        "tokenId": "185",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x5e6b93855d783a49f1d2c55608cea6c83cfeab441ecd660111cd4fd2adc3bd09",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
