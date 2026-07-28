@@ -1,5 +1,5 @@
 {
-  "count": 172,
+  "count": 173,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3757,6 +3757,21 @@
         "tx": "0x1d2cda98971b43b5c4c7ed387d5759a09724c1a9591944b4edf06175a19838fc",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 173,
+      "born": "2026-07-28T07:38:01.987Z",
+      "name": "Sorrel the 173rd"
     }
   ]
 }
