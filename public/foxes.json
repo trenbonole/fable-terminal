@@ -4343,7 +4343,14 @@
       "rarity": "uncommon",
       "id": 199,
       "born": "2026-07-28T20:38:01.671Z",
-      "name": "Sorrel the 199th"
+      "name": "Sorrel the 199th",
+      "img": "foxes/proc-199.png",
+      "nft": {
+        "tokenId": "199",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x910ddbf32435068b4cc527a2c6d141e4fb852d924b493433aa348e01a4e5a7f6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
