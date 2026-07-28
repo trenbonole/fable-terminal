@@ -1,5 +1,5 @@
 {
-  "count": 174,
+  "count": 175,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3801,6 +3801,21 @@
         "tx": "0x4f2f504719004f13cb17189ec4c39048529c1336a7796f0f779dc6636a7f0c1f",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 175,
+      "born": "2026-07-28T08:38:02.003Z",
+      "name": "Sable the 175th"
     }
   ]
 }
