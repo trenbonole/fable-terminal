@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #168 — Cairn the 168th",
+  "description": "One of the foxes the machine dreams. uncommon, 2 tails, moonlit fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-168.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "moonlit"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 2
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "round"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}
