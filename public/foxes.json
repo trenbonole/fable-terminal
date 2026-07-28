@@ -1,5 +1,5 @@
 {
-  "count": 180,
+  "count": 181,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3933,6 +3933,21 @@
         "tx": "0xcfc2bb8db7c0202d2e83c0dc247023be37fbffa4dadc4bcaaf855b2e8dcf7806",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 181,
+      "born": "2026-07-28T11:38:02.173Z",
+      "name": "Tod the 181st"
     }
   ]
 }
