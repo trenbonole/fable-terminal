@@ -1,5 +1,5 @@
 {
-  "count": 200,
+  "count": 201,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4373,6 +4373,21 @@
         "tx": "0xc8f40acaf0658a3e0b4df353b987e8a1dc456bdbd3241100f8f707cff6447219",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 201,
+      "born": "2026-07-28T21:38:01.651Z",
+      "name": "Ember the 201st"
     }
   ]
 }
