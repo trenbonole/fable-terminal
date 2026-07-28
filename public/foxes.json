@@ -3793,7 +3793,14 @@
       "rarity": "common",
       "id": 174,
       "born": "2026-07-28T08:08:01.982Z",
-      "name": "Reynard the 174th"
+      "name": "Reynard the 174th",
+      "img": "foxes/proc-174.png",
+      "nft": {
+        "tokenId": "174",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x4f2f504719004f13cb17189ec4c39048529c1336a7796f0f779dc6636a7f0c1f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
