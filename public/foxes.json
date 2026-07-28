@@ -1,5 +1,5 @@
 {
-  "count": 166,
+  "count": 167,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3625,6 +3625,21 @@
         "tx": "0x77e6bf9bd3e5e75e87e6b7927034db462085bc36ac2127290db3467cf9a5966a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 167,
+      "born": "2026-07-28T04:38:01.962Z",
+      "name": "Reynard the 167th"
     }
   ]
 }
