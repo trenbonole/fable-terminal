@@ -3837,7 +3837,14 @@
       "rarity": "common",
       "id": 176,
       "born": "2026-07-28T09:08:02.006Z",
-      "name": "Umbra the 176th"
+      "name": "Umbra the 176th",
+      "img": "foxes/proc-176.png",
+      "nft": {
+        "tokenId": "176",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xd8088ac630df3cbe741f67bc9d170c56fea278f1b9a7dc1cbd8884540f9f3ba9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
