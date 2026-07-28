@@ -4446,7 +4446,14 @@
       "rarity": "uncommon",
       "id": 204,
       "born": "2026-07-28T23:08:01.652Z",
-      "name": "Cairn the 204th"
+      "name": "Cairn the 204th",
+      "img": "foxes/proc-204.png",
+      "nft": {
+        "tokenId": "203",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x4a1bd6ecf8849c1ad6006e77d543218e88de9a65565922e8914e63a1d53e1e5d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
