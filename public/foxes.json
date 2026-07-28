@@ -1,5 +1,5 @@
 {
-  "count": 202,
+  "count": 203,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4417,6 +4417,21 @@
         "tx": "0x6622e5bddb69d0923029c63552a2fd7dcc47f014ba3efc0579744f3e5e05ed5d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 203,
+      "born": "2026-07-28T22:38:01.649Z",
+      "name": "Umbra the 203rd"
     }
   ]
 }
