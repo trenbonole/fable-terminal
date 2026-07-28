@@ -1,5 +1,5 @@
 {
-  "count": 171,
+  "count": 172,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3735,6 +3735,21 @@
         "tx": "0x5b5c0789888d1550b1b09ce5754bcab25c3400fe21e694afa551157bd545244a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 5,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 172,
+      "born": "2026-07-28T07:08:01.989Z",
+      "name": "Cairn the 172nd"
     }
   ]
 }
