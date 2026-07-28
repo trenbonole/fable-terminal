@@ -1,5 +1,5 @@
 {
-  "count": 186,
+  "count": 187,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4065,6 +4065,21 @@
         "tx": "0xc8d47dfd655a92412d340ae9403e38e84670d4986d533405ad918cc71b174386",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 187,
+      "born": "2026-07-28T14:38:01.525Z",
+      "name": "Vulpes the 187th"
     }
   ]
 }
