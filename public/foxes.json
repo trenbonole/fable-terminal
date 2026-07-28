@@ -4079,7 +4079,14 @@
       "rarity": "uncommon",
       "id": 187,
       "born": "2026-07-28T14:38:01.525Z",
-      "name": "Vulpes the 187th"
+      "name": "Vulpes the 187th",
+      "img": "foxes/proc-187.png",
+      "nft": {
+        "tokenId": "187",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0xd67ef8277cd96cd508cb93fbf37a37dd3b1413c20047efec9769b187f58204e1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
