@@ -1,5 +1,5 @@
 {
-  "count": 177,
+  "count": 178,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3867,6 +3867,21 @@
         "tx": "0x1f291917d54c7db0a38b33bb1e13f5d8b9ac14bc71394cbd3acfad219269cf1c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 178,
+      "born": "2026-07-28T10:08:02.144Z",
+      "name": "Umbra the 178th"
     }
   ]
 }
