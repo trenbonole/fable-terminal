@@ -4277,7 +4277,14 @@
       "rarity": "uncommon",
       "id": 196,
       "born": "2026-07-28T19:08:02.079Z",
-      "name": "Tod the 196th"
+      "name": "Tod the 196th",
+      "img": "foxes/proc-196.png",
+      "nft": {
+        "tokenId": "196",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x06ac2093a67e9ff490bce182023d9f0bd73bcf32ea0df3f97c01408876061f1d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
