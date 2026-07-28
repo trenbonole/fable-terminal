@@ -3947,7 +3947,14 @@
       "rarity": "rare",
       "id": 181,
       "born": "2026-07-28T11:38:02.173Z",
-      "name": "Tod the 181st"
+      "name": "Tod the 181st",
+      "img": "foxes/proc-181.png",
+      "nft": {
+        "tokenId": "181",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x4a146445d1258ed514d815b1c207676e334ccaf31696a6de44d66812a90c9028",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
