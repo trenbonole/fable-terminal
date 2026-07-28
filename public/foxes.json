@@ -3815,7 +3815,14 @@
       "rarity": "common",
       "id": 175,
       "born": "2026-07-28T08:38:02.003Z",
-      "name": "Sable the 175th"
+      "name": "Sable the 175th",
+      "img": "foxes/proc-175.png",
+      "nft": {
+        "tokenId": "175",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x8582b832d5271e88294ed3bb6825344325bb1288dd26ae64175ef83491837be2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
