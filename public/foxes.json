@@ -4299,7 +4299,14 @@
       "rarity": "uncommon",
       "id": 197,
       "born": "2026-07-28T19:38:01.615Z",
-      "name": "Ember the 197th"
+      "name": "Ember the 197th",
+      "img": "foxes/proc-197.png",
+      "nft": {
+        "tokenId": "197",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0x57dbc48c26eb9d1de882fa849845bf6463ae1565c8c5ff41167f77cdbd2caa4c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
