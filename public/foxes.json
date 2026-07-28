@@ -3683,7 +3683,14 @@
       "rarity": "common",
       "id": 169,
       "born": "2026-07-28T05:38:02.140Z",
-      "name": "Vulpes the 169th"
+      "name": "Vulpes the 169th",
+      "img": "foxes/proc-169.png",
+      "nft": {
+        "tokenId": "169",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0xd600f66923e09284d82e8d30de23f784fe8e12c3904b5e4ae640003908956f32",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
