@@ -1,5 +1,5 @@
 {
-  "count": 204,
+  "count": 205,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4454,6 +4454,21 @@
         "tx": "0x4a1bd6ecf8849c1ad6006e77d543218e88de9a65565922e8914e63a1d53e1e5d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 205,
+      "born": "2026-07-28T23:38:01.685Z",
+      "name": "Cinder the 205th"
     }
   ]
 }
