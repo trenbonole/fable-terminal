@@ -1,5 +1,5 @@
 {
-  "count": 182,
+  "count": 183,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3977,6 +3977,21 @@
         "tx": "0xe406116915e9319b3306c497ec879326c9ca3b7f56e824eb460ca5b8ee4b80f4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 183,
+      "born": "2026-07-28T12:38:02.188Z",
+      "name": "Cinder the 183rd"
     }
   ]
 }
