@@ -3551,7 +3551,14 @@
       "rarity": "common",
       "id": 163,
       "born": "2026-07-28T02:38:01.931Z",
-      "name": "Pyre the 163rd"
+      "name": "Pyre the 163rd",
+      "img": "foxes/proc-163.png",
+      "nft": {
+        "tokenId": "163",
+        "owner": "0x2223e16feb379f8004822cb419ea6a49e8b7118f",
+        "tx": "0x47bfdf96c0b3c8061ec0ba1fd58a3ff4a770e5b203d6df6749a242d2760d3a88",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
