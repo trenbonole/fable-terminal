@@ -1,5 +1,5 @@
 {
-  "count": 161,
+  "count": 162,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3515,6 +3515,21 @@
         "tx": "0x2e788437719c7a905e6412006e4bf3cfca3a4431efa00171ca6a04ede809e20e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "halo",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 162,
+      "born": "2026-07-28T02:08:02.114Z",
+      "name": "Sorrel the 162nd"
     }
   ]
 }
