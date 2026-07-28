@@ -3705,7 +3705,14 @@
       "rarity": "rare",
       "id": 170,
       "born": "2026-07-28T06:08:01.962Z",
-      "name": "Bracken the 170th"
+      "name": "Bracken the 170th",
+      "img": "foxes/proc-170.png",
+      "nft": {
+        "tokenId": "170",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0xf6c7d96fb7c1549cbd47b3b19a26d6733e2a869e29b14609c20499f4722db523",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
