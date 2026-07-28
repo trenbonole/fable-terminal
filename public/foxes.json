@@ -3991,7 +3991,14 @@
       "rarity": "uncommon",
       "id": 183,
       "born": "2026-07-28T12:38:02.188Z",
-      "name": "Cinder the 183rd"
+      "name": "Cinder the 183rd",
+      "img": "foxes/proc-183.png",
+      "nft": {
+        "tokenId": "183",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0xc49acfb38c5b6798d1d16e0d27beb8fdeb45e68072b2971f0939387909b97ed2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
