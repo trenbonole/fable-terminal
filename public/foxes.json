@@ -4167,7 +4167,14 @@
       "rarity": "rare",
       "id": 191,
       "born": "2026-07-28T16:38:02.837Z",
-      "name": "Vesper the 191st"
+      "name": "Vesper the 191st",
+      "img": "foxes/proc-191.png",
+      "nft": {
+        "tokenId": "191",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x7f9027b97953fbafd4b666febce6b6a6dd936d0b232fcf7f40b6069c4dddfe32",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
