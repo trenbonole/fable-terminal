@@ -4365,7 +4365,14 @@
       "rarity": "common",
       "id": 200,
       "born": "2026-07-28T21:08:01.652Z",
-      "name": "Ash the 200th"
+      "name": "Ash the 200th",
+      "img": "foxes/proc-200.png",
+      "nft": {
+        "tokenId": "200",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0xc8f40acaf0658a3e0b4df353b987e8a1dc456bdbd3241100f8f707cff6447219",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
