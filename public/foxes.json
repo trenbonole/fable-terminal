@@ -4101,7 +4101,14 @@
       "rarity": "common",
       "id": 188,
       "born": "2026-07-28T15:08:03.156Z",
-      "name": "Kit the 188th"
+      "name": "Kit the 188th",
+      "img": "foxes/proc-188.png",
+      "nft": {
+        "tokenId": "188",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0xd2f118ce66e94a23c0a940a546bd3d40775a119869261a0352163b5571d212bd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
