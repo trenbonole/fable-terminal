@@ -4468,7 +4468,14 @@
       "rarity": "uncommon",
       "id": 205,
       "born": "2026-07-28T23:38:01.685Z",
-      "name": "Cinder the 205th"
+      "name": "Cinder the 205th",
+      "img": "foxes/proc-205.png",
+      "nft": {
+        "tokenId": "204",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0xbee70ab7136a237507853039a07c3b7a574eeb67e55be793803a6fab3c0dded4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
