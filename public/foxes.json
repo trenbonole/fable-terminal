@@ -1,5 +1,5 @@
 {
-  "count": 159,
+  "count": 160,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3471,6 +3471,21 @@
         "tx": "0x054668ea3bcc4959f4c82b97895c4ab084a11b74fe0ba732f32970af914468e2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 160,
+      "born": "2026-07-28T01:08:02.089Z",
+      "name": "Bracken the 160th"
     }
   ]
 }
