@@ -1,5 +1,5 @@
 {
-  "count": 157,
+  "count": 158,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -3427,6 +3427,21 @@
         "tx": "0x8b3da3187e4fc0fcf60532031fb2b6b077a59a59c1c158f643a36a454c6b0d11",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 158,
+      "born": "2026-07-28T00:08:02.776Z",
+      "name": "Cinder the 158th"
     }
   ]
 }
