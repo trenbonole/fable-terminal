@@ -4013,7 +4013,14 @@
       "rarity": "common",
       "id": 184,
       "born": "2026-07-28T13:08:02.198Z",
-      "name": "Sorrel the 184th"
+      "name": "Sorrel the 184th",
+      "img": "foxes/proc-184.png",
+      "nft": {
+        "tokenId": "184",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0xa34ebbe91c126d0cbc7272236b06ac397c69897fce6effb2e148e2cbbb2476ee",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
