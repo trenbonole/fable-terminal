@@ -4145,7 +4145,14 @@
       "rarity": "uncommon",
       "id": 190,
       "born": "2026-07-28T16:08:01.531Z",
-      "name": "Bracken the 190th"
+      "name": "Bracken the 190th",
+      "img": "foxes/proc-190.png",
+      "nft": {
+        "tokenId": "190",
+        "owner": "0xa14c04df5445e74349c5c4745629c7f405500b83",
+        "tx": "0xb8dbad3a788f728048a4884cb869855657f53df9b3e64dc9057c01007439e9b0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
