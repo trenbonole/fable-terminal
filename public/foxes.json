@@ -4233,7 +4233,14 @@
       "rarity": "uncommon",
       "id": 194,
       "born": "2026-07-28T18:08:01.655Z",
-      "name": "Ember the 194th"
+      "name": "Ember the 194th",
+      "img": "foxes/proc-194.png",
+      "nft": {
+        "tokenId": "194",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0xf5951e31ac5bc46962dcf9ab6dc1a732240bebf8b407891fd64f5d7027b4b7d0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
