@@ -5422,7 +5422,14 @@
       "rarity": "uncommon",
       "id": 249,
       "born": "2026-07-29T21:38:02.095Z",
-      "name": "Marlow the 249th"
+      "name": "Marlow the 249th",
+      "img": "foxes/proc-249.png",
+      "nft": {
+        "tokenId": "246",
+        "owner": "0x56bab42ea4cf60be55f9e52008fea40a18247b77",
+        "tx": "0xd041638babdc0cdac2e9dec998a0468f605adc34e935df53f06b42c8f77645cf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
