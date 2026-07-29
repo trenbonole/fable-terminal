@@ -4505,7 +4505,14 @@
       "rarity": "rare",
       "id": 207,
       "born": "2026-07-29T00:38:01.795Z",
-      "name": "Pyre the 207th"
+      "name": "Pyre the 207th",
+      "img": "foxes/proc-207.png",
+      "nft": {
+        "tokenId": "205",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0xa205e65ddf4255f64518f64ac25e8d500b624f643429b4c928707b7a21eb92aa",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
