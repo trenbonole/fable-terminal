@@ -4718,7 +4718,14 @@
       "rarity": "rare",
       "id": 217,
       "born": "2026-07-29T05:38:01.748Z",
-      "name": "Fennec the 217th"
+      "name": "Fennec the 217th",
+      "img": "foxes/proc-217.png",
+      "nft": {
+        "tokenId": "214",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x78bd161fbdd4acad4ab899b214dbc85e1f8b77fbe208037642b4f0956600eadc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
