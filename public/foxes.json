@@ -1,5 +1,5 @@
 {
-  "count": 221,
+  "count": 222,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4814,6 +4814,21 @@
         "tx": "0x02e471968f4bf0eb3fd42c7b19d428bbf1f01b078b16bcf62778ed377aa2ae92",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 222,
+      "born": "2026-07-29T08:08:01.825Z",
+      "name": "Quill the 222nd"
     }
   ]
 }
