@@ -5312,7 +5312,14 @@
       "rarity": "common",
       "id": 244,
       "born": "2026-07-29T19:08:02.023Z",
-      "name": "Vulpes the 244th"
+      "name": "Vulpes the 244th",
+      "img": "foxes/proc-244.png",
+      "nft": {
+        "tokenId": "241",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x893715608e24a069bf483cfee13417827c9f5443a35c7eda003ca72b40270b8f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
