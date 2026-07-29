@@ -4762,7 +4762,14 @@
       "rarity": "uncommon",
       "id": 219,
       "born": "2026-07-29T06:38:01.786Z",
-      "name": "Mote the 219th"
+      "name": "Mote the 219th",
+      "img": "foxes/proc-219.png",
+      "nft": {
+        "tokenId": "216",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0xa7e2f8398ea23ba629169973cc1a19d9fb09f004d6ba58e772242a8c17e4c34a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
