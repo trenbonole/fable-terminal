@@ -5026,7 +5026,14 @@
       "rarity": "common",
       "id": 231,
       "born": "2026-07-29T12:38:02.151Z",
-      "name": "Cinder the 231st"
+      "name": "Cinder the 231st",
+      "img": "foxes/proc-231.png",
+      "nft": {
+        "tokenId": "228",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0xb45d34b9f2cc7cb16bb0f76094a3206606de6ec1867f0351e3c9ec3f753aff9d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
