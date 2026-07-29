@@ -1,5 +1,5 @@
 {
-  "count": 244,
+  "count": 245,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5320,6 +5320,21 @@
         "tx": "0x893715608e24a069bf483cfee13417827c9f5443a35c7eda003ca72b40270b8f",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 245,
+      "born": "2026-07-29T19:38:15.486Z",
+      "name": "Wick the 245th"
     }
   ]
 }
