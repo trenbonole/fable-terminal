@@ -4784,7 +4784,14 @@
       "rarity": "common",
       "id": 220,
       "born": "2026-07-29T07:08:01.753Z",
-      "name": "Pyre the 220th"
+      "name": "Pyre the 220th",
+      "img": "foxes/proc-220.png",
+      "nft": {
+        "tokenId": "217",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0x26de38e92b935c4857ba91a472bde9725656201644f3eb28bdeac9e887cb0c27",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
