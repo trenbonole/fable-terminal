@@ -5510,7 +5510,14 @@
       "rarity": "uncommon",
       "id": 253,
       "born": "2026-07-29T23:38:02.358Z",
-      "name": "Kit the 253rd"
+      "name": "Kit the 253rd",
+      "img": "foxes/proc-253.png",
+      "nft": {
+        "tokenId": "250",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xf89315b251b9df765e4e790a2fd4b6470b4b1b13e3cfde3a27b23dfdbb2ef5a9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
