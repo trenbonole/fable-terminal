@@ -1,5 +1,5 @@
 {
-  "count": 251,
+  "count": 252,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5474,6 +5474,21 @@
         "tx": "0x749c80761f7d23d80740e69046d0258d06588c394eeadd1819a9599bef6ff32c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 252,
+      "born": "2026-07-29T23:08:02.291Z",
+      "name": "Ember the 252nd"
     }
   ]
 }
