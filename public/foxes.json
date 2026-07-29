@@ -5400,7 +5400,14 @@
       "rarity": "common",
       "id": 248,
       "born": "2026-07-29T21:08:02.099Z",
-      "name": "Sable the 248th"
+      "name": "Sable the 248th",
+      "img": "foxes/proc-248.png",
+      "nft": {
+        "tokenId": "245",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xe022cf67626e39ffcdc1c2aa7b4397346ee2665872af0efd8fb2928bb0ee9d10",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
