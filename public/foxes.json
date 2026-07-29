@@ -1,5 +1,5 @@
 {
-  "count": 231,
+  "count": 232,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5034,6 +5034,21 @@
         "tx": "0xb45d34b9f2cc7cb16bb0f76094a3206606de6ec1867f0351e3c9ec3f753aff9d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 232,
+      "born": "2026-07-29T13:08:01.896Z",
+      "name": "Pyre the 232nd"
     }
   ]
 }
