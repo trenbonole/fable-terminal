@@ -4960,7 +4960,14 @@
       "rarity": "uncommon",
       "id": 228,
       "born": "2026-07-29T11:08:01.867Z",
-      "name": "Pyre the 228th"
+      "name": "Pyre the 228th",
+      "img": "foxes/proc-228.png",
+      "nft": {
+        "tokenId": "225",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x82b19c820f8604577d0b6ef12f299337340f13fc80e86f84c25c3d14067e58ec",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
