@@ -1,5 +1,5 @@
 {
-  "count": 229,
+  "count": 230,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4990,6 +4990,21 @@
         "tx": "0x2c952887f414020f00f0c8703f75877da40790725af4fb895e60a5d2684c5952",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 230,
+      "born": "2026-07-29T12:08:03.075Z",
+      "name": "Quill the 230th"
     }
   ]
 }
