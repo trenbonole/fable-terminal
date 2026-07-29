@@ -4630,7 +4630,14 @@
       "rarity": "uncommon",
       "id": 213,
       "born": "2026-07-29T03:38:01.701Z",
-      "name": "Reynard the 213th"
+      "name": "Reynard the 213th",
+      "img": "foxes/proc-213.png",
+      "nft": {
+        "tokenId": "210",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0x7cbb656e22b335fb26806ffb68664b11342c767c3f2bc8316652dc11d20d7149",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
