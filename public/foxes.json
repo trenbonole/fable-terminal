@@ -1,5 +1,5 @@
 {
-  "count": 233,
+  "count": 234,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5078,6 +5078,21 @@
         "tx": "0x1d68ef0d474f6801c904b6ab4c701f1c7a170765a19382f39efe391a803dcfc2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 5,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 234,
+      "born": "2026-07-29T14:08:02.363Z",
+      "name": "Cinder the 234th"
     }
   ]
 }
