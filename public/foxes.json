@@ -4564,7 +4564,14 @@
       "rarity": "uncommon",
       "id": 210,
       "born": "2026-07-29T02:08:01.772Z",
-      "name": "Vulpes the 210th"
+      "name": "Vulpes the 210th",
+      "img": "foxes/proc-210.png",
+      "nft": {
+        "tokenId": "207",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x704b9dd6686835426e9b009b0e7d673042ceaa9653031fc456367738d6184861",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
