@@ -4652,7 +4652,14 @@
       "rarity": "rare",
       "id": 214,
       "born": "2026-07-29T04:08:01.698Z",
-      "name": "Cairn the 214th"
+      "name": "Cairn the 214th",
+      "img": "foxes/proc-214.png",
+      "nft": {
+        "tokenId": "211",
+        "owner": "0xb2d8c700b05437547c2eeef189e117fdf0f4442d",
+        "tx": "0xeed127cccd0945e742a71255645d62bcd208b272e0df25e43ef4aa66452db468",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
