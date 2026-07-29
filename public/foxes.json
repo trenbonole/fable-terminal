@@ -4586,7 +4586,14 @@
       "rarity": "uncommon",
       "id": 211,
       "born": "2026-07-29T02:38:01.740Z",
-      "name": "Cinder the 211th"
+      "name": "Cinder the 211th",
+      "img": "foxes/proc-211.png",
+      "nft": {
+        "tokenId": "208",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0xe9776e38f3325fce1540ce1764e746a0f1b3d3e010d46d22708b247dfe191b7e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
