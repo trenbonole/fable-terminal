@@ -5488,7 +5488,14 @@
       "rarity": "common",
       "id": 252,
       "born": "2026-07-29T23:08:02.291Z",
-      "name": "Ember the 252nd"
+      "name": "Ember the 252nd",
+      "img": "foxes/proc-252.png",
+      "nft": {
+        "tokenId": "249",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x0c1d8ac5f77619bcf8ce381f27777564d3f8ef08a2e0117399c72475c380bde5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
