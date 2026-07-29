@@ -1,5 +1,5 @@
 {
-  "count": 246,
+  "count": 247,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5364,6 +5364,21 @@
         "tx": "0x2ef1fb482db224e556829455641a08337e064bc28e15e0c671dad826713e1609",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 247,
+      "born": "2026-07-29T20:38:02.116Z",
+      "name": "Ember the 247th"
     }
   ]
 }
