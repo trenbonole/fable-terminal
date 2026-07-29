@@ -4916,7 +4916,14 @@
       "rarity": "uncommon",
       "id": 226,
       "born": "2026-07-29T10:08:01.840Z",
-      "name": "Vesper the 226th"
+      "name": "Vesper the 226th",
+      "img": "foxes/proc-226.png",
+      "nft": {
+        "tokenId": "223",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xdf66a0f329c54b13d0cfefcfff4f436d5f399c8cc747b4597a46e5433b044bd6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
