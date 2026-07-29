@@ -4542,7 +4542,14 @@
       "rarity": "uncommon",
       "id": 209,
       "born": "2026-07-29T01:38:01.808Z",
-      "name": "Cinder the 209th"
+      "name": "Cinder the 209th",
+      "img": "foxes/proc-209.png",
+      "nft": {
+        "tokenId": "206",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xf632e4b1b2b5341fb16fd3d08420192312b76fac485d33008141533bcb1e0ffc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
