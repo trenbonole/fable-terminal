@@ -5444,7 +5444,14 @@
       "rarity": "common",
       "id": 250,
       "born": "2026-07-29T22:08:01.897Z",
-      "name": "Reynard the 250th"
+      "name": "Reynard the 250th",
+      "img": "foxes/proc-250.png",
+      "nft": {
+        "tokenId": "247",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x187e200c0b11c53da8f5144e2208897a087ae3d42a8dfdb3eb2ad29cccea7e73",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
