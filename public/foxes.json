@@ -4828,7 +4828,14 @@
       "rarity": "common",
       "id": 222,
       "born": "2026-07-29T08:08:01.825Z",
-      "name": "Quill the 222nd"
+      "name": "Quill the 222nd",
+      "img": "foxes/proc-222.png",
+      "nft": {
+        "tokenId": "219",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x7db0431c90f7162497a72a2472be910bdced8f1663705f18c0248942da937020",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
