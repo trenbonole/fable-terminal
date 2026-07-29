@@ -4850,7 +4850,14 @@
       "rarity": "uncommon",
       "id": 223,
       "born": "2026-07-29T08:38:01.828Z",
-      "name": "Hollow the 223rd"
+      "name": "Hollow the 223rd",
+      "img": "foxes/proc-223.png",
+      "nft": {
+        "tokenId": "220",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x85dd5b898dda1870ee3438cd710d0ff6f00910ad9adab18228e20963225462b4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
