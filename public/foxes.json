@@ -1,5 +1,5 @@
 {
-  "count": 214,
+  "count": 215,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4660,6 +4660,21 @@
         "tx": "0xeed127cccd0945e742a71255645d62bcd208b272e0df25e43ef4aa66452db468",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 215,
+      "born": "2026-07-29T04:38:01.692Z",
+      "name": "Wick the 215th"
     }
   ]
 }
