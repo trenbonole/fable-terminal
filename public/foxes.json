@@ -1,5 +1,5 @@
 {
-  "count": 225,
+  "count": 226,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4902,6 +4902,21 @@
         "tx": "0x4c0547f80c7ee503b10db171abd5a304c933dba2f3a38972586661667c481009",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 226,
+      "born": "2026-07-29T10:08:01.840Z",
+      "name": "Vesper the 226th"
     }
   ]
 }
