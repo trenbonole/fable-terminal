@@ -1,5 +1,5 @@
 {
-  "count": 241,
+  "count": 242,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5254,6 +5254,21 @@
         "tx": "0x2db95cd597a1ac6fee36b2e9836db14481e50ff461a25537420c14fb7c085122",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 242,
+      "born": "2026-07-29T18:08:01.944Z",
+      "name": "Mote the 242nd"
     }
   ]
 }
