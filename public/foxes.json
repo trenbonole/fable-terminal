@@ -5048,7 +5048,14 @@
       "rarity": "common",
       "id": 232,
       "born": "2026-07-29T13:08:01.896Z",
-      "name": "Pyre the 232nd"
+      "name": "Pyre the 232nd",
+      "img": "foxes/proc-232.png",
+      "nft": {
+        "tokenId": "229",
+        "owner": "0x4a3b8f06f753c6e0b49758dcdc0b40d1799fbf03",
+        "tx": "0x9cb239a22e3f3265748368898921c9be0f7c8baae128a9349f834a5e4996bef8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
