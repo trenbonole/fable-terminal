@@ -1,5 +1,5 @@
 {
-  "count": 248,
+  "count": 249,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5408,6 +5408,21 @@
         "tx": "0xe022cf67626e39ffcdc1c2aa7b4397346ee2665872af0efd8fb2928bb0ee9d10",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 249,
+      "born": "2026-07-29T21:38:02.095Z",
+      "name": "Marlow the 249th"
     }
   ]
 }
