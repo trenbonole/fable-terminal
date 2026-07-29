@@ -4894,7 +4894,14 @@
       "rarity": "uncommon",
       "id": 225,
       "born": "2026-07-29T09:38:01.781Z",
-      "name": "Cinder the 225th"
+      "name": "Cinder the 225th",
+      "img": "foxes/proc-225.png",
+      "nft": {
+        "tokenId": "222",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x4c0547f80c7ee503b10db171abd5a304c933dba2f3a38972586661667c481009",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
