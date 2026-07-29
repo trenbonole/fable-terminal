@@ -1,5 +1,5 @@
 {
-  "count": 222,
+  "count": 223,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4836,6 +4836,21 @@
         "tx": "0x7db0431c90f7162497a72a2472be910bdced8f1663705f18c0248942da937020",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 223,
+      "born": "2026-07-29T08:38:01.828Z",
+      "name": "Hollow the 223rd"
     }
   ]
 }
