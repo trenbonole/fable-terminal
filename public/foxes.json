@@ -4674,7 +4674,14 @@
       "rarity": "common",
       "id": 215,
       "born": "2026-07-29T04:38:01.692Z",
-      "name": "Wick the 215th"
+      "name": "Wick the 215th",
+      "img": "foxes/proc-215.png",
+      "nft": {
+        "tokenId": "212",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0xea2074b4c7c834f734ca84e6afe088964304617ded474ec5ba73fe160dd503dd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
