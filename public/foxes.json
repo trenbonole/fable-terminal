@@ -1,5 +1,5 @@
 {
-  "count": 206,
+  "count": 207,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4491,6 +4491,21 @@
       "id": 206,
       "born": "2026-07-29T00:08:01.729Z",
       "name": "Pyre the 206th"
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 207,
+      "born": "2026-07-29T00:38:01.795Z",
+      "name": "Pyre the 207th"
     }
   ]
 }
