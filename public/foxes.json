@@ -5136,7 +5136,14 @@
       "rarity": "uncommon",
       "id": 236,
       "born": "2026-07-29T15:08:01.880Z",
-      "name": "Fennec the 236th"
+      "name": "Fennec the 236th",
+      "img": "foxes/proc-236.png",
+      "nft": {
+        "tokenId": "233",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x20237a8015b2d62baece573740cd5db430d29e9b0acca2dadaea4f3171baa82f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
