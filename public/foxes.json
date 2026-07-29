@@ -1,5 +1,5 @@
 {
-  "count": 207,
+  "count": 208,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4513,6 +4513,21 @@
         "tx": "0xa205e65ddf4255f64518f64ac25e8d500b624f643429b4c928707b7a21eb92aa",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 208,
+      "born": "2026-07-29T01:08:01.755Z",
+      "name": "Mote the 208th"
     }
   ]
 }
