@@ -5334,7 +5334,14 @@
       "rarity": "common",
       "id": 245,
       "born": "2026-07-29T19:38:15.486Z",
-      "name": "Wick the 245th"
+      "name": "Wick the 245th",
+      "img": "foxes/proc-245.png",
+      "nft": {
+        "tokenId": "242",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xc8fe34cd7dfafa96b520830613da7ed55472bfed6f0091a6d5f447fffe279eb1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
