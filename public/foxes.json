@@ -1,5 +1,5 @@
 {
-  "count": 249,
+  "count": 250,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5430,6 +5430,21 @@
         "tx": "0xd041638babdc0cdac2e9dec998a0468f605adc34e935df53f06b42c8f77645cf",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 250,
+      "born": "2026-07-29T22:08:01.897Z",
+      "name": "Reynard the 250th"
     }
   ]
 }
