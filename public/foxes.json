@@ -4740,7 +4740,14 @@
       "rarity": "uncommon",
       "id": 218,
       "born": "2026-07-29T06:08:01.825Z",
-      "name": "Hollow the 218th"
+      "name": "Hollow the 218th",
+      "img": "foxes/proc-218.png",
+      "nft": {
+        "tokenId": "215",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x124d3879625ae41bfb34a1ffb07c392baa7b75f8d1d19151171bc8c4eaaa009a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
