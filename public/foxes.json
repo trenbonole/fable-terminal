@@ -5092,7 +5092,14 @@
       "rarity": "rare",
       "id": 234,
       "born": "2026-07-29T14:08:02.363Z",
-      "name": "Cinder the 234th"
+      "name": "Cinder the 234th",
+      "img": "foxes/proc-234.png",
+      "nft": {
+        "tokenId": "231",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0xd167c07fd71f85af224cf94bd0adaef6749037d93bf715bb328bfdfb484d6ab4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
