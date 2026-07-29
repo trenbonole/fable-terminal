@@ -5004,7 +5004,14 @@
       "rarity": "uncommon",
       "id": 230,
       "born": "2026-07-29T12:08:03.075Z",
-      "name": "Quill the 230th"
+      "name": "Quill the 230th",
+      "img": "foxes/proc-230.png",
+      "nft": {
+        "tokenId": "227",
+        "owner": "0xa14c04df5445e74349c5c4745629c7f405500b83",
+        "tx": "0x15adea887a6db3fd189d82e01e48e27b53655b37704c47d22709185fe09ccdb0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
