@@ -1,5 +1,5 @@
 {
-  "count": 239,
+  "count": 240,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5210,6 +5210,21 @@
         "tx": "0x2613d207280e4ecc8d3a0ebd137498b14eab92f293979972da80cc2e3f93dcdb",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 240,
+      "born": "2026-07-29T17:08:02.135Z",
+      "name": "Mote the 240th"
     }
   ]
 }
