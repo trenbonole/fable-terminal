@@ -5158,7 +5158,14 @@
       "rarity": "uncommon",
       "id": 237,
       "born": "2026-07-29T15:38:02.366Z",
-      "name": "Sorrel the 237th"
+      "name": "Sorrel the 237th",
+      "img": "foxes/proc-237.png",
+      "nft": {
+        "tokenId": "234",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0x5320d3250ce2e136d19c052a7772cad648ed1ef4b1059ecb77baf53e81e528f3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
