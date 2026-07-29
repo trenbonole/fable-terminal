@@ -1,5 +1,5 @@
 {
-  "count": 252,
+  "count": 253,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5496,6 +5496,21 @@
         "tx": "0x0c1d8ac5f77619bcf8ce381f27777564d3f8ef08a2e0117399c72475c380bde5",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 253,
+      "born": "2026-07-29T23:38:02.358Z",
+      "name": "Kit the 253rd"
     }
   ]
 }
