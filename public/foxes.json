@@ -4608,7 +4608,14 @@
       "rarity": "rare",
       "id": 212,
       "born": "2026-07-29T03:08:01.694Z",
-      "name": "Cairn the 212th"
+      "name": "Cairn the 212th",
+      "img": "foxes/proc-212.png",
+      "nft": {
+        "tokenId": "209",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x9a116cfe23f953d8e8f2ad4d2de4cb54523d4670325ddbd711765d065ff035fd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
