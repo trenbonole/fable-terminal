@@ -5268,7 +5268,14 @@
       "rarity": "uncommon",
       "id": 242,
       "born": "2026-07-29T18:08:01.944Z",
-      "name": "Mote the 242nd"
+      "name": "Mote the 242nd",
+      "img": "foxes/proc-242.png",
+      "nft": {
+        "tokenId": "239",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x36bfa7d7add1058f146bf219bbe294d623c15bdbcd77cab32101a3dfe7f8c8a2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
