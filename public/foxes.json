@@ -1,5 +1,5 @@
 {
-  "count": 213,
+  "count": 214,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4638,6 +4638,21 @@
         "tx": "0x7cbb656e22b335fb26806ffb68664b11342c767c3f2bc8316652dc11d20d7149",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 214,
+      "born": "2026-07-29T04:08:01.698Z",
+      "name": "Cairn the 214th"
     }
   ]
 }
