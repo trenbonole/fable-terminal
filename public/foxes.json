@@ -5070,7 +5070,14 @@
       "rarity": "common",
       "id": 233,
       "born": "2026-07-29T13:38:01.866Z",
-      "name": "Ash the 233rd"
+      "name": "Ash the 233rd",
+      "img": "foxes/proc-233.png",
+      "nft": {
+        "tokenId": "230",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x1d68ef0d474f6801c904b6ab4c701f1c7a170765a19382f39efe391a803dcfc2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
