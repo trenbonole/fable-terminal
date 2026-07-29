@@ -5466,7 +5466,14 @@
       "rarity": "rare",
       "id": 251,
       "born": "2026-07-29T22:38:02.187Z",
-      "name": "Vulpes the 251st"
+      "name": "Vulpes the 251st",
+      "img": "foxes/proc-251.png",
+      "nft": {
+        "tokenId": "248",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x749c80761f7d23d80740e69046d0258d06588c394eeadd1819a9599bef6ff32c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
