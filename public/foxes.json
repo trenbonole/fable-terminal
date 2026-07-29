@@ -1,5 +1,5 @@
 {
-  "count": 242,
+  "count": 243,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5276,6 +5276,21 @@
         "tx": "0x36bfa7d7add1058f146bf219bbe294d623c15bdbcd77cab32101a3dfe7f8c8a2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 243,
+      "born": "2026-07-29T18:38:01.935Z",
+      "name": "Kit the 243rd"
     }
   ]
 }
