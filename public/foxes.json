@@ -1,5 +1,5 @@
 {
-  "count": 219,
+  "count": 220,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4770,6 +4770,21 @@
         "tx": "0xa7e2f8398ea23ba629169973cc1a19d9fb09f004d6ba58e772242a8c17e4c34a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 220,
+      "born": "2026-07-29T07:08:01.753Z",
+      "name": "Pyre the 220th"
     }
   ]
 }
