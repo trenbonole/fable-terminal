@@ -4872,7 +4872,14 @@
       "rarity": "uncommon",
       "id": 224,
       "born": "2026-07-29T09:08:01.783Z",
-      "name": "Bracken the 224th"
+      "name": "Bracken the 224th",
+      "img": "foxes/proc-224.png",
+      "nft": {
+        "tokenId": "221",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x041e1997afde31859dfde0604a11fa72c29fb19189eded37ad01748967f30eac",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
