@@ -5378,7 +5378,14 @@
       "rarity": "rare",
       "id": 247,
       "born": "2026-07-29T20:38:02.116Z",
-      "name": "Ember the 247th"
+      "name": "Ember the 247th",
+      "img": "foxes/proc-247.png",
+      "nft": {
+        "tokenId": "244",
+        "owner": "0x4353b6393c0b3214d9100c438dbc5ac041545cf9",
+        "tx": "0xb4523b9c5301f953a9989442aeec7031f270bf68f7e455258ba9ce963cbf12bc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
