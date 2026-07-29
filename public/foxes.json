@@ -1,5 +1,5 @@
 {
-  "count": 223,
+  "count": 224,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4858,6 +4858,21 @@
         "tx": "0x85dd5b898dda1870ee3438cd710d0ff6f00910ad9adab18228e20963225462b4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 224,
+      "born": "2026-07-29T09:08:01.783Z",
+      "name": "Bracken the 224th"
     }
   ]
 }
