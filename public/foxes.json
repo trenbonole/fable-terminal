@@ -1,5 +1,5 @@
 {
-  "count": 250,
+  "count": 251,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5452,6 +5452,21 @@
         "tx": "0x187e200c0b11c53da8f5144e2208897a087ae3d42a8dfdb3eb2ad29cccea7e73",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 251,
+      "born": "2026-07-29T22:38:02.187Z",
+      "name": "Vulpes the 251st"
     }
   ]
 }
