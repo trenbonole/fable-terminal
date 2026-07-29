@@ -5290,7 +5290,14 @@
       "rarity": "rare",
       "id": 243,
       "born": "2026-07-29T18:38:01.935Z",
-      "name": "Kit the 243rd"
+      "name": "Kit the 243rd",
+      "img": "foxes/proc-243.png",
+      "nft": {
+        "tokenId": "240",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0xc7b51d5cb275f493f63c163c4d6eb7a24ac3cbb1ba7fdb690889fabb51b0efd2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
