@@ -4982,7 +4982,14 @@
       "rarity": "rare",
       "id": 229,
       "born": "2026-07-29T11:38:01.867Z",
-      "name": "Cairn the 229th"
+      "name": "Cairn the 229th",
+      "img": "foxes/proc-229.png",
+      "nft": {
+        "tokenId": "226",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x2c952887f414020f00f0c8703f75877da40790725af4fb895e60a5d2684c5952",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
