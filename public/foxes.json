@@ -5224,7 +5224,14 @@
       "rarity": "common",
       "id": 240,
       "born": "2026-07-29T17:08:02.135Z",
-      "name": "Mote the 240th"
+      "name": "Mote the 240th",
+      "img": "foxes/proc-240.png",
+      "nft": {
+        "tokenId": "237",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x271c8697aa0833384369aa5a9bf692d6e1c0b3df382a769ceac9b17228dac2d0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
