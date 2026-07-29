@@ -5180,7 +5180,14 @@
       "rarity": "uncommon",
       "id": 238,
       "born": "2026-07-29T16:08:02.306Z",
-      "name": "Sable the 238th"
+      "name": "Sable the 238th",
+      "img": "foxes/proc-238.png",
+      "nft": {
+        "tokenId": "235",
+        "owner": "0xa14c04df5445e74349c5c4745629c7f405500b83",
+        "tx": "0x27a9995d0f6b95d3782e450dc2a6969df0e3f85e97fe812ae2ed3e06c94fcce5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
