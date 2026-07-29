@@ -5114,7 +5114,14 @@
       "rarity": "uncommon",
       "id": 235,
       "born": "2026-07-29T14:38:05.537Z",
-      "name": "Hollow the 235th"
+      "name": "Hollow the 235th",
+      "img": "foxes/proc-235.png",
+      "nft": {
+        "tokenId": "232",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x77409e0455e3dbb8073ee6ed7c92118795fa6b41c8851a4d61724015d870b1bd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
