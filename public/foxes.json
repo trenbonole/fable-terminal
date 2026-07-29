@@ -5202,7 +5202,14 @@
       "rarity": "uncommon",
       "id": 239,
       "born": "2026-07-29T16:38:02.356Z",
-      "name": "Umbra the 239th"
+      "name": "Umbra the 239th",
+      "img": "foxes/proc-239.png",
+      "nft": {
+        "tokenId": "236",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x2613d207280e4ecc8d3a0ebd137498b14eab92f293979972da80cc2e3f93dcdb",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
