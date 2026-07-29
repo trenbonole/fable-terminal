@@ -4696,7 +4696,14 @@
       "rarity": "common",
       "id": 216,
       "born": "2026-07-29T05:08:01.704Z",
-      "name": "Bracken the 216th"
+      "name": "Bracken the 216th",
+      "img": "foxes/proc-216.png",
+      "nft": {
+        "tokenId": "213",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x38908196ebcb7c55d0c4aa99a6ee718fc5b175bd21c5975ca2e4f2d1ab37eedc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
