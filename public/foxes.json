@@ -1,5 +1,5 @@
 {
-  "count": 228,
+  "count": 229,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4968,6 +4968,21 @@
         "tx": "0x82b19c820f8604577d0b6ef12f299337340f13fc80e86f84c25c3d14067e58ec",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 229,
+      "born": "2026-07-29T11:38:01.867Z",
+      "name": "Cairn the 229th"
     }
   ]
 }
