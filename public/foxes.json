@@ -1,5 +1,5 @@
 {
-  "count": 218,
+  "count": 219,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4748,6 +4748,21 @@
         "tx": "0x124d3879625ae41bfb34a1ffb07c392baa7b75f8d1d19151171bc8c4eaaa009a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 219,
+      "born": "2026-07-29T06:38:01.786Z",
+      "name": "Mote the 219th"
     }
   ]
 }
