@@ -1,5 +1,5 @@
 {
-  "count": 232,
+  "count": 233,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5056,6 +5056,21 @@
         "tx": "0x9cb239a22e3f3265748368898921c9be0f7c8baae128a9349f834a5e4996bef8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 233,
+      "born": "2026-07-29T13:38:01.866Z",
+      "name": "Ash the 233rd"
     }
   ]
 }
