@@ -1,5 +1,5 @@
 {
-  "count": 208,
+  "count": 209,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -4528,6 +4528,21 @@
       "id": 208,
       "born": "2026-07-29T01:08:01.755Z",
       "name": "Mote the 208th"
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 209,
+      "born": "2026-07-29T01:38:01.808Z",
+      "name": "Cinder the 209th"
     }
   ]
 }
