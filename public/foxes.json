@@ -6192,7 +6192,14 @@
       "rarity": "common",
       "id": 284,
       "born": "2026-07-30T15:08:02.111Z",
-      "name": "Ember the 284th"
+      "name": "Ember the 284th",
+      "img": "foxes/proc-284.png",
+      "nft": {
+        "tokenId": "281",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x653ac254435557f7e0a1dc05ef98cf73dcedc67e04300be130b94077a72c4aa8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
