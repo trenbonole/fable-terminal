@@ -6412,7 +6412,14 @@
       "rarity": "uncommon",
       "id": 294,
       "born": "2026-07-30T20:08:02.173Z",
-      "name": "Bracken the 294th"
+      "name": "Bracken the 294th",
+      "img": "foxes/proc-294.png",
+      "nft": {
+        "tokenId": "291",
+        "owner": "0xbe41dbc50995e9ba418abeb0988fa63e40b86bd0",
+        "tx": "0x48ee1e5717b0585804a183607a4315271ba9af183427e2419b43980ecde20951",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
