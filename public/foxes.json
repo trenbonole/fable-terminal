@@ -1,5 +1,5 @@
 {
-  "count": 260,
+  "count": 261,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5672,6 +5672,21 @@
         "tx": "0x34203ee8df4d223f8184dfc93684a9a4fbbba8b661621dbd181344d1d8db42e9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 261,
+      "born": "2026-07-30T03:38:02.168Z",
+      "name": "Fennec the 261st"
     }
   ]
 }
