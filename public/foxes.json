@@ -1,5 +1,5 @@
 {
-  "count": 273,
+  "count": 274,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5958,6 +5958,21 @@
         "tx": "0xbcb5314eaa80e9b2b33c70cfc243a9c967c43ba1785aa42a2490c6a53f8c16e6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 274,
+      "born": "2026-07-30T10:08:01.291Z",
+      "name": "Vulpes the 274th"
     }
   ]
 }
