@@ -6500,7 +6500,14 @@
       "rarity": "rare",
       "id": 298,
       "born": "2026-07-30T22:08:02.258Z",
-      "name": "Sable the 298th"
+      "name": "Sable the 298th",
+      "img": "foxes/proc-298.png",
+      "nft": {
+        "tokenId": "295",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x38de1baa20ad819e5f3d97dc20de532d0828faad0545c179d1661681a87169d1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
