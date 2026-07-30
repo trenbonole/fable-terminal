@@ -1,5 +1,5 @@
 {
-  "count": 289,
+  "count": 290,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6310,6 +6310,21 @@
         "tx": "0x840cbfa46bab9b8c72e263f8096da6efc464e8c4d4ea44c596f33e082005eb40",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 290,
+      "born": "2026-07-30T18:08:02.098Z",
+      "name": "Sable the 290th"
     }
   ]
 }
