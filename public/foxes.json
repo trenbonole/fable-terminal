@@ -6148,7 +6148,14 @@
       "rarity": "uncommon",
       "id": 282,
       "born": "2026-07-30T14:08:02.150Z",
-      "name": "Sable the 282nd"
+      "name": "Sable the 282nd",
+      "img": "foxes/proc-282.png",
+      "nft": {
+        "tokenId": "279",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x29a1c04cd948239d0fbe2bb96f114e41a2994936f166120012745cd0add87d6f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
