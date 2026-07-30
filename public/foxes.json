@@ -5752,7 +5752,14 @@
       "rarity": "rare",
       "id": 264,
       "born": "2026-07-30T05:08:01.194Z",
-      "name": "Sable the 264th"
+      "name": "Sable the 264th",
+      "img": "foxes/proc-264.png",
+      "nft": {
+        "tokenId": "261",
+        "owner": "0x2636fbf545822687a1c5118a9546ed0c6b1b521d",
+        "tx": "0xef06e5bf39d78ec300b7f9a5bcb27626cda59e0b9cdf7b3ff194c7b41735da88",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
