@@ -6456,7 +6456,14 @@
       "rarity": "common",
       "id": 296,
       "born": "2026-07-30T21:08:02.178Z",
-      "name": "Pyre the 296th"
+      "name": "Pyre the 296th",
+      "img": "foxes/proc-296.png",
+      "nft": {
+        "tokenId": "293",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x92d04b52e622c737c84bf910ad3e777d9224c79ffd54a78d88df92554361de3b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
