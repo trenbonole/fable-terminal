@@ -6566,7 +6566,14 @@
       "rarity": "uncommon",
       "id": 301,
       "born": "2026-07-30T23:38:02.308Z",
-      "name": "Ash the 301st"
+      "name": "Ash the 301st",
+      "img": "foxes/proc-301.png",
+      "nft": {
+        "tokenId": "298",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xfffe4495617b4fdf8e99e836ab0cc29b115d664c34f20fa5688948ab571cf432",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
