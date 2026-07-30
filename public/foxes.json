@@ -6060,7 +6060,14 @@
       "rarity": "common",
       "id": 278,
       "born": "2026-07-30T12:08:02.035Z",
-      "name": "Hollow the 278th"
+      "name": "Hollow the 278th",
+      "img": "foxes/proc-278.png",
+      "nft": {
+        "tokenId": "275",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x33a1fc0d6416566d008779e4d7f2b0a24333acf93fe3c5ddc377f618f78d0332",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
