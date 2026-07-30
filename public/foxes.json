@@ -6016,7 +6016,14 @@
       "rarity": "rare",
       "id": 276,
       "born": "2026-07-30T11:08:02.262Z",
-      "name": "Cinder the 276th"
+      "name": "Cinder the 276th",
+      "img": "foxes/proc-276.png",
+      "nft": {
+        "tokenId": "273",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0xc463f6795b83d4fb227919ae5d84cbbc805156513b41669194a471c1b761cc4c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
