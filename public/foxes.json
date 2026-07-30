@@ -1,5 +1,5 @@
 {
-  "count": 257,
+  "count": 258,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5606,6 +5606,21 @@
         "tx": "0xc314e3e06b189b14870b3bd0dc2aa4fb5af1e4afc8550d6ecf29a601b3850cd6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 258,
+      "born": "2026-07-30T02:08:02.149Z",
+      "name": "Bracken the 258th"
     }
   ]
 }
