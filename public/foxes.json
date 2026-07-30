@@ -5840,7 +5840,14 @@
       "rarity": "uncommon",
       "id": 268,
       "born": "2026-07-30T07:08:01.294Z",
-      "name": "Vulpes the 268th"
+      "name": "Vulpes the 268th",
+      "img": "foxes/proc-268.png",
+      "nft": {
+        "tokenId": "265",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x03a12e889108ce9c5a335676718e71d6d80d73495e8fc8acfdf6e43d794949b6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
