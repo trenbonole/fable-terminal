@@ -1,5 +1,5 @@
 {
-  "count": 262,
+  "count": 263,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5716,6 +5716,21 @@
         "tx": "0x5a74c4f254a605fd5188e6f52ce74dbc053d32a82d6d6858c30bf027b825e519",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 263,
+      "born": "2026-07-30T04:38:01.178Z",
+      "name": "Bracken the 263rd"
     }
   ]
 }
