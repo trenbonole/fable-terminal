@@ -1,5 +1,5 @@
 {
-  "count": 295,
+  "count": 296,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6442,6 +6442,21 @@
         "tx": "0x19c0627517df1291396c445b2114cee9382f48286ce50cbe982e138ac7762d80",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 296,
+      "born": "2026-07-30T21:08:02.178Z",
+      "name": "Pyre the 296th"
     }
   ]
 }
