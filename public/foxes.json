@@ -1,5 +1,5 @@
 {
-  "count": 292,
+  "count": 293,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6376,6 +6376,21 @@
         "tx": "0x2bfa14c24239103321e152714641ff2bca852fd7cfae6689f4c5179d6d9860c5",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 293,
+      "born": "2026-07-30T19:38:02.131Z",
+      "name": "Ash the 293rd"
     }
   ]
 }
