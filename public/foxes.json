@@ -1,5 +1,5 @@
 {
-  "count": 284,
+  "count": 285,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6200,6 +6200,21 @@
         "tx": "0x653ac254435557f7e0a1dc05ef98cf73dcedc67e04300be130b94077a72c4aa8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 285,
+      "born": "2026-07-30T15:38:02.144Z",
+      "name": "Vesper the 285th"
     }
   ]
 }
