@@ -5774,7 +5774,14 @@
       "rarity": "rare",
       "id": 265,
       "born": "2026-07-30T05:38:01.203Z",
-      "name": "Tod the 265th"
+      "name": "Tod the 265th",
+      "img": "foxes/proc-265.png",
+      "nft": {
+        "tokenId": "262",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xb822ac86c48da23ca0418e42ba3d1ebb66e08846aa4db1e80df4442719fb513a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
