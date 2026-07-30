@@ -5730,7 +5730,14 @@
       "rarity": "uncommon",
       "id": 263,
       "born": "2026-07-30T04:38:01.178Z",
-      "name": "Bracken the 263rd"
+      "name": "Bracken the 263rd",
+      "img": "foxes/proc-263.png",
+      "nft": {
+        "tokenId": "260",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0xb92d99df505962bad24647bf7d264f1f8d700c14e8a284df7156959cbbed23de",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
