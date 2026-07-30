@@ -1,5 +1,5 @@
 {
-  "count": 261,
+  "count": 262,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5694,6 +5694,21 @@
         "tx": "0x14f826504e04835f71e02873e00dfbda0e1ee024218b281735eea6ddde540e47",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 262,
+      "born": "2026-07-30T04:08:01.171Z",
+      "name": "Reynard the 262nd"
     }
   ]
 }
