@@ -1,5 +1,5 @@
 {
-  "count": 255,
+  "count": 256,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5562,6 +5562,21 @@
         "tx": "0xa1117fe6c42b0ae587d02bbd0189d25df4dc8df09b92aec547923dfca93b782e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 256,
+      "born": "2026-07-30T01:08:02.181Z",
+      "name": "Pyre the 256th"
     }
   ]
 }
