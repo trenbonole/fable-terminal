@@ -1,5 +1,5 @@
 {
-  "count": 276,
+  "count": 277,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6024,6 +6024,21 @@
         "tx": "0xc463f6795b83d4fb227919ae5d84cbbc805156513b41669194a471c1b761cc4c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 277,
+      "born": "2026-07-30T11:38:02.071Z",
+      "name": "Umbra the 277th"
     }
   ]
 }
