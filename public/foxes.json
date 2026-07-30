@@ -6258,7 +6258,14 @@
       "rarity": "common",
       "id": 287,
       "born": "2026-07-30T16:38:02.097Z",
-      "name": "Sorrel the 287th"
+      "name": "Sorrel the 287th",
+      "img": "foxes/proc-287.png",
+      "nft": {
+        "tokenId": "284",
+        "owner": "0x785ef73715b310e94312f3d3a100c4838a5fe4bd",
+        "tx": "0x6d1ac46952011bff235a29264553757052c145177e106ff7f170627d2ca49467",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
