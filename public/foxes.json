@@ -1,5 +1,5 @@
 {
-  "count": 272,
+  "count": 273,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5936,6 +5936,21 @@
         "tx": "0x09a857c96e72ee3790e25fe1d976ec11fafee7b80b9e361b115fb08cfdbc13d9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 273,
+      "born": "2026-07-30T09:38:01.270Z",
+      "name": "Fennec the 273rd"
     }
   ]
 }
