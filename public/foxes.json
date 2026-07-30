@@ -5884,7 +5884,14 @@
       "rarity": "uncommon",
       "id": 270,
       "born": "2026-07-30T08:08:01.281Z",
-      "name": "Hollow the 270th"
+      "name": "Hollow the 270th",
+      "img": "foxes/proc-270.png",
+      "nft": {
+        "tokenId": "267",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x1a2cbb3de6808c1b18524b8dcf40d2e9ea0838ad0c228f7ebb8b72796f1993f1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
