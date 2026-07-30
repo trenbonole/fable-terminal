@@ -1,5 +1,5 @@
 {
-  "count": 298,
+  "count": 299,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6508,6 +6508,21 @@
         "tx": "0x38de1baa20ad819e5f3d97dc20de532d0828faad0545c179d1661681a87169d1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 299,
+      "born": "2026-07-30T22:38:02.294Z",
+      "name": "Wick the 299th"
     }
   ]
 }
