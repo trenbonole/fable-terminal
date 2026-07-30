@@ -1,5 +1,5 @@
 {
-  "count": 258,
+  "count": 259,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5628,6 +5628,21 @@
         "tx": "0xfb964629dad5fa19acc544b7812169aec3c14bbf9aaf6e3b3b699255adb50d68",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 259,
+      "born": "2026-07-30T02:38:02.140Z",
+      "name": "Sable the 259th"
     }
   ]
 }
