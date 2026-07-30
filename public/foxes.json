@@ -1,5 +1,5 @@
 {
-  "count": 275,
+  "count": 276,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6002,6 +6002,21 @@
         "tx": "0xa7f5bc3d2edd3ead8c5430389bb16b9e595a9a0bfdc7778e61662d7e8752091d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 5,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 276,
+      "born": "2026-07-30T11:08:02.262Z",
+      "name": "Cinder the 276th"
     }
   ]
 }
