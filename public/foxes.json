@@ -1,5 +1,5 @@
 {
-  "count": 286,
+  "count": 287,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6244,6 +6244,21 @@
         "tx": "0xe56e3a23d1adedd6ba38401961ecb3f7015fbb80302e15befe8587ec86886887",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 287,
+      "born": "2026-07-30T16:38:02.097Z",
+      "name": "Sorrel the 287th"
     }
   ]
 }
