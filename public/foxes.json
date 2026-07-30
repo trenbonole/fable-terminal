@@ -1,5 +1,5 @@
 {
-  "count": 293,
+  "count": 294,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6398,6 +6398,21 @@
         "tx": "0x26710c8040ce826fe6d30ffb6992bc85337969bb75545c2ce1d46d60e3400ee1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 294,
+      "born": "2026-07-30T20:08:02.173Z",
+      "name": "Bracken the 294th"
     }
   ]
 }
