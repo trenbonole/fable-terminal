@@ -6214,7 +6214,14 @@
       "rarity": "rare",
       "id": 285,
       "born": "2026-07-30T15:38:02.144Z",
-      "name": "Vesper the 285th"
+      "name": "Vesper the 285th",
+      "img": "foxes/proc-285.png",
+      "nft": {
+        "tokenId": "282",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xdff5909826b09786f4d99ccce2c6602de743258ed133eaae869c7d1136004bcc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
