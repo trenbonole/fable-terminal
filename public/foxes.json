@@ -6082,7 +6082,14 @@
       "rarity": "rare",
       "id": 279,
       "born": "2026-07-30T12:38:02.041Z",
-      "name": "Wick the 279th"
+      "name": "Wick the 279th",
+      "img": "foxes/proc-279.png",
+      "nft": {
+        "tokenId": "276",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0x301ceebeaf0034c19f4c78e2807dd5ccdf04ffde2d99255efda352f68d6e5462",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
