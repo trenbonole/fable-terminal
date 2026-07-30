@@ -1,5 +1,5 @@
 {
-  "count": 264,
+  "count": 265,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5760,6 +5760,21 @@
         "tx": "0xef06e5bf39d78ec300b7f9a5bcb27626cda59e0b9cdf7b3ff194c7b41735da88",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 5,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 265,
+      "born": "2026-07-30T05:38:01.203Z",
+      "name": "Tod the 265th"
     }
   ]
 }
