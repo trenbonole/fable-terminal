@@ -5686,7 +5686,14 @@
       "rarity": "common",
       "id": 261,
       "born": "2026-07-30T03:38:02.168Z",
-      "name": "Fennec the 261st"
+      "name": "Fennec the 261st",
+      "img": "foxes/proc-261.png",
+      "nft": {
+        "tokenId": "258",
+        "owner": "0xbe41dbc50995e9ba418abeb0988fa63e40b86bd0",
+        "tx": "0x14f826504e04835f71e02873e00dfbda0e1ee024218b281735eea6ddde540e47",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
