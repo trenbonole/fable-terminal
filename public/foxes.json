@@ -5906,7 +5906,14 @@
       "rarity": "common",
       "id": 271,
       "born": "2026-07-30T08:38:01.279Z",
-      "name": "Marlow the 271st"
+      "name": "Marlow the 271st",
+      "img": "foxes/proc-271.png",
+      "nft": {
+        "tokenId": "268",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x2387ca75b275281d512285ac568ace857a1749b8e294eb28e20d34282fefa1f8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
