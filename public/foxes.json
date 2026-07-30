@@ -5972,7 +5972,14 @@
       "rarity": "uncommon",
       "id": 274,
       "born": "2026-07-30T10:08:01.291Z",
-      "name": "Vulpes the 274th"
+      "name": "Vulpes the 274th",
+      "img": "foxes/proc-274.png",
+      "nft": {
+        "tokenId": "271",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x4046d8a15f8e486b699ea33a62233b56e656b1f5eeb9afa40a73ac2b5e8ae4f1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
