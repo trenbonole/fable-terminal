@@ -5620,7 +5620,14 @@
       "rarity": "common",
       "id": 258,
       "born": "2026-07-30T02:08:02.149Z",
-      "name": "Bracken the 258th"
+      "name": "Bracken the 258th",
+      "img": "foxes/proc-258.png",
+      "nft": {
+        "tokenId": "255",
+        "owner": "0x785ef73715b310e94312f3d3a100c4838a5fe4bd",
+        "tx": "0xfb964629dad5fa19acc544b7812169aec3c14bbf9aaf6e3b3b699255adb50d68",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
