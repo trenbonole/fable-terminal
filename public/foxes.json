@@ -6126,7 +6126,14 @@
       "rarity": "rare",
       "id": 281,
       "born": "2026-07-30T13:38:02.028Z",
-      "name": "Marlow the 281st"
+      "name": "Marlow the 281st",
+      "img": "foxes/proc-281.png",
+      "nft": {
+        "tokenId": "278",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x7435d6c32e1db6fcde9213e567f858e9bf4af6f4f0921908dfcefc6aff4c6f14",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
