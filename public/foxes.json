@@ -5576,7 +5576,14 @@
       "rarity": "uncommon",
       "id": 256,
       "born": "2026-07-30T01:08:02.181Z",
-      "name": "Pyre the 256th"
+      "name": "Pyre the 256th",
+      "img": "foxes/proc-256.png",
+      "nft": {
+        "tokenId": "253",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0xaf85d7419c1ba97b1970cd3fb44096fbf93e932c530495e657c6f24d0e049308",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
