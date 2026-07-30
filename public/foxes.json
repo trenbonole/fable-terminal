@@ -6368,7 +6368,14 @@
       "rarity": "rare",
       "id": 292,
       "born": "2026-07-30T19:08:02.233Z",
-      "name": "Marlow the 292nd"
+      "name": "Marlow the 292nd",
+      "img": "foxes/proc-292.png",
+      "nft": {
+        "tokenId": "289",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x2bfa14c24239103321e152714641ff2bca852fd7cfae6689f4c5179d6d9860c5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
