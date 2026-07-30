@@ -1,5 +1,5 @@
 {
-  "count": 277,
+  "count": 278,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6046,6 +6046,21 @@
         "tx": "0x2d232f8af9bf2f53462b9a103b2c609e399837b084246ae6359cf91561cbb6f8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 278,
+      "born": "2026-07-30T12:08:02.035Z",
+      "name": "Hollow the 278th"
     }
   ]
 }
