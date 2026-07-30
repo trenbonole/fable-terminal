@@ -1,5 +1,5 @@
 {
-  "count": 299,
+  "count": 300,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6530,6 +6530,21 @@
         "tx": "0xca31a10b5112b7561589d030fae97bb291f22cb16dcb3a21e6fda96b46493b46",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 5,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 300,
+      "born": "2026-07-30T23:08:02.317Z",
+      "name": "Bracken the 300th"
     }
   ]
 }
