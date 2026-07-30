@@ -6170,7 +6170,14 @@
       "rarity": "rare",
       "id": 283,
       "born": "2026-07-30T14:38:02.084Z",
-      "name": "Fennec the 283rd"
+      "name": "Fennec the 283rd",
+      "img": "foxes/proc-283.png",
+      "nft": {
+        "tokenId": "280",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0x3b9d61a53ebc020bef4d11101fe438c2f703488afcc3504165be965aa50b9ddf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
