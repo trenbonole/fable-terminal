@@ -6302,7 +6302,14 @@
       "rarity": "common",
       "id": 289,
       "born": "2026-07-30T17:38:02.080Z",
-      "name": "Bracken the 289th"
+      "name": "Bracken the 289th",
+      "img": "foxes/proc-289.png",
+      "nft": {
+        "tokenId": "286",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x840cbfa46bab9b8c72e263f8096da6efc464e8c4d4ea44c596f33e082005eb40",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
