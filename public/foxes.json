@@ -6324,7 +6324,14 @@
       "rarity": "common",
       "id": 290,
       "born": "2026-07-30T18:08:02.098Z",
-      "name": "Sable the 290th"
+      "name": "Sable the 290th",
+      "img": "foxes/proc-290.png",
+      "nft": {
+        "tokenId": "287",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xadad897d3b6bc149b8f80d1756e48c6537ed54c9c11cc5851fab768ac8e5fdc6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
