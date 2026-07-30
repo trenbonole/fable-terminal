@@ -1,5 +1,5 @@
 {
-  "count": 270,
+  "count": 271,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5892,6 +5892,21 @@
         "tx": "0x1a2cbb3de6808c1b18524b8dcf40d2e9ea0838ad0c228f7ebb8b72796f1993f1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 271,
+      "born": "2026-07-30T08:38:01.279Z",
+      "name": "Marlow the 271st"
     }
   ]
 }
