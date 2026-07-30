@@ -1,5 +1,5 @@
 {
-  "count": 283,
+  "count": 284,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6178,6 +6178,21 @@
         "tx": "0x3b9d61a53ebc020bef4d11101fe438c2f703488afcc3504165be965aa50b9ddf",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 284,
+      "born": "2026-07-30T15:08:02.111Z",
+      "name": "Ember the 284th"
     }
   ]
 }
