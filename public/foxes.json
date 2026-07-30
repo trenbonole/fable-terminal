@@ -1,5 +1,5 @@
 {
-  "count": 296,
+  "count": 297,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6464,6 +6464,21 @@
         "tx": "0x92d04b52e622c737c84bf910ad3e777d9224c79ffd54a78d88df92554361de3b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 297,
+      "born": "2026-07-30T21:38:02.187Z",
+      "name": "Vesper the 297th"
     }
   ]
 }
