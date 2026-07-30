@@ -6434,7 +6434,14 @@
       "rarity": "legendary",
       "id": 295,
       "born": "2026-07-30T20:38:02.158Z",
-      "name": "Wick the 295th"
+      "name": "Wick the 295th",
+      "img": "foxes/proc-295.png",
+      "nft": {
+        "tokenId": "292",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x19c0627517df1291396c445b2114cee9382f48286ce50cbe982e138ac7762d80",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
