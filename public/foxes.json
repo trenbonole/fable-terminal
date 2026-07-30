@@ -5664,7 +5664,14 @@
       "rarity": "common",
       "id": 260,
       "born": "2026-07-30T03:08:02.152Z",
-      "name": "Cinder the 260th"
+      "name": "Cinder the 260th",
+      "img": "foxes/proc-260.png",
+      "nft": {
+        "tokenId": "257",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x34203ee8df4d223f8184dfc93684a9a4fbbba8b661621dbd181344d1d8db42e9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
