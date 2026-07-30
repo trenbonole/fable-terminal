@@ -1,5 +1,5 @@
 {
-  "count": 253,
+  "count": 254,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -5518,6 +5518,21 @@
         "tx": "0xf89315b251b9df765e4e790a2fd4b6470b4b1b13e3cfde3a27b23dfdbb2ef5a9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 254,
+      "born": "2026-07-30T00:08:02.182Z",
+      "name": "Sorrel the 254th"
     }
   ]
 }
