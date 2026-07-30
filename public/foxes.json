@@ -6544,7 +6544,14 @@
       "rarity": "rare",
       "id": 300,
       "born": "2026-07-30T23:08:02.317Z",
-      "name": "Bracken the 300th"
+      "name": "Bracken the 300th",
+      "img": "foxes/proc-300.png",
+      "nft": {
+        "tokenId": "297",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x5ab726211abc76846077e00ec383695b7e5623c037f0ea2c1254e9ff8b94e5a2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
