@@ -5642,7 +5642,14 @@
       "rarity": "common",
       "id": 259,
       "born": "2026-07-30T02:38:02.140Z",
-      "name": "Sable the 259th"
+      "name": "Sable the 259th",
+      "img": "foxes/proc-259.png",
+      "nft": {
+        "tokenId": "256",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0xbe115fbff430f0a7aaeb5007eadd3a143b88da6b329213481be05b2f667cb39f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
