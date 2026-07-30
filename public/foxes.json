@@ -1,5 +1,5 @@
 {
-  "count": 281,
+  "count": 282,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6134,6 +6134,21 @@
         "tx": "0x7435d6c32e1db6fcde9213e567f858e9bf4af6f4f0921908dfcefc6aff4c6f14",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 282,
+      "born": "2026-07-30T14:08:02.150Z",
+      "name": "Sable the 282nd"
     }
   ]
 }
