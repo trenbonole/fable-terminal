@@ -5928,7 +5928,14 @@
       "rarity": "common",
       "id": 272,
       "born": "2026-07-30T09:08:01.264Z",
-      "name": "Vesper the 272nd"
+      "name": "Vesper the 272nd",
+      "img": "foxes/proc-272.png",
+      "nft": {
+        "tokenId": "269",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x09a857c96e72ee3790e25fe1d976ec11fafee7b80b9e361b115fb08cfdbc13d9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
