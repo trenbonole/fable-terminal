@@ -1,5 +1,5 @@
 {
-  "count": 300,
+  "count": 301,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6552,6 +6552,21 @@
         "tx": "0x5ab726211abc76846077e00ec383695b7e5623c037f0ea2c1254e9ff8b94e5a2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 301,
+      "born": "2026-07-30T23:38:02.308Z",
+      "name": "Ash the 301st"
     }
   ]
 }
