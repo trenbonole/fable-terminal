@@ -6038,7 +6038,14 @@
       "rarity": "uncommon",
       "id": 277,
       "born": "2026-07-30T11:38:02.071Z",
-      "name": "Umbra the 277th"
+      "name": "Umbra the 277th",
+      "img": "foxes/proc-277.png",
+      "nft": {
+        "tokenId": "274",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x2d232f8af9bf2f53462b9a103b2c609e399837b084246ae6359cf91561cbb6f8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
