@@ -7175,7 +7175,14 @@
       "rarity": "uncommon",
       "id": 329,
       "born": "2026-07-31T13:38:01.441Z",
-      "name": "Marlow the 329th"
+      "name": "Marlow the 329th",
+      "img": "foxes/proc-329.png",
+      "nft": {
+        "tokenId": "325",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0xf05d8a3997b64acdcfea2ac81510dad09df76df55b3b520d824e716fb2d4a38b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
