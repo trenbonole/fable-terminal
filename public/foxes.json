@@ -7476,7 +7476,14 @@
       "rarity": "rare",
       "id": 343,
       "born": "2026-07-31T20:38:01.777Z",
-      "name": "Cinder the 343rd"
+      "name": "Cinder the 343rd",
+      "img": "foxes/proc-343.png",
+      "nft": {
+        "tokenId": "338",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x2c6c754cedcba9820b2b0500831c9aea402586e6e19821dc535ffb1896bc88c0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
