@@ -7351,7 +7351,14 @@
       "rarity": "uncommon",
       "id": 337,
       "born": "2026-07-31T17:38:01.506Z",
-      "name": "Tod the 337th"
+      "name": "Tod the 337th",
+      "img": "foxes/proc-337.png",
+      "nft": {
+        "tokenId": "333",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x122cd94a9e9de82c30ee7315fd11598c78b5856aa20214ba8cfa39dc1145872d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
