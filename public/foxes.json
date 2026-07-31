@@ -1,5 +1,5 @@
 {
-  "count": 322,
+  "count": 323,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7029,6 +7029,21 @@
         "tx": "0x793fac7837325fdf8eec50186351eb5eb2a6406fb75736adc22f99b5abc61fec",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 323,
+      "born": "2026-07-31T10:38:01.460Z",
+      "name": "Reynard the 323rd"
     }
   ]
 }
