@@ -1,5 +1,5 @@
 {
-  "count": 343,
+  "count": 344,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7484,6 +7484,21 @@
         "tx": "0x2c6c754cedcba9820b2b0500831c9aea402586e6e19821dc535ffb1896bc88c0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 344,
+      "born": "2026-07-31T21:08:01.669Z",
+      "name": "Cairn the 344th"
     }
   ]
 }
