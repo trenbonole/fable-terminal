@@ -7498,7 +7498,14 @@
       "rarity": "rare",
       "id": 344,
       "born": "2026-07-31T21:08:01.669Z",
-      "name": "Cairn the 344th"
+      "name": "Cairn the 344th",
+      "img": "foxes/proc-344.png",
+      "nft": {
+        "tokenId": "339",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0xbc0210fad7d718895fc0be3caab68c0318ada6b33d3e8ce8c3af788368e0ae8d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
