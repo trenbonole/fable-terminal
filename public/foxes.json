@@ -1,5 +1,5 @@
 {
-  "count": 330,
+  "count": 331,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7205,6 +7205,21 @@
         "tx": "0x371aa9614fb06a6ebaf0e7227ae382dd519ff62cad9813ccea1935c5395c7703",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 331,
+      "born": "2026-07-31T14:38:01.418Z",
+      "name": "Sable the 331st"
     }
   ]
 }
