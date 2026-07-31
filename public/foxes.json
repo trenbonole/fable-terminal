@@ -1,5 +1,5 @@
 {
-  "count": 336,
+  "count": 337,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7337,6 +7337,21 @@
         "tx": "0x83bfa6c3c22c2e6bab1711f58ec93236604d5b9669bca3996e95b54e26912cb8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 337,
+      "born": "2026-07-31T17:38:01.506Z",
+      "name": "Tod the 337th"
     }
   ]
 }
