@@ -1,5 +1,5 @@
 {
-  "count": 337,
+  "count": 338,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7359,6 +7359,21 @@
         "tx": "0x122cd94a9e9de82c30ee7315fd11598c78b5856aa20214ba8cfa39dc1145872d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 338,
+      "born": "2026-07-31T18:08:01.632Z",
+      "name": "Pyre the 338th"
     }
   ]
 }
