@@ -1,5 +1,5 @@
 {
-  "count": 347,
+  "count": 348,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7572,6 +7572,21 @@
         "tx": "0x9990b798b5153793da95c17129a341f1090c8b746f2121c1e492188b32e2be35",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 348,
+      "born": "2026-07-31T23:08:01.594Z",
+      "name": "Kit the 348th"
     }
   ]
 }
