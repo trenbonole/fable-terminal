@@ -7043,7 +7043,14 @@
       "rarity": "uncommon",
       "id": 323,
       "born": "2026-07-31T10:38:01.460Z",
-      "name": "Reynard the 323rd"
+      "name": "Reynard the 323rd",
+      "img": "foxes/proc-323.png",
+      "nft": {
+        "tokenId": "319",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0xaefe626d37e4f7f5e3c8993f229493090a5d75be564b9a89429a28bc2961fad5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
