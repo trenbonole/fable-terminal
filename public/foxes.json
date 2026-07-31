@@ -7454,7 +7454,14 @@
       "rarity": "uncommon",
       "id": 342,
       "born": "2026-07-31T20:08:01.795Z",
-      "name": "Cinder the 342nd"
+      "name": "Cinder the 342nd",
+      "img": "foxes/proc-342.png",
+      "nft": {
+        "tokenId": "337",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x5903b0ad0b9968ae4ad999a667a6897fd3ddc924b6ce401fa61e82623cb9ccef",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
