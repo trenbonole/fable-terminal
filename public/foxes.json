@@ -1,5 +1,5 @@
 {
-  "count": 317,
+  "count": 318,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6919,6 +6919,21 @@
         "tx": "0xa9ad7a76acfa289e8b25391ac311418e983647f38bbb7ba9ae5d0019bde9a8f4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 318,
+      "born": "2026-07-31T08:08:01.252Z",
+      "name": "Fennec the 318th"
     }
   ]
 }
