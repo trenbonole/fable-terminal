@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #330 — Sorrel the 334th",
+  "description": "One of the foxes the machine dreams. uncommon, 3 tails, amethyst fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-334.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "amethyst"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 3
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}

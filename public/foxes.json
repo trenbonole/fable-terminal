@@ -7285,7 +7285,14 @@
       "rarity": "uncommon",
       "id": 334,
       "born": "2026-07-31T16:08:01.463Z",
-      "name": "Sorrel the 334th"
+      "name": "Sorrel the 334th",
+      "img": "foxes/proc-334.png",
+      "nft": {
+        "tokenId": "330",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x936c1f024765e007f31a8501cab51efd45b19665c13958ef6aa5f364c25fc9dc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
