@@ -1,5 +1,5 @@
 {
-  "count": 314,
+  "count": 315,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6853,6 +6853,21 @@
         "tx": "0xdd1c805c50eb07e2fdbbae8451ae321681b90eb7f72b1fd764d24f3f1a9a5591",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 315,
+      "born": "2026-07-31T06:38:01.296Z",
+      "name": "Reynard the 315th"
     }
   ]
 }
