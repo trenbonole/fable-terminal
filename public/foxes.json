@@ -1,5 +1,5 @@
 {
-  "count": 333,
+  "count": 334,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7271,6 +7271,21 @@
         "tx": "0x799ccc38aca8acb136f997932e3e18c2f75cc6670365a3eb8297c734effe1d9c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 334,
+      "born": "2026-07-31T16:08:01.463Z",
+      "name": "Sorrel the 334th"
     }
   ]
 }
