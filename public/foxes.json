@@ -1,5 +1,5 @@
 {
-  "count": 324,
+  "count": 325,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7073,6 +7073,21 @@
         "tx": "0x746f8b1942714f59c9da2aecf1493614d945816ad0b298195cd18a2130bf7f8a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 325,
+      "born": "2026-07-31T11:38:01.440Z",
+      "name": "Ash the 325th"
     }
   ]
 }
