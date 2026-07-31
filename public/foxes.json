@@ -1,5 +1,5 @@
 {
-  "count": 301,
+  "count": 302,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6574,6 +6574,21 @@
         "tx": "0xfffe4495617b4fdf8e99e836ab0cc29b115d664c34f20fa5688948ab571cf432",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 302,
+      "born": "2026-07-31T00:08:02.233Z",
+      "name": "Bracken the 302nd"
     }
   ]
 }
