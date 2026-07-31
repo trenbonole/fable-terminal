@@ -1,5 +1,5 @@
 {
-  "count": 332,
+  "count": 333,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7249,6 +7249,21 @@
         "tx": "0x760885d4dedc7be3db77038c7692ad7f97ed5ecc1e6251a5d0b796ec30df6f67",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 333,
+      "born": "2026-07-31T15:38:01.467Z",
+      "name": "Ash the 333rd"
     }
   ]
 }
