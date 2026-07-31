@@ -1,5 +1,5 @@
 {
-  "count": 341,
+  "count": 342,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7440,6 +7440,21 @@
         "tx": "0x5f3e66980314c1ce2a374fb83c8ad35ccab37fe8a3b06c349bbe5a0c9e1d8c1c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 342,
+      "born": "2026-07-31T20:08:01.795Z",
+      "name": "Cinder the 342nd"
     }
   ]
 }
