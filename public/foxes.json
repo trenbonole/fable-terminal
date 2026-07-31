@@ -7197,7 +7197,14 @@
       "rarity": "common",
       "id": 330,
       "born": "2026-07-31T14:08:01.418Z",
-      "name": "Hollow the 330th"
+      "name": "Hollow the 330th",
+      "img": "foxes/proc-330.png",
+      "nft": {
+        "tokenId": "326",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x371aa9614fb06a6ebaf0e7227ae382dd519ff62cad9813ccea1935c5395c7703",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
