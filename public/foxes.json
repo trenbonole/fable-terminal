@@ -1,5 +1,5 @@
 {
-  "count": 346,
+  "count": 347,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7550,6 +7550,21 @@
         "tx": "0xcda4e8b984fe41f21293809d3dcf0e12ca31046a6cddb1d5146a68267ee8dc3b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 347,
+      "born": "2026-07-31T22:38:01.590Z",
+      "name": "Wick the 347th"
     }
   ]
 }
