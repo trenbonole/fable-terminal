@@ -6801,7 +6801,14 @@
       "rarity": "rare",
       "id": 312,
       "born": "2026-07-31T05:08:01.233Z",
-      "name": "Vulpes the 312th"
+      "name": "Vulpes the 312th",
+      "img": "foxes/proc-312.png",
+      "nft": {
+        "tokenId": "308",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x5895b476ea80761d73e307dc853b9a2a33c7050f1258698c94d121806dc1dd04",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
