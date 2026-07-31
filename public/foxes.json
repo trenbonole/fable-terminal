@@ -6867,7 +6867,14 @@
       "rarity": "common",
       "id": 315,
       "born": "2026-07-31T06:38:01.296Z",
-      "name": "Reynard the 315th"
+      "name": "Reynard the 315th",
+      "img": "foxes/proc-315.png",
+      "nft": {
+        "tokenId": "311",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0xeb8e99d39d7e9fadb64387462a240a538ad023ebaf380ea9d3fb8c2dfe077bd8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
