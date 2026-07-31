@@ -1,5 +1,5 @@
 {
-  "count": 320,
+  "count": 321,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6985,6 +6985,21 @@
         "tx": "0x8050bdab513605d89d4255b47f2bb47a32f51cd1dac0fb39064b1453a107aeb0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 321,
+      "born": "2026-07-31T09:38:01.292Z",
+      "name": "Marlow the 321st"
     }
   ]
 }
