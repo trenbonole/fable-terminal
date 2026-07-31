@@ -7542,7 +7542,14 @@
       "rarity": "common",
       "id": 346,
       "born": "2026-07-31T22:08:01.695Z",
-      "name": "Marlow the 346th"
+      "name": "Marlow the 346th",
+      "img": "foxes/proc-346.png",
+      "nft": {
+        "tokenId": "341",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xcda4e8b984fe41f21293809d3dcf0e12ca31046a6cddb1d5146a68267ee8dc3b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
