@@ -7021,7 +7021,14 @@
       "rarity": "common",
       "id": 322,
       "born": "2026-07-31T10:08:01.463Z",
-      "name": "Reynard the 322nd"
+      "name": "Reynard the 322nd",
+      "img": "foxes/proc-322.png",
+      "nft": {
+        "tokenId": "318",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x793fac7837325fdf8eec50186351eb5eb2a6406fb75736adc22f99b5abc61fec",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
