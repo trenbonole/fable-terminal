@@ -7131,7 +7131,14 @@
       "rarity": "uncommon",
       "id": 327,
       "born": "2026-07-31T12:38:01.416Z",
-      "name": "Wick the 327th"
+      "name": "Wick the 327th",
+      "img": "foxes/proc-327.png",
+      "nft": {
+        "tokenId": "323",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x8bff5a9d529bee221d6fc748ffe6ef5313419c3c937696fc75b1004615f138fd",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
