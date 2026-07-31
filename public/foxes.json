@@ -6669,7 +6669,14 @@
       "rarity": "legendary",
       "id": 306,
       "born": "2026-07-31T02:08:02.366Z",
-      "name": "Umbra the 306th"
+      "name": "Umbra the 306th",
+      "img": "foxes/proc-306.png",
+      "nft": {
+        "tokenId": "302",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0xc1076631890d23cffdea7eb88012c64aa06deb1b66f5cda1875207ad02a90ba1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }

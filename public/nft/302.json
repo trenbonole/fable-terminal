@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #302 — Umbra the 306th",
+  "description": "One of the foxes the machine dreams. legendary, 9 tails, blood fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-306.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "blood"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 9
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "legendary"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}
