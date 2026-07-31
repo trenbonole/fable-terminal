@@ -1,5 +1,5 @@
 {
-  "count": 311,
+  "count": 312,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6787,6 +6787,21 @@
         "tx": "0x1f4d311c7254a39ec495158b39eeafff8201e8651f3a85f12672f0ae9fae2718",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 312,
+      "born": "2026-07-31T05:08:01.233Z",
+      "name": "Vulpes the 312th"
     }
   ]
 }
