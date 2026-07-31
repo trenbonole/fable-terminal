@@ -6691,7 +6691,14 @@
       "rarity": "uncommon",
       "id": 307,
       "born": "2026-07-31T02:38:01.254Z",
-      "name": "Fennec the 307th"
+      "name": "Fennec the 307th",
+      "img": "foxes/proc-307.png",
+      "nft": {
+        "tokenId": "303",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0xee96be84b92fc99226fb471968aa27c5a13255be118af1b16f49a1efad9903de",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
