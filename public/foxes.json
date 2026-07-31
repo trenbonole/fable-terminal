@@ -1,5 +1,5 @@
 {
-  "count": 302,
+  "count": 303,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6596,6 +6596,21 @@
         "tx": "0x25bfd6fcd3f385f4acdf6ff89cdb6a23915f3b42faa56d384fd636d531a145c3",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 303,
+      "born": "2026-07-31T00:38:02.356Z",
+      "name": "Ember the 303rd"
     }
   ]
 }
