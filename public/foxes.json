@@ -6933,7 +6933,14 @@
       "rarity": "uncommon",
       "id": 318,
       "born": "2026-07-31T08:08:01.252Z",
-      "name": "Fennec the 318th"
+      "name": "Fennec the 318th",
+      "img": "foxes/proc-318.png",
+      "nft": {
+        "tokenId": "314",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x1be41d038c84e3ccf2e5cc044b2b1af1c15ccf11327480a797665281a9d3be4a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
