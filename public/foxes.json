@@ -7307,7 +7307,14 @@
       "rarity": "rare",
       "id": 335,
       "born": "2026-07-31T16:38:01.489Z",
-      "name": "Reynard the 335th"
+      "name": "Reynard the 335th",
+      "img": "foxes/proc-335.png",
+      "nft": {
+        "tokenId": "331",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0xc8a08c67e9d86015e4309aba20da41aa2a236f29e7083a84eab607cc1c9f7fa7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
