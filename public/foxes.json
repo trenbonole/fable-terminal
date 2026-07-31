@@ -1,5 +1,5 @@
 {
-  "count": 303,
+  "count": 304,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6618,6 +6618,21 @@
         "tx": "0x0db25e884593b3c42ea0fe82477c71b854a55a24a0a33d461481d4ea404ff710",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 304,
+      "born": "2026-07-31T01:08:02.340Z",
+      "name": "Pyre the 304th"
     }
   ]
 }
