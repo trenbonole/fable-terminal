@@ -7087,7 +7087,14 @@
       "rarity": "rare",
       "id": 325,
       "born": "2026-07-31T11:38:01.440Z",
-      "name": "Ash the 325th"
+      "name": "Ash the 325th",
+      "img": "foxes/proc-325.png",
+      "nft": {
+        "tokenId": "321",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x4679a3d2abed565c6c60d04992569cd2e36137d6ea2c0608978bb880d668a822",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
