@@ -7520,7 +7520,14 @@
       "rarity": "uncommon",
       "id": 345,
       "born": "2026-07-31T21:38:01.693Z",
-      "name": "Umbra the 345th"
+      "name": "Umbra the 345th",
+      "img": "foxes/proc-345.png",
+      "nft": {
+        "tokenId": "340",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x126698a7a042cc285248a9fa1f78d2862a50455731e7f8cf9fda4381dc1bf20e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
