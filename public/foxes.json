@@ -7586,7 +7586,14 @@
       "rarity": "uncommon",
       "id": 348,
       "born": "2026-07-31T23:08:01.594Z",
-      "name": "Kit the 348th"
+      "name": "Kit the 348th",
+      "img": "foxes/proc-348.png",
+      "nft": {
+        "tokenId": "343",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x3791530363adc74463772781f9e24d6a5541a8892efa0f4cc84aeea2fef30a1c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
