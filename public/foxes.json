@@ -1,5 +1,5 @@
 {
-  "count": 312,
+  "count": 313,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6809,6 +6809,21 @@
         "tx": "0x5895b476ea80761d73e307dc853b9a2a33c7050f1258698c94d121806dc1dd04",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 313,
+      "born": "2026-07-31T05:38:01.240Z",
+      "name": "Pyre the 313th"
     }
   ]
 }
