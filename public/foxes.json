@@ -1,5 +1,5 @@
 {
-  "count": 326,
+  "count": 327,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7117,6 +7117,21 @@
         "tx": "0x20fa146f63b215b82c4c65e8d18db585eeadedab17659dbed00482f897a87769",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 327,
+      "born": "2026-07-31T12:38:01.416Z",
+      "name": "Wick the 327th"
     }
   ]
 }
