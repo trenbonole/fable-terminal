@@ -1,5 +1,5 @@
 {
-  "count": 304,
+  "count": 305,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6640,6 +6640,21 @@
         "tx": "0x92393c0025e529b598c578f98ea1029a3f4113805337dc1a1e708580aad7d2ef",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 5,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 305,
+      "born": "2026-07-31T01:38:02.264Z",
+      "name": "Sorrel the 305th"
     }
   ]
 }
