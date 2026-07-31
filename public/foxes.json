@@ -1,5 +1,5 @@
 {
-  "count": 319,
+  "count": 320,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6963,6 +6963,21 @@
         "tx": "0x1c956a77c2532b414245114640f23d0df4c036f93768a4869305cf16ee6f4e72",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 320,
+      "born": "2026-07-31T09:08:01.271Z",
+      "name": "Quill the 320th"
     }
   ]
 }
