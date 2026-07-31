@@ -6779,7 +6779,14 @@
       "rarity": "common",
       "id": 311,
       "born": "2026-07-31T04:38:01.221Z",
-      "name": "Wick the 311th"
+      "name": "Wick the 311th",
+      "img": "foxes/proc-311.png",
+      "nft": {
+        "tokenId": "307",
+        "owner": "0xa14c04df5445e74349c5c4745629c7f405500b83",
+        "tx": "0x1f4d311c7254a39ec495158b39eeafff8201e8651f3a85f12672f0ae9fae2718",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
