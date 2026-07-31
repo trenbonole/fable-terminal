@@ -1,5 +1,5 @@
 {
-  "count": 309,
+  "count": 310,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6743,6 +6743,21 @@
         "tx": "0xb5699137ad6ddbe3a6dffc23e0f3e4355147edc4f61fd9ac2cd803b8e2fc530c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 310,
+      "born": "2026-07-31T04:08:01.199Z",
+      "name": "Vesper the 310th"
     }
   ]
 }
