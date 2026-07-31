@@ -7388,7 +7388,14 @@
       "rarity": "uncommon",
       "id": 339,
       "born": "2026-07-31T18:38:01.499Z",
-      "name": "Umbra the 339th"
+      "name": "Umbra the 339th",
+      "img": "foxes/proc-339.png",
+      "nft": {
+        "tokenId": "334",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xc2ed55dea3ca4d25068795693344edbb1cc6b3f889b9ef70f5c71899f35597d2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
