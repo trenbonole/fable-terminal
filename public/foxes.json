@@ -7219,7 +7219,14 @@
       "rarity": "rare",
       "id": 331,
       "born": "2026-07-31T14:38:01.418Z",
-      "name": "Sable the 331st"
+      "name": "Sable the 331st",
+      "img": "foxes/proc-331.png",
+      "nft": {
+        "tokenId": "327",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x266aa943c0a100ac5f2648e3fe1b5e66672736b2565b79675b03e8b479e0a506",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
