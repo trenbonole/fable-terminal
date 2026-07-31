@@ -7241,7 +7241,14 @@
       "rarity": "uncommon",
       "id": 332,
       "born": "2026-07-31T15:08:01.421Z",
-      "name": "Cairn the 332nd"
+      "name": "Cairn the 332nd",
+      "img": "foxes/proc-332.png",
+      "nft": {
+        "tokenId": "328",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x760885d4dedc7be3db77038c7692ad7f97ed5ecc1e6251a5d0b796ec30df6f67",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
