@@ -1,5 +1,5 @@
 {
-  "count": 329,
+  "count": 330,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7183,6 +7183,21 @@
         "tx": "0xf05d8a3997b64acdcfea2ac81510dad09df76df55b3b520d824e716fb2d4a38b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 330,
+      "born": "2026-07-31T14:08:01.418Z",
+      "name": "Hollow the 330th"
     }
   ]
 }
