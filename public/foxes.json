@@ -1,5 +1,5 @@
 {
-  "count": 305,
+  "count": 306,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6655,6 +6655,21 @@
       "id": 305,
       "born": "2026-07-31T01:38:02.264Z",
       "name": "Sorrel the 305th"
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 9,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "legendary",
+      "id": 306,
+      "born": "2026-07-31T02:08:02.366Z",
+      "name": "Umbra the 306th"
     }
   ]
 }
