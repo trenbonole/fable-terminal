@@ -1,5 +1,5 @@
 {
-  "count": 348,
+  "count": 349,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7594,6 +7594,21 @@
         "tx": "0x3791530363adc74463772781f9e24d6a5541a8892efa0f4cc84aeea2fef30a1c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 349,
+      "born": "2026-07-31T23:38:01.596Z",
+      "name": "Cinder the 349th"
     }
   ]
 }
