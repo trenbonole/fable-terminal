@@ -1,5 +1,5 @@
 {
-  "count": 327,
+  "count": 328,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7139,6 +7139,21 @@
         "tx": "0x8bff5a9d529bee221d6fc748ffe6ef5313419c3c937696fc75b1004615f138fd",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 328,
+      "born": "2026-07-31T13:08:01.414Z",
+      "name": "Fennec the 328th"
     }
   ]
 }
