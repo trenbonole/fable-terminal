@@ -6955,7 +6955,14 @@
       "rarity": "rare",
       "id": 319,
       "born": "2026-07-31T08:38:01.267Z",
-      "name": "Quill the 319th"
+      "name": "Quill the 319th",
+      "img": "foxes/proc-319.png",
+      "nft": {
+        "tokenId": "315",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0x1c956a77c2532b414245114640f23d0df4c036f93768a4869305cf16ee6f4e72",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
