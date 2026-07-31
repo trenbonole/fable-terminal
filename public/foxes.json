@@ -1,5 +1,5 @@
 {
-  "count": 338,
+  "count": 339,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7374,6 +7374,21 @@
       "id": 338,
       "born": "2026-07-31T18:08:01.632Z",
       "name": "Pyre the 338th"
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 339,
+      "born": "2026-07-31T18:38:01.499Z",
+      "name": "Umbra the 339th"
     }
   ]
 }
