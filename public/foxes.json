@@ -7410,7 +7410,14 @@
       "rarity": "common",
       "id": 340,
       "born": "2026-07-31T19:08:01.587Z",
-      "name": "Kit the 340th"
+      "name": "Kit the 340th",
+      "img": "foxes/proc-340.png",
+      "nft": {
+        "tokenId": "335",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0xbeee288bf9d4f9991ae10a1415732665a366e2fce4d2f2a0356917f80badb189",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
