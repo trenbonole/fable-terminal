@@ -6845,7 +6845,14 @@
       "rarity": "common",
       "id": 314,
       "born": "2026-07-31T06:08:01.244Z",
-      "name": "Ember the 314th"
+      "name": "Ember the 314th",
+      "img": "foxes/proc-314.png",
+      "nft": {
+        "tokenId": "310",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0xdd1c805c50eb07e2fdbbae8451ae321681b90eb7f72b1fd764d24f3f1a9a5591",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
