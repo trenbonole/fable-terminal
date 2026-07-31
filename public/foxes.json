@@ -6735,7 +6735,14 @@
       "rarity": "uncommon",
       "id": 309,
       "born": "2026-07-31T03:38:01.190Z",
-      "name": "Vesper the 309th"
+      "name": "Vesper the 309th",
+      "img": "foxes/proc-309.png",
+      "nft": {
+        "tokenId": "305",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0xb5699137ad6ddbe3a6dffc23e0f3e4355147edc4f61fd9ac2cd803b8e2fc530c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
