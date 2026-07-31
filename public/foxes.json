@@ -6713,7 +6713,14 @@
       "rarity": "rare",
       "id": 308,
       "born": "2026-07-31T03:08:01.183Z",
-      "name": "Marlow the 308th"
+      "name": "Marlow the 308th",
+      "img": "foxes/proc-308.png",
+      "nft": {
+        "tokenId": "304",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x2ba60a2ccaa959e8e427044408415e112ef57e5b6b3175e73b680343603e5bdc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
