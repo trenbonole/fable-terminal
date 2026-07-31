@@ -7065,7 +7065,14 @@
       "rarity": "common",
       "id": 324,
       "born": "2026-07-31T11:08:01.475Z",
-      "name": "Sable the 324th"
+      "name": "Sable the 324th",
+      "img": "foxes/proc-324.png",
+      "nft": {
+        "tokenId": "320",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x746f8b1942714f59c9da2aecf1493614d945816ad0b298195cd18a2130bf7f8a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
