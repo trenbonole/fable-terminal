@@ -6757,7 +6757,14 @@
       "rarity": "rare",
       "id": 310,
       "born": "2026-07-31T04:08:01.199Z",
-      "name": "Vesper the 310th"
+      "name": "Vesper the 310th",
+      "img": "foxes/proc-310.png",
+      "nft": {
+        "tokenId": "306",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0x58f0418627253c55fb976f286289d4cec4b9bd45d1dd711541818102510d67e9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
