@@ -6977,7 +6977,14 @@
       "rarity": "uncommon",
       "id": 320,
       "born": "2026-07-31T09:08:01.271Z",
-      "name": "Quill the 320th"
+      "name": "Quill the 320th",
+      "img": "foxes/proc-320.png",
+      "nft": {
+        "tokenId": "316",
+        "owner": "0x4353b6393c0b3214d9100c438dbc5ac041545cf9",
+        "tx": "0x8050bdab513605d89d4255b47f2bb47a32f51cd1dac0fb39064b1453a107aeb0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
