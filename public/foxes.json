@@ -6911,7 +6911,14 @@
       "rarity": "uncommon",
       "id": 317,
       "born": "2026-07-31T07:38:01.251Z",
-      "name": "Quill the 317th"
+      "name": "Quill the 317th",
+      "img": "foxes/proc-317.png",
+      "nft": {
+        "tokenId": "313",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0xa9ad7a76acfa289e8b25391ac311418e983647f38bbb7ba9ae5d0019bde9a8f4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
