@@ -7564,7 +7564,14 @@
       "rarity": "common",
       "id": 347,
       "born": "2026-07-31T22:38:01.590Z",
-      "name": "Wick the 347th"
+      "name": "Wick the 347th",
+      "img": "foxes/proc-347.png",
+      "nft": {
+        "tokenId": "342",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x9990b798b5153793da95c17129a341f1090c8b746f2121c1e492188b32e2be35",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
