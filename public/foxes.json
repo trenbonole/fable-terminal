@@ -1,5 +1,5 @@
 {
-  "count": 318,
+  "count": 319,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -6941,6 +6941,21 @@
         "tx": "0x1be41d038c84e3ccf2e5cc044b2b1af1c15ccf11327480a797665281a9d3be4a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 319,
+      "born": "2026-07-31T08:38:01.267Z",
+      "name": "Quill the 319th"
     }
   ]
 }
