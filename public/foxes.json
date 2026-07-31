@@ -1,5 +1,5 @@
 {
-  "count": 339,
+  "count": 340,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7396,6 +7396,21 @@
         "tx": "0xc2ed55dea3ca4d25068795693344edbb1cc6b3f889b9ef70f5c71899f35597d2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 340,
+      "born": "2026-07-31T19:08:01.587Z",
+      "name": "Kit the 340th"
     }
   ]
 }
