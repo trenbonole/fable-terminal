@@ -7263,7 +7263,14 @@
       "rarity": "uncommon",
       "id": 333,
       "born": "2026-07-31T15:38:01.467Z",
-      "name": "Ash the 333rd"
+      "name": "Ash the 333rd",
+      "img": "foxes/proc-333.png",
+      "nft": {
+        "tokenId": "329",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0x799ccc38aca8acb136f997932e3e18c2f75cc6670365a3eb8297c734effe1d9c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
