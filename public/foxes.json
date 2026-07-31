@@ -7153,7 +7153,14 @@
       "rarity": "common",
       "id": 328,
       "born": "2026-07-31T13:08:01.414Z",
-      "name": "Fennec the 328th"
+      "name": "Fennec the 328th",
+      "img": "foxes/proc-328.png",
+      "nft": {
+        "tokenId": "324",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0x1e2a05f420f865c7901147570fcb115bc1ba8ba696479328859cb9033492f26f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
