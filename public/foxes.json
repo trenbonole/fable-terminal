@@ -7608,7 +7608,14 @@
       "rarity": "rare",
       "id": 349,
       "born": "2026-07-31T23:38:01.596Z",
-      "name": "Cinder the 349th"
+      "name": "Cinder the 349th",
+      "img": "foxes/proc-349.png",
+      "nft": {
+        "tokenId": "344",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0xa82f4b0dbe8d4fbef315529d7e600f4dc6f820c8f2b39627e7ecf1c1aba4572e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
