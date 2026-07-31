@@ -6889,7 +6889,14 @@
       "rarity": "uncommon",
       "id": 316,
       "born": "2026-07-31T07:08:01.457Z",
-      "name": "Cairn the 316th"
+      "name": "Cairn the 316th",
+      "img": "foxes/proc-316.png",
+      "nft": {
+        "tokenId": "312",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0x129bffda7766a00c8709c1e0eac0d8e4b110fc6517f5997af8c467c04182ccf2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
