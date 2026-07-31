@@ -6588,7 +6588,14 @@
       "rarity": "uncommon",
       "id": 302,
       "born": "2026-07-31T00:08:02.233Z",
-      "name": "Bracken the 302nd"
+      "name": "Bracken the 302nd",
+      "img": "foxes/proc-302.png",
+      "nft": {
+        "tokenId": "299",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x25bfd6fcd3f385f4acdf6ff89cdb6a23915f3b42faa56d384fd636d531a145c3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
