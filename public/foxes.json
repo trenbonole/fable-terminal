@@ -6823,7 +6823,14 @@
       "rarity": "common",
       "id": 313,
       "born": "2026-07-31T05:38:01.240Z",
-      "name": "Pyre the 313th"
+      "name": "Pyre the 313th",
+      "img": "foxes/proc-313.png",
+      "nft": {
+        "tokenId": "309",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x81c99ea363e69e8cacb629166a99df6e39a82bbc27db7f0a0d3a5e0126fc1336",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
