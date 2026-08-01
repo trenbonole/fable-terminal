@@ -8576,7 +8576,14 @@
       "rarity": "uncommon",
       "id": 393,
       "born": "2026-08-01T21:38:02.012Z",
-      "name": "Quill the 393rd"
+      "name": "Quill the 393rd",
+      "img": "foxes/proc-393.png",
+      "nft": {
+        "tokenId": "388",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x26fab4ec320279b8bc113a0bcdabd00be3f18fbc9c656e9cadb8ae17776124a0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
