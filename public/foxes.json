@@ -7806,7 +7806,14 @@
       "rarity": "legendary",
       "id": 358,
       "born": "2026-08-01T04:08:01.575Z",
-      "name": "Cairn the 358th"
+      "name": "Cairn the 358th",
+      "img": "foxes/proc-358.png",
+      "nft": {
+        "tokenId": "353",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0x5f8ba19946a814111b737d1a29381cbfa5c823b036cdd0125c1a554c8c08c826",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
