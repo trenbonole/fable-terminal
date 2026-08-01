@@ -8202,7 +8202,14 @@
       "rarity": "common",
       "id": 376,
       "born": "2026-08-01T13:08:01.827Z",
-      "name": "Sable the 376th"
+      "name": "Sable the 376th",
+      "img": "foxes/proc-376.png",
+      "nft": {
+        "tokenId": "371",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0x61276d2cf7e8ca1936707d158f296f17796c9825a883441f17e5f66f60e5c2b6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
