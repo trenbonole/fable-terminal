@@ -1,5 +1,5 @@
 {
-  "count": 393,
+  "count": 394,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8584,6 +8584,21 @@
         "tx": "0x26fab4ec320279b8bc113a0bcdabd00be3f18fbc9c656e9cadb8ae17776124a0",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 394,
+      "born": "2026-08-01T22:08:02.013Z",
+      "name": "Tod the 394th"
     }
   ]
 }
