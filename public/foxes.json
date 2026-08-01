@@ -1,5 +1,5 @@
 {
-  "count": 384,
+  "count": 385,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8386,6 +8386,21 @@
         "tx": "0x02886559f8008a213b97e7345ef1cdb1f2c5a69f5b820aa449706b544c6b1ac5",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 385,
+      "born": "2026-08-01T17:38:01.895Z",
+      "name": "Umbra the 385th"
     }
   ]
 }
