@@ -1,5 +1,5 @@
 {
-  "count": 368,
+  "count": 369,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8034,6 +8034,21 @@
         "tx": "0xfc782a046fa56bd3d3a67762851bffe371bbb958455f329da05ee9079d3ef26d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 369,
+      "born": "2026-08-01T09:38:01.658Z",
+      "name": "Vesper the 369th"
     }
   ]
 }
