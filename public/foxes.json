@@ -7960,7 +7960,14 @@
       "rarity": "uncommon",
       "id": 365,
       "born": "2026-08-01T07:38:01.626Z",
-      "name": "Marlow the 365th"
+      "name": "Marlow the 365th",
+      "img": "foxes/proc-365.png",
+      "nft": {
+        "tokenId": "360",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xb04c23fc4065c5523608e0a459fef905ce732fa599678def8c6dfbf36a429d5a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
