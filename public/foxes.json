@@ -7674,7 +7674,14 @@
       "rarity": "rare",
       "id": 352,
       "born": "2026-08-01T01:08:01.745Z",
-      "name": "Vulpes the 352nd"
+      "name": "Vulpes the 352nd",
+      "img": "foxes/proc-352.png",
+      "nft": {
+        "tokenId": "347",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xde6b16a695cd438f31d8141fb475dd29e0105a4cb41ee04a581b6f2d1fbd0cc7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
