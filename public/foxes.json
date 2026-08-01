@@ -1,5 +1,5 @@
 {
-  "count": 365,
+  "count": 366,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7968,6 +7968,21 @@
         "tx": "0xb04c23fc4065c5523608e0a459fef905ce732fa599678def8c6dfbf36a429d5a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 366,
+      "born": "2026-08-01T08:08:01.640Z",
+      "name": "Ash the 366th"
     }
   ]
 }
