@@ -7762,7 +7762,14 @@
       "rarity": "legendary",
       "id": 356,
       "born": "2026-08-01T03:08:01.573Z",
-      "name": "Bracken the 356th"
+      "name": "Bracken the 356th",
+      "img": "foxes/proc-356.png",
+      "nft": {
+        "tokenId": "351",
+        "owner": "0x4a3b8f06f753c6e0b49758dcdc0b40d1799fbf03",
+        "tx": "0x9f026e247e076640a1dec188828ac6f6c4403b6d46cd9aa3f9a0b47a9ed50e28",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
