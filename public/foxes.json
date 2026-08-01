@@ -7982,7 +7982,14 @@
       "rarity": "rare",
       "id": 366,
       "born": "2026-08-01T08:08:01.640Z",
-      "name": "Ash the 366th"
+      "name": "Ash the 366th",
+      "img": "foxes/proc-366.png",
+      "nft": {
+        "tokenId": "361",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x77435839848ef4c48d075922d32b7d0849af53e0aac9da5ac391875c55f1cb34",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
