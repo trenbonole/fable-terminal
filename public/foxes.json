@@ -8488,7 +8488,14 @@
       "rarity": "rare",
       "id": 389,
       "born": "2026-08-01T19:38:01.852Z",
-      "name": "Vulpes the 389th"
+      "name": "Vulpes the 389th",
+      "img": "foxes/proc-389.png",
+      "nft": {
+        "tokenId": "384",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x0e791e59e88814953808738895d72ac0501dd423144b54f2fa706131c36b57f6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
