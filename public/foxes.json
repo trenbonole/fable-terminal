@@ -7784,7 +7784,14 @@
       "rarity": "uncommon",
       "id": 357,
       "born": "2026-08-01T03:38:01.610Z",
-      "name": "Umbra the 357th"
+      "name": "Umbra the 357th",
+      "img": "foxes/proc-357.png",
+      "nft": {
+        "tokenId": "352",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x2d20ddc328ee0309949fb85dc37ecf8b938fd39b894f67ffecc2fe2fe0234e47",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
