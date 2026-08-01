@@ -1,5 +1,5 @@
 {
-  "count": 352,
+  "count": 353,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7682,6 +7682,21 @@
         "tx": "0xde6b16a695cd438f31d8141fb475dd29e0105a4cb41ee04a581b6f2d1fbd0cc7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 353,
+      "born": "2026-08-01T01:38:01.672Z",
+      "name": "Pyre the 353rd"
     }
   ]
 }
