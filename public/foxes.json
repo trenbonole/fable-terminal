@@ -8224,7 +8224,14 @@
       "rarity": "rare",
       "id": 377,
       "born": "2026-08-01T13:38:01.962Z",
-      "name": "Hollow the 377th"
+      "name": "Hollow the 377th",
+      "img": "foxes/proc-377.png",
+      "nft": {
+        "tokenId": "372",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x09072a370837394412980e11883f66671f2c6fa0e77edf0567591e88c2499869",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
