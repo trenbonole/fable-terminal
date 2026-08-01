@@ -7696,7 +7696,14 @@
       "rarity": "rare",
       "id": 353,
       "born": "2026-08-01T01:38:01.672Z",
-      "name": "Pyre the 353rd"
+      "name": "Pyre the 353rd",
+      "img": "foxes/proc-353.png",
+      "nft": {
+        "tokenId": "348",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x71811fd462b79da9a047dacc8b27401680e3966d6b2ad3ffa91a921230e53088",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
