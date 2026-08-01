@@ -1,5 +1,5 @@
 {
-  "count": 379,
+  "count": 380,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8276,6 +8276,21 @@
         "tx": "0x557d279ced849a646f8dafc08100953d562867887a206db37a6d7bdf1e3df70a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 9,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "legendary",
+      "id": 380,
+      "born": "2026-08-01T15:08:01.854Z",
+      "name": "Pyre the 380th"
     }
   ]
 }
