@@ -8598,7 +8598,14 @@
       "rarity": "uncommon",
       "id": 394,
       "born": "2026-08-01T22:08:02.013Z",
-      "name": "Tod the 394th"
+      "name": "Tod the 394th",
+      "img": "foxes/proc-394.png",
+      "nft": {
+        "tokenId": "389",
+        "owner": "0x5ac21910c6b9a783e07270cd5da294e3bd910b8d",
+        "tx": "0xa6078f0ca8dcb8ec76cbb2811ac6bb092bbc57926e27ee808298fc29faf13bc9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
