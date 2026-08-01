@@ -1,5 +1,5 @@
 {
-  "count": 382,
+  "count": 383,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8342,6 +8342,21 @@
         "tx": "0xa3eb2e26eb95a1f16d770e04bfbf43638e2f25fbb6cc3c7c3a000663349d4563",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 383,
+      "born": "2026-08-01T16:38:01.852Z",
+      "name": "Vulpes the 383rd"
     }
   ]
 }
