@@ -8356,7 +8356,14 @@
       "rarity": "common",
       "id": 383,
       "born": "2026-08-01T16:38:01.852Z",
-      "name": "Vulpes the 383rd"
+      "name": "Vulpes the 383rd",
+      "img": "foxes/proc-383.png",
+      "nft": {
+        "tokenId": "378",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x1bd2eac17de68cd9761b7e750abaa7233ae9505a3fc29241737269e53e9d1aed",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
