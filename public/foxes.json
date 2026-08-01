@@ -8554,7 +8554,14 @@
       "rarity": "rare",
       "id": 392,
       "born": "2026-08-01T21:08:04.632Z",
-      "name": "Cinder the 392nd"
+      "name": "Cinder the 392nd",
+      "img": "foxes/proc-392.png",
+      "nft": {
+        "tokenId": "387",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0xc7cdf13fc68a305abddd059a595310d614a579157953d21658e2e8ca2c8eb120",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
