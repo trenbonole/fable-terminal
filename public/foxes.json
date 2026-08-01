@@ -8422,7 +8422,14 @@
       "rarity": "rare",
       "id": 386,
       "born": "2026-08-01T18:08:01.935Z",
-      "name": "Hollow the 386th"
+      "name": "Hollow the 386th",
+      "img": "foxes/proc-386.png",
+      "nft": {
+        "tokenId": "381",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x923804582b34ac382bc1f6ca567e2d79598607e6cf23374ffcd542ff7efd4f68",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
