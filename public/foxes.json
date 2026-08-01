@@ -1,5 +1,5 @@
 {
-  "count": 360,
+  "count": 361,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7858,6 +7858,21 @@
         "tx": "0xa9cbf635cf8d1e786319c37736a872024202f58df14fd7d3510ef13e74bf2fc1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 361,
+      "born": "2026-08-01T05:38:01.605Z",
+      "name": "Ember the 361st"
     }
   ]
 }
