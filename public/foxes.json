@@ -1,5 +1,5 @@
 {
-  "count": 350,
+  "count": 351,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7638,6 +7638,21 @@
         "tx": "0x2e8a40d3299405d35e97a8af96f95397c005a5c3d08c8e48c76b81b06a22feb1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 351,
+      "born": "2026-08-01T00:38:01.613Z",
+      "name": "Cairn the 351st"
     }
   ]
 }
