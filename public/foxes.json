@@ -1,5 +1,5 @@
 {
-  "count": 380,
+  "count": 381,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8298,6 +8298,21 @@
         "tx": "0x707b5a44b61e63f4d02211864fe9c571e1b2c04091225a10f42d975e63939f5d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 381,
+      "born": "2026-08-01T15:38:01.843Z",
+      "name": "Ash the 381st"
     }
   ]
 }
