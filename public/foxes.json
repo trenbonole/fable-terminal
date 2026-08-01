@@ -1,5 +1,5 @@
 {
-  "count": 390,
+  "count": 391,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8518,6 +8518,21 @@
         "tx": "0x3c8e7a8b8c163cd8b99329d1929dee3a0337f694dd25fb3a6b7663c063ba7378",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 391,
+      "born": "2026-08-01T20:38:01.868Z",
+      "name": "Cinder the 391st"
     }
   ]
 }
