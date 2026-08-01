@@ -8048,7 +8048,14 @@
       "rarity": "rare",
       "id": 369,
       "born": "2026-08-01T09:38:01.658Z",
-      "name": "Vesper the 369th"
+      "name": "Vesper the 369th",
+      "img": "foxes/proc-369.png",
+      "nft": {
+        "tokenId": "364",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x475edf4f1f098dd3c53917c8d7785b825ca99364f79fc2308f2ead0e9fcb93ca",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
