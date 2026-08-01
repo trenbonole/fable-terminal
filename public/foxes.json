@@ -1,5 +1,5 @@
 {
-  "count": 357,
+  "count": 358,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7792,6 +7792,21 @@
         "tx": "0x2d20ddc328ee0309949fb85dc37ecf8b938fd39b894f67ffecc2fe2fe0234e47",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 9,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "legendary",
+      "id": 358,
+      "born": "2026-08-01T04:08:01.575Z",
+      "name": "Cairn the 358th"
     }
   ]
 }
