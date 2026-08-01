@@ -1,5 +1,5 @@
 {
-  "count": 371,
+  "count": 372,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8100,6 +8100,21 @@
         "tx": "0xc7d49c9c3c6c522d3604c2afb6d63ca8c443b538ced8ef23d1a4b842ed07d2ad",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 372,
+      "born": "2026-08-01T11:08:01.904Z",
+      "name": "Pyre the 372nd"
     }
   ]
 }
