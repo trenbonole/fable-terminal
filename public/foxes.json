@@ -1,5 +1,5 @@
 {
-  "count": 396,
+  "count": 397,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8650,6 +8650,21 @@
         "tx": "0x9cb7c537efe525626400db33d46cb7d5826ee95512c01c4a21671d574844eb6d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 397,
+      "born": "2026-08-01T23:38:02.026Z",
+      "name": "Tod the 397th"
     }
   ]
 }
