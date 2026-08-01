@@ -8158,7 +8158,14 @@
       "rarity": "uncommon",
       "id": 374,
       "born": "2026-08-01T12:08:01.785Z",
-      "name": "Ember the 374th"
+      "name": "Ember the 374th",
+      "img": "foxes/proc-374.png",
+      "nft": {
+        "tokenId": "369",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xcbd84ea1558c776f9cc105bfd3a277b567cdc406f85cb1cd142041fa1d4a1c52",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
