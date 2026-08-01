@@ -1,5 +1,5 @@
 {
-  "count": 358,
+  "count": 359,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7814,6 +7814,21 @@
         "tx": "0x5f8ba19946a814111b737d1a29381cbfa5c823b036cdd0125c1a554c8c08c826",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 359,
+      "born": "2026-08-01T04:38:01.588Z",
+      "name": "Ash the 359th"
     }
   ]
 }
