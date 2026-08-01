@@ -7894,7 +7894,14 @@
       "rarity": "rare",
       "id": 362,
       "born": "2026-08-01T06:08:01.629Z",
-      "name": "Cairn the 362nd"
+      "name": "Cairn the 362nd",
+      "img": "foxes/proc-362.png",
+      "nft": {
+        "tokenId": "357",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0x15db5c6f988445369c1ac0af2f1a62d9afcb42604d8ac765ed9aab6ff860c2a4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
