@@ -8510,7 +8510,14 @@
       "rarity": "rare",
       "id": 390,
       "born": "2026-08-01T20:08:01.940Z",
-      "name": "Marlow the 390th"
+      "name": "Marlow the 390th",
+      "img": "foxes/proc-390.png",
+      "nft": {
+        "tokenId": "385",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x3c8e7a8b8c163cd8b99329d1929dee3a0337f694dd25fb3a6b7663c063ba7378",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
