@@ -7850,7 +7850,14 @@
       "rarity": "uncommon",
       "id": 360,
       "born": "2026-08-01T05:08:01.618Z",
-      "name": "Mote the 360th"
+      "name": "Mote the 360th",
+      "img": "foxes/proc-360.png",
+      "nft": {
+        "tokenId": "355",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0xa9cbf635cf8d1e786319c37736a872024202f58df14fd7d3510ef13e74bf2fc1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
