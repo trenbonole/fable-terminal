@@ -7718,7 +7718,14 @@
       "rarity": "uncommon",
       "id": 354,
       "born": "2026-08-01T02:08:01.620Z",
-      "name": "Umbra the 354th"
+      "name": "Umbra the 354th",
+      "img": "foxes/proc-354.png",
+      "nft": {
+        "tokenId": "349",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xf01c1c33bef0e454fac36fcbb409b3b2d2cad03805ce0c6ebf7571f7cc5f73ed",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
