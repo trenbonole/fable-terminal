@@ -1,5 +1,5 @@
 {
-  "count": 377,
+  "count": 378,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8232,6 +8232,21 @@
         "tx": "0x09072a370837394412980e11883f66671f2c6fa0e77edf0567591e88c2499869",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 378,
+      "born": "2026-08-01T14:08:01.891Z",
+      "name": "Hollow the 378th"
     }
   ]
 }
