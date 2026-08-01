@@ -7938,7 +7938,14 @@
       "rarity": "common",
       "id": 364,
       "born": "2026-08-01T07:08:01.623Z",
-      "name": "Pyre the 364th"
+      "name": "Pyre the 364th",
+      "img": "foxes/proc-364.png",
+      "nft": {
+        "tokenId": "359",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0x4ca744adb5f1e0a2624dcb9b4d96964cbec1e0632916c664d2461ca3cd7cfd1e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
