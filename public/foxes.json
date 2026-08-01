@@ -8444,7 +8444,14 @@
       "rarity": "common",
       "id": 387,
       "born": "2026-08-01T18:38:01.881Z",
-      "name": "Ember the 387th"
+      "name": "Ember the 387th",
+      "img": "foxes/proc-387.png",
+      "nft": {
+        "tokenId": "382",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0x7d96b4cfa85545e150dc86a660202572053df0472d53430114b5e063b674b8a7",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
