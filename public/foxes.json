@@ -8070,7 +8070,14 @@
       "rarity": "uncommon",
       "id": 370,
       "born": "2026-08-01T10:08:01.655Z",
-      "name": "Ember the 370th"
+      "name": "Ember the 370th",
+      "img": "foxes/proc-370.png",
+      "nft": {
+        "tokenId": "365",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0xf480aeb591d565ea78db6ba8ae61986a651f6d6811fb033366641250a052edbf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
