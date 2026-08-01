@@ -1,5 +1,5 @@
 {
-  "count": 361,
+  "count": 362,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7880,6 +7880,21 @@
         "tx": "0x14ea0d7621dedf2f9526a12f4a5694343278ae9a9c8774259c51df55c6c5a18a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 5,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 362,
+      "born": "2026-08-01T06:08:01.629Z",
+      "name": "Cairn the 362nd"
     }
   ]
 }
