@@ -8664,7 +8664,14 @@
       "rarity": "uncommon",
       "id": 397,
       "born": "2026-08-01T23:38:02.026Z",
-      "name": "Tod the 397th"
+      "name": "Tod the 397th",
+      "img": "foxes/proc-397.png",
+      "nft": {
+        "tokenId": "392",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x5c12038b532020f5de89fffe89d73f825558c7f1fb5843344b7175d37834d13d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
