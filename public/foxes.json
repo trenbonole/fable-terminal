@@ -8026,7 +8026,14 @@
       "rarity": "rare",
       "id": 368,
       "born": "2026-08-01T09:08:01.766Z",
-      "name": "Bracken the 368th"
+      "name": "Bracken the 368th",
+      "img": "foxes/proc-368.png",
+      "nft": {
+        "tokenId": "363",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xfc782a046fa56bd3d3a67762851bffe371bbb958455f329da05ee9079d3ef26d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
