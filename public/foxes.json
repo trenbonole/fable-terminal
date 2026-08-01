@@ -1,5 +1,5 @@
 {
-  "count": 385,
+  "count": 386,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8408,6 +8408,21 @@
         "tx": "0xb5e30c1feed6671a3f1b30765a82f3df020fcd2c49d471ffa58c09e316b26503",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 386,
+      "born": "2026-08-01T18:08:01.935Z",
+      "name": "Hollow the 386th"
     }
   ]
 }
