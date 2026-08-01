@@ -8532,7 +8532,14 @@
       "rarity": "uncommon",
       "id": 391,
       "born": "2026-08-01T20:38:01.868Z",
-      "name": "Cinder the 391st"
+      "name": "Cinder the 391st",
+      "img": "foxes/proc-391.png",
+      "nft": {
+        "tokenId": "386",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x8da315d855057276ab1670ba46230735f1daa26083aca13878e348ab79b10a91",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
