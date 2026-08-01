@@ -1,5 +1,5 @@
 {
-  "count": 387,
+  "count": 388,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8452,6 +8452,21 @@
         "tx": "0x7d96b4cfa85545e150dc86a660202572053df0472d53430114b5e063b674b8a7",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 388,
+      "born": "2026-08-01T19:08:01.845Z",
+      "name": "Kit the 388th"
     }
   ]
 }
