@@ -1,5 +1,5 @@
 {
-  "count": 373,
+  "count": 374,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8144,6 +8144,21 @@
         "tx": "0xc0a7cceae0e48fbc4c891a7f20791276cf400bdb82a3e4659b4c2df799120694",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 374,
+      "born": "2026-08-01T12:08:01.785Z",
+      "name": "Ember the 374th"
     }
   ]
 }
