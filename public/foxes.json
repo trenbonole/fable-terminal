@@ -1,5 +1,5 @@
 {
-  "count": 394,
+  "count": 395,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8606,6 +8606,21 @@
         "tx": "0xa6078f0ca8dcb8ec76cbb2811ac6bb092bbc57926e27ee808298fc29faf13bc9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 395,
+      "born": "2026-08-01T22:38:02.005Z",
+      "name": "Sorrel the 395th"
     }
   ]
 }
