@@ -1,5 +1,5 @@
 {
-  "count": 366,
+  "count": 367,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7990,6 +7990,21 @@
         "tx": "0x77435839848ef4c48d075922d32b7d0849af53e0aac9da5ac391875c55f1cb34",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 367,
+      "born": "2026-08-01T08:38:01.642Z",
+      "name": "Ember the 367th"
     }
   ]
 }
