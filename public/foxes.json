@@ -8092,7 +8092,14 @@
       "rarity": "rare",
       "id": 371,
       "born": "2026-08-01T10:38:01.673Z",
-      "name": "Sable the 371st"
+      "name": "Sable the 371st",
+      "img": "foxes/proc-371.png",
+      "nft": {
+        "tokenId": "366",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0xc7d49c9c3c6c522d3604c2afb6d63ca8c443b538ced8ef23d1a4b842ed07d2ad",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
