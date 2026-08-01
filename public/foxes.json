@@ -8378,7 +8378,14 @@
       "rarity": "uncommon",
       "id": 384,
       "born": "2026-08-01T17:08:01.948Z",
-      "name": "Hollow the 384th"
+      "name": "Hollow the 384th",
+      "img": "foxes/proc-384.png",
+      "nft": {
+        "tokenId": "379",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x02886559f8008a213b97e7345ef1cdb1f2c5a69f5b820aa449706b544c6b1ac5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
