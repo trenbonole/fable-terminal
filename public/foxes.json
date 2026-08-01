@@ -1,5 +1,5 @@
 {
-  "count": 353,
+  "count": 354,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7704,6 +7704,21 @@
         "tx": "0x71811fd462b79da9a047dacc8b27401680e3966d6b2ad3ffa91a921230e53088",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 354,
+      "born": "2026-08-01T02:08:01.620Z",
+      "name": "Umbra the 354th"
     }
   ]
 }
