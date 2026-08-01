@@ -1,5 +1,5 @@
 {
-  "count": 372,
+  "count": 373,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8122,6 +8122,21 @@
         "tx": "0x872f84d26ecc8ab6cf9da2be04d16173798cc2a79c58d3c2f084fb9a9233187b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 373,
+      "born": "2026-08-01T11:38:01.806Z",
+      "name": "Vulpes the 373rd"
     }
   ]
 }
