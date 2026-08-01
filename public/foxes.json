@@ -8268,7 +8268,14 @@
       "rarity": "common",
       "id": 379,
       "born": "2026-08-01T14:38:01.864Z",
-      "name": "Ash the 379th"
+      "name": "Ash the 379th",
+      "img": "foxes/proc-379.png",
+      "nft": {
+        "tokenId": "374",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x557d279ced849a646f8dafc08100953d562867887a206db37a6d7bdf1e3df70a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
