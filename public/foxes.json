@@ -8290,7 +8290,14 @@
       "rarity": "legendary",
       "id": 380,
       "born": "2026-08-01T15:08:01.854Z",
-      "name": "Pyre the 380th"
+      "name": "Pyre the 380th",
+      "img": "foxes/proc-380.png",
+      "nft": {
+        "tokenId": "375",
+        "owner": "0xbe41dbc50995e9ba418abeb0988fa63e40b86bd0",
+        "tx": "0x707b5a44b61e63f4d02211864fe9c571e1b2c04091225a10f42d975e63939f5d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
