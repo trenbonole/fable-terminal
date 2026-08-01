@@ -7652,7 +7652,14 @@
       "rarity": "uncommon",
       "id": 351,
       "born": "2026-08-01T00:38:01.613Z",
-      "name": "Cairn the 351st"
+      "name": "Cairn the 351st",
+      "img": "foxes/proc-351.png",
+      "nft": {
+        "tokenId": "346",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0x8a9a3417f072b5712b0b70e9bca0f4e84f6cea4fd5ed05862a504595ed5b44f6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
