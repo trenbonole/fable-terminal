@@ -8400,7 +8400,14 @@
       "rarity": "common",
       "id": 385,
       "born": "2026-08-01T17:38:01.895Z",
-      "name": "Umbra the 385th"
+      "name": "Umbra the 385th",
+      "img": "foxes/proc-385.png",
+      "nft": {
+        "tokenId": "380",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0xb5e30c1feed6671a3f1b30765a82f3df020fcd2c49d471ffa58c09e316b26503",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
