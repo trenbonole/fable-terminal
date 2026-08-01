@@ -1,5 +1,5 @@
 {
-  "count": 381,
+  "count": 382,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8320,6 +8320,21 @@
         "tx": "0x2e3d10e8ae0c534f8fa8ec8056bbe969476005e08bd1457111f7a56ab8a071be",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 382,
+      "born": "2026-08-01T16:08:01.844Z",
+      "name": "Bracken the 382nd"
     }
   ]
 }
