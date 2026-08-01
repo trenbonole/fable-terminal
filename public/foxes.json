@@ -7828,7 +7828,14 @@
       "rarity": "rare",
       "id": 359,
       "born": "2026-08-01T04:38:01.588Z",
-      "name": "Ash the 359th"
+      "name": "Ash the 359th",
+      "img": "foxes/proc-359.png",
+      "nft": {
+        "tokenId": "354",
+        "owner": "0xa14c04df5445e74349c5c4745629c7f405500b83",
+        "tx": "0xc82d36d689effe6150dcb53cc2f4a2563e3aac1314c62e7840c3b9e7d67b7661",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
