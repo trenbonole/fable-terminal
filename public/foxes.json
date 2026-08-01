@@ -8180,7 +8180,14 @@
       "rarity": "uncommon",
       "id": 375,
       "born": "2026-08-01T12:38:01.834Z",
-      "name": "Fennec the 375th"
+      "name": "Fennec the 375th",
+      "img": "foxes/proc-375.png",
+      "nft": {
+        "tokenId": "370",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x82d11803038645f08b3c0a1f3d460f830f77f2b458207c8966ed71f4b1d0e3bf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
