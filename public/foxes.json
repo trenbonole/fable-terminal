@@ -8642,7 +8642,14 @@
       "rarity": "uncommon",
       "id": 396,
       "born": "2026-08-01T23:08:02.041Z",
-      "name": "Pyre the 396th"
+      "name": "Pyre the 396th",
+      "img": "foxes/proc-396.png",
+      "nft": {
+        "tokenId": "391",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0x9cb7c537efe525626400db33d46cb7d5826ee95512c01c4a21671d574844eb6d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
