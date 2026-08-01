@@ -1,5 +1,5 @@
 {
-  "count": 386,
+  "count": 387,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8430,6 +8430,21 @@
         "tx": "0x923804582b34ac382bc1f6ca567e2d79598607e6cf23374ffcd542ff7efd4f68",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 387,
+      "born": "2026-08-01T18:38:01.881Z",
+      "name": "Ember the 387th"
     }
   ]
 }
