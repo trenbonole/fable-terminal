@@ -7740,7 +7740,14 @@
       "rarity": "rare",
       "id": 355,
       "born": "2026-08-01T02:38:01.672Z",
-      "name": "Fennec the 355th"
+      "name": "Fennec the 355th",
+      "img": "foxes/proc-355.png",
+      "nft": {
+        "tokenId": "350",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0xded9b19a48fcc1e0d257d1ecdddb08c431d20ec7207aaa096b802aae96c58101",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
