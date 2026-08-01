@@ -1,5 +1,5 @@
 {
-  "count": 359,
+  "count": 360,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7836,6 +7836,21 @@
         "tx": "0xc82d36d689effe6150dcb53cc2f4a2563e3aac1314c62e7840c3b9e7d67b7661",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 360,
+      "born": "2026-08-01T05:08:01.618Z",
+      "name": "Mote the 360th"
     }
   ]
 }
