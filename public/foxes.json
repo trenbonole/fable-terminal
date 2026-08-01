@@ -1,5 +1,5 @@
 {
-  "count": 363,
+  "count": 364,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7924,6 +7924,21 @@
         "tx": "0x31961d6152676c2dc5251b1594e40aa47ddec968b338c6b6cd323aad90d14c9a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 364,
+      "born": "2026-08-01T07:08:01.623Z",
+      "name": "Pyre the 364th"
     }
   ]
 }
