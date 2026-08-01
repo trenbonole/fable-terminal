@@ -1,5 +1,5 @@
 {
-  "count": 388,
+  "count": 389,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8474,6 +8474,21 @@
         "tx": "0x455ded4c73d1d76b554c4b8718e7e2d2066bdca6fedf9ca80aab897746a9d99e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 5,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 389,
+      "born": "2026-08-01T19:38:01.852Z",
+      "name": "Vulpes the 389th"
     }
   ]
 }
