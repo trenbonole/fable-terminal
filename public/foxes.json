@@ -1,5 +1,5 @@
 {
-  "count": 356,
+  "count": 357,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7770,6 +7770,21 @@
         "tx": "0x9f026e247e076640a1dec188828ac6f6c4403b6d46cd9aa3f9a0b47a9ed50e28",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 357,
+      "born": "2026-08-01T03:38:01.610Z",
+      "name": "Umbra the 357th"
     }
   ]
 }
