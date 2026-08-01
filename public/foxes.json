@@ -8312,7 +8312,14 @@
       "rarity": "uncommon",
       "id": 381,
       "born": "2026-08-01T15:38:01.843Z",
-      "name": "Ash the 381st"
+      "name": "Ash the 381st",
+      "img": "foxes/proc-381.png",
+      "nft": {
+        "tokenId": "376",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x2e3d10e8ae0c534f8fa8ec8056bbe969476005e08bd1457111f7a56ab8a071be",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
