@@ -8114,7 +8114,14 @@
       "rarity": "rare",
       "id": 372,
       "born": "2026-08-01T11:08:01.904Z",
-      "name": "Pyre the 372nd"
+      "name": "Pyre the 372nd",
+      "img": "foxes/proc-372.png",
+      "nft": {
+        "tokenId": "367",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x872f84d26ecc8ab6cf9da2be04d16173798cc2a79c58d3c2f084fb9a9233187b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
