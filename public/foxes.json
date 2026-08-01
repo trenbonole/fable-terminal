@@ -7630,7 +7630,14 @@
       "rarity": "uncommon",
       "id": 350,
       "born": "2026-08-01T00:08:01.575Z",
-      "name": "Reynard the 350th"
+      "name": "Reynard the 350th",
+      "img": "foxes/proc-350.png",
+      "nft": {
+        "tokenId": "345",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0x2e8a40d3299405d35e97a8af96f95397c005a5c3d08c8e48c76b81b06a22feb1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
