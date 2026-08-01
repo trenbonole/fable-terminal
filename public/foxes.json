@@ -1,5 +1,5 @@
 {
-  "count": 389,
+  "count": 390,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8496,6 +8496,21 @@
         "tx": "0x0e791e59e88814953808738895d72ac0501dd423144b54f2fa706131c36b57f6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "halo",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 390,
+      "born": "2026-08-01T20:08:01.940Z",
+      "name": "Marlow the 390th"
     }
   ]
 }
