@@ -8004,7 +8004,14 @@
       "rarity": "common",
       "id": 367,
       "born": "2026-08-01T08:38:01.642Z",
-      "name": "Ember the 367th"
+      "name": "Ember the 367th",
+      "img": "foxes/proc-367.png",
+      "nft": {
+        "tokenId": "362",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0x8b7a906f539e1bf3287b73041802651b8fecc635e1c449993952904f076f5356",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
