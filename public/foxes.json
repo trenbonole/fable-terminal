@@ -1,5 +1,5 @@
 {
-  "count": 364,
+  "count": 365,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -7946,6 +7946,21 @@
         "tx": "0x4ca744adb5f1e0a2624dcb9b4d96964cbec1e0632916c664d2461ca3cd7cfd1e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 365,
+      "born": "2026-08-01T07:38:01.626Z",
+      "name": "Marlow the 365th"
     }
   ]
 }
