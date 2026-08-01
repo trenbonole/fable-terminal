@@ -1,5 +1,5 @@
 {
-  "count": 392,
+  "count": 393,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8562,6 +8562,21 @@
         "tx": "0xc7cdf13fc68a305abddd059a595310d614a579157953d21658e2e8ca2c8eb120",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 393,
+      "born": "2026-08-01T21:38:02.012Z",
+      "name": "Quill the 393rd"
     }
   ]
 }
