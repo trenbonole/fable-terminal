@@ -1,5 +1,5 @@
 {
-  "count": 409,
+  "count": 410,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8936,6 +8936,21 @@
         "tx": "0x716141de80c14e7f6b23b8322ae68d2337dc4cefba1e6dddf80ef91907ac04b9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 410,
+      "born": "2026-08-02T06:08:02.011Z",
+      "name": "Vulpes the 410th"
     }
   ]
 }
