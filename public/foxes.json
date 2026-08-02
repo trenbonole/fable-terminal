@@ -1,5 +1,5 @@
 {
-  "count": 415,
+  "count": 416,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9068,6 +9068,21 @@
         "tx": "0x4bbbda1b96b20430fcaad512592fc96924280372f497519ca83a5f305c0a7d39",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 416,
+      "born": "2026-08-02T09:08:02.196Z",
+      "name": "Sable the 416th"
     }
   ]
 }
