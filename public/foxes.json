@@ -1,5 +1,5 @@
 {
-  "count": 442,
+  "count": 443,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9662,6 +9662,21 @@
         "tx": "0x567a7fb6cc848c7bd36fe2ffb66de51f5af64acf5a21008fd4338e792db715b4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 443,
+      "born": "2026-08-02T22:38:01.504Z",
+      "name": "Sable the 443rd"
     }
   ]
 }
