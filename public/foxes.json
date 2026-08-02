@@ -9566,7 +9566,14 @@
       "rarity": "common",
       "id": 438,
       "born": "2026-08-02T20:08:01.386Z",
-      "name": "Hollow the 438th"
+      "name": "Hollow the 438th",
+      "img": "foxes/proc-438.png",
+      "nft": {
+        "tokenId": "433",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0xb244b212337d2551ca74f43abd5af574f6ebffb2c941a937d6aa0ec6862e89fc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
