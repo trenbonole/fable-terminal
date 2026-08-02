@@ -1,5 +1,5 @@
 {
-  "count": 432,
+  "count": 433,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9442,6 +9442,21 @@
         "tx": "0x7cabc1628ba7029a950232382b14860b18ff6c8c7c6b93e3dd9de83e46252046",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 433,
+      "born": "2026-08-02T17:38:01.216Z",
+      "name": "Vesper the 433rd"
     }
   ]
 }
