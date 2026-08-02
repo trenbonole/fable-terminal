@@ -1,5 +1,5 @@
 {
-  "count": 433,
+  "count": 434,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9464,6 +9464,21 @@
         "tx": "0xde3b0ae3168cc33ea339ccbd0a46b56a0ad22960132195b66bae6f5d604b59c8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 434,
+      "born": "2026-08-02T18:08:01.216Z",
+      "name": "Wick the 434th"
     }
   ]
 }
