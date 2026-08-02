@@ -9610,7 +9610,14 @@
       "rarity": "rare",
       "id": 440,
       "born": "2026-08-02T21:08:01.335Z",
-      "name": "Cinder the 440th"
+      "name": "Cinder the 440th",
+      "img": "foxes/proc-440.png",
+      "nft": {
+        "tokenId": "435",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0x2c1ef159f88882966e1f6f874194c44a6632c88c44efc3297d140be7074c2e54",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
