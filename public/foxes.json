@@ -8862,7 +8862,14 @@
       "rarity": "uncommon",
       "id": 406,
       "born": "2026-08-02T04:08:02.019Z",
-      "name": "Hollow the 406th"
+      "name": "Hollow the 406th",
+      "img": "foxes/proc-406.png",
+      "nft": {
+        "tokenId": "401",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xcc2ab5191c53f31db0498f315fa923e6daeecd1a7b5492449c12a377575b2115",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
