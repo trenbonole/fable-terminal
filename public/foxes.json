@@ -8818,7 +8818,14 @@
       "rarity": "rare",
       "id": 404,
       "born": "2026-08-02T03:08:01.976Z",
-      "name": "Sable the 404th"
+      "name": "Sable the 404th",
+      "img": "foxes/proc-404.png",
+      "nft": {
+        "tokenId": "399",
+        "owner": "0x4f82e73edb06d29ff62c91ec8f5ff06571bdeb29",
+        "tx": "0x763141c4fef85bc7668cbac534bca49771694a5f026d40cd8d7ba25b30b54799",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
