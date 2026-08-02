@@ -9214,7 +9214,14 @@
       "rarity": "uncommon",
       "id": 422,
       "born": "2026-08-02T12:08:02.245Z",
-      "name": "Mote the 422nd"
+      "name": "Mote the 422nd",
+      "img": "foxes/proc-422.png",
+      "nft": {
+        "tokenId": "417",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0x8fd205767fe237ed4eb3d35eaa30a54891a7c6863115a9c7f62a587246d31d60",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
