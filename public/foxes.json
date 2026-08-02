@@ -1,5 +1,5 @@
 {
-  "count": 420,
+  "count": 421,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9178,6 +9178,21 @@
         "tx": "0x19060f3b210e2099b464a4d2bbc06b0367f7323442c6e8b21b5a878af44a6195",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 421,
+      "born": "2026-08-02T11:38:02.175Z",
+      "name": "Reynard the 421st"
     }
   ]
 }
