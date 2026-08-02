@@ -9412,7 +9412,14 @@
       "rarity": "rare",
       "id": 431,
       "born": "2026-08-02T16:38:02.205Z",
-      "name": "Sable the 431st"
+      "name": "Sable the 431st",
+      "img": "foxes/proc-431.png",
+      "nft": {
+        "tokenId": "426",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0x848f33ff261fb00f59c0de564c40f02807076d036b376a5b5f34ed5741c200a6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
