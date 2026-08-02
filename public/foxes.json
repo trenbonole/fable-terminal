@@ -9082,7 +9082,14 @@
       "rarity": "common",
       "id": 416,
       "born": "2026-08-02T09:08:02.196Z",
-      "name": "Sable the 416th"
+      "name": "Sable the 416th",
+      "img": "foxes/proc-416.png",
+      "nft": {
+        "tokenId": "411",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0xc02460e9be6a1517bff4079baa4ddee1f8162a3dc78b7dc0a712ff968f3b6b06",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
