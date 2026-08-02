@@ -9060,7 +9060,14 @@
       "rarity": "uncommon",
       "id": 415,
       "born": "2026-08-02T08:38:02.193Z",
-      "name": "Bracken the 415th"
+      "name": "Bracken the 415th",
+      "img": "foxes/proc-415.png",
+      "nft": {
+        "tokenId": "410",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x4bbbda1b96b20430fcaad512592fc96924280372f497519ca83a5f305c0a7d39",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
