@@ -1,5 +1,5 @@
 {
-  "count": 397,
+  "count": 398,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8672,6 +8672,21 @@
         "tx": "0x5c12038b532020f5de89fffe89d73f825558c7f1fb5843344b7175d37834d13d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 398,
+      "born": "2026-08-02T00:08:02.010Z",
+      "name": "Hollow the 398th"
     }
   ]
 }
