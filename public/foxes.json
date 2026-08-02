@@ -1,5 +1,5 @@
 {
-  "count": 429,
+  "count": 430,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9376,6 +9376,21 @@
         "tx": "0xf81aac13ffc0e2a50f8a845aa1c8dbf272b177848103663710b087fe84d25e07",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 430,
+      "born": "2026-08-02T16:08:02.194Z",
+      "name": "Reynard the 430th"
     }
   ]
 }
