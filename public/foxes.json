@@ -9346,7 +9346,14 @@
       "rarity": "common",
       "id": 428,
       "born": "2026-08-02T15:08:02.189Z",
-      "name": "Pyre the 428th"
+      "name": "Pyre the 428th",
+      "img": "foxes/proc-428.png",
+      "nft": {
+        "tokenId": "423",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xb6943aa776bfc1d120311218851ea8a1db5ef31c4ec539d77d0209587239a485",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
