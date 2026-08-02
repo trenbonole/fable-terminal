@@ -9522,7 +9522,14 @@
       "rarity": "rare",
       "id": 436,
       "born": "2026-08-02T19:08:01.335Z",
-      "name": "Umbra the 436th"
+      "name": "Umbra the 436th",
+      "img": "foxes/proc-436.png",
+      "nft": {
+        "tokenId": "431",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x7dfe13593a05888ace2bb44fc70d846d31e4bfadf0597d83a513d9f3bc2f48ff",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
