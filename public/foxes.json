@@ -9258,7 +9258,14 @@
       "rarity": "uncommon",
       "id": 424,
       "born": "2026-08-02T13:08:02.286Z",
-      "name": "Umbra the 424th"
+      "name": "Umbra the 424th",
+      "img": "foxes/proc-424.png",
+      "nft": {
+        "tokenId": "419",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0x042390330e48517c5575deef65e6a5562c5cafec624920a3a8de6a522973dccf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
