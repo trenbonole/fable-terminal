@@ -9192,7 +9192,14 @@
       "rarity": "common",
       "id": 421,
       "born": "2026-08-02T11:38:02.175Z",
-      "name": "Reynard the 421st"
+      "name": "Reynard the 421st",
+      "img": "foxes/proc-421.png",
+      "nft": {
+        "tokenId": "416",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0xabe07244e1c553cc60c203c173f9ef5ebe3ef289310db1ed8f02e8370725adc3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
