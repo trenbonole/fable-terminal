@@ -9544,7 +9544,14 @@
       "rarity": "common",
       "id": 437,
       "born": "2026-08-02T19:38:01.369Z",
-      "name": "Cairn the 437th"
+      "name": "Cairn the 437th",
+      "img": "foxes/proc-437.png",
+      "nft": {
+        "tokenId": "432",
+        "owner": "0x4353b6393c0b3214d9100c438dbc5ac041545cf9",
+        "tx": "0x66eeb04840f37a4f4d8b1de4e6fe8e3f3bf5639a5349e463a34bfed2a16c73db",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
