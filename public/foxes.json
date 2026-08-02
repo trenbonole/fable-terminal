@@ -1,5 +1,5 @@
 {
-  "count": 437,
+  "count": 438,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9552,6 +9552,21 @@
         "tx": "0x66eeb04840f37a4f4d8b1de4e6fe8e3f3bf5639a5349e463a34bfed2a16c73db",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 438,
+      "born": "2026-08-02T20:08:01.386Z",
+      "name": "Hollow the 438th"
     }
   ]
 }
