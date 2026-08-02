@@ -1,5 +1,5 @@
 {
-  "count": 401,
+  "count": 402,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8760,6 +8760,21 @@
         "tx": "0x42d67b51d5d72849e68259f2ee338f1164459b7c852d83e3a3863357e1804c39",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 402,
+      "born": "2026-08-02T02:08:02.002Z",
+      "name": "Vesper the 402nd"
     }
   ]
 }
