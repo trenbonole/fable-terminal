@@ -9478,7 +9478,14 @@
       "rarity": "uncommon",
       "id": 434,
       "born": "2026-08-02T18:08:01.216Z",
-      "name": "Wick the 434th"
+      "name": "Wick the 434th",
+      "img": "foxes/proc-434.png",
+      "nft": {
+        "tokenId": "429",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x694a5b90b0f3d70cec97b036eb1f7b5d2708ae99e2d3f9129dbe3b46991b1ef6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
