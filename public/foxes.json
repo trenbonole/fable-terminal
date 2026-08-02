@@ -8730,7 +8730,14 @@
       "rarity": "uncommon",
       "id": 400,
       "born": "2026-08-02T01:08:01.980Z",
-      "name": "Kit the 400th"
+      "name": "Kit the 400th",
+      "img": "foxes/proc-400.png",
+      "nft": {
+        "tokenId": "395",
+        "owner": "0x178dee1d5ed100f01ed5a154820c4a04d2347f4f",
+        "tx": "0xe35eb5f06e5a4affb53d422413adcd102a51d44be4bc26fc281672db75c9b54e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
