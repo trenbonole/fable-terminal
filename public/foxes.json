@@ -9104,7 +9104,14 @@
       "rarity": "rare",
       "id": 417,
       "born": "2026-08-02T09:38:02.398Z",
-      "name": "Hollow the 417th"
+      "name": "Hollow the 417th",
+      "img": "foxes/proc-417.png",
+      "nft": {
+        "tokenId": "412",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x7ca0709a104bf6f8234dee4ecea275bba6ee76d1aff3d2ebbb561fa52ba5258c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
