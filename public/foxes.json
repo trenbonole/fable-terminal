@@ -9500,7 +9500,14 @@
       "rarity": "common",
       "id": 435,
       "born": "2026-08-02T18:38:01.264Z",
-      "name": "Pyre the 435th"
+      "name": "Pyre the 435th",
+      "img": "foxes/proc-435.png",
+      "nft": {
+        "tokenId": "430",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x783912952712807bdad5a124e9a3bdae21cbfd60cb642b978cbfdae606c33532",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
