@@ -9456,7 +9456,14 @@
       "rarity": "uncommon",
       "id": 433,
       "born": "2026-08-02T17:38:01.216Z",
-      "name": "Vesper the 433rd"
+      "name": "Vesper the 433rd",
+      "img": "foxes/proc-433.png",
+      "nft": {
+        "tokenId": "428",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0xde3b0ae3168cc33ea339ccbd0a46b56a0ad22960132195b66bae6f5d604b59c8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
