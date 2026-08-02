@@ -9016,7 +9016,14 @@
       "rarity": "rare",
       "id": 413,
       "born": "2026-08-02T07:38:02.027Z",
-      "name": "Ash the 413th"
+      "name": "Ash the 413th",
+      "img": "foxes/proc-413.png",
+      "nft": {
+        "tokenId": "408",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0x2c18721afe76217bbf98d9eb47daa3d57784eaaf213e9227f20b99e68346adb4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
