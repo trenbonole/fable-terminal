@@ -1,5 +1,5 @@
 {
-  "count": 404,
+  "count": 405,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8826,6 +8826,21 @@
         "tx": "0x763141c4fef85bc7668cbac534bca49771694a5f026d40cd8d7ba25b30b54799",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 405,
+      "born": "2026-08-02T03:38:02.023Z",
+      "name": "Cinder the 405th"
     }
   ]
 }
