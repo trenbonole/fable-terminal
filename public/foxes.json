@@ -1,5 +1,5 @@
 {
-  "count": 444,
+  "count": 445,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9699,6 +9699,21 @@
       "id": 444,
       "born": "2026-08-02T23:08:01.411Z",
       "name": "Fennec the 444th"
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 445,
+      "born": "2026-08-02T23:38:02.170Z",
+      "name": "Fennec the 445th"
     }
   ]
 }
