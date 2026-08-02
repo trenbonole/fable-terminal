@@ -8752,7 +8752,14 @@
       "rarity": "common",
       "id": 401,
       "born": "2026-08-02T01:38:01.950Z",
-      "name": "Wick the 401st"
+      "name": "Wick the 401st",
+      "img": "foxes/proc-401.png",
+      "nft": {
+        "tokenId": "396",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x42d67b51d5d72849e68259f2ee338f1164459b7c852d83e3a3863357e1804c39",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
