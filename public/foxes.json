@@ -9170,7 +9170,14 @@
       "rarity": "common",
       "id": 420,
       "born": "2026-08-02T11:08:02.314Z",
-      "name": "Fennec the 420th"
+      "name": "Fennec the 420th",
+      "img": "foxes/proc-420.png",
+      "nft": {
+        "tokenId": "415",
+        "owner": "0xe15cd42024a0b8403a924b2f2f1e0b75385a8caf",
+        "tx": "0x19060f3b210e2099b464a4d2bbc06b0367f7323442c6e8b21b5a878af44a6195",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
