@@ -9713,7 +9713,14 @@
       "rarity": "rare",
       "id": 445,
       "born": "2026-08-02T23:38:02.170Z",
-      "name": "Fennec the 445th"
+      "name": "Fennec the 445th",
+      "img": "foxes/proc-445.png",
+      "nft": {
+        "tokenId": "439",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x6e301652f1a1f0b3c2b6761d9490e8370efa1a2662dc210945a436f49ec727d4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
