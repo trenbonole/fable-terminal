@@ -1,5 +1,5 @@
 {
-  "count": 403,
+  "count": 404,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8804,6 +8804,21 @@
         "tx": "0x934dd0c2f6668ffbb2e9b787a499d1fb0ab709a993254554b9316663d7e419f1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 404,
+      "born": "2026-08-02T03:08:01.976Z",
+      "name": "Sable the 404th"
     }
   ]
 }
