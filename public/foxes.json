@@ -1,5 +1,5 @@
 {
-  "count": 421,
+  "count": 422,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9200,6 +9200,21 @@
         "tx": "0xabe07244e1c553cc60c203c173f9ef5ebe3ef289310db1ed8f02e8370725adc3",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 422,
+      "born": "2026-08-02T12:08:02.245Z",
+      "name": "Mote the 422nd"
     }
   ]
 }
