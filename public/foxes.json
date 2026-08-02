@@ -9676,7 +9676,14 @@
       "rarity": "rare",
       "id": 443,
       "born": "2026-08-02T22:38:01.504Z",
-      "name": "Sable the 443rd"
+      "name": "Sable the 443rd",
+      "img": "foxes/proc-443.png",
+      "nft": {
+        "tokenId": "438",
+        "owner": "0x4c8ac052c7461d78bcbb02652470ab337cff02bf",
+        "tx": "0x6a8e5d1257310ba412097f43b66a5958b07448e5cacb73ba4a33add66ad0147b",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
