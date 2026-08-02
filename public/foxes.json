@@ -8950,7 +8950,14 @@
       "rarity": "common",
       "id": 410,
       "born": "2026-08-02T06:08:02.011Z",
-      "name": "Vulpes the 410th"
+      "name": "Vulpes the 410th",
+      "img": "foxes/proc-410.png",
+      "nft": {
+        "tokenId": "405",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xf228ebbe464f118120a41e9966eeb33702efc2ad1bc657ac0e8e0a1b849170a2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
