@@ -1,5 +1,5 @@
 {
-  "count": 428,
+  "count": 429,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9354,6 +9354,21 @@
         "tx": "0xb6943aa776bfc1d120311218851ea8a1db5ef31c4ec539d77d0209587239a485",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 429,
+      "born": "2026-08-02T15:38:02.173Z",
+      "name": "Wick the 429th"
     }
   ]
 }
