@@ -9654,7 +9654,14 @@
       "rarity": "common",
       "id": 442,
       "born": "2026-08-02T22:08:01.299Z",
-      "name": "Sable the 442nd"
+      "name": "Sable the 442nd",
+      "img": "foxes/proc-442.png",
+      "nft": {
+        "tokenId": "437",
+        "owner": "0x2636fbf545822687a1c5118a9546ed0c6b1b521d",
+        "tx": "0x567a7fb6cc848c7bd36fe2ffb66de51f5af64acf5a21008fd4338e792db715b4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
