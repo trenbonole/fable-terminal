@@ -1,5 +1,5 @@
 {
-  "count": 430,
+  "count": 431,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9398,6 +9398,21 @@
         "tx": "0x98729b46682f241542abd79c1ded775cc7a631979c94e1788762ce05b0114837",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 5,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 431,
+      "born": "2026-08-02T16:38:02.205Z",
+      "name": "Sable the 431st"
     }
   ]
 }
