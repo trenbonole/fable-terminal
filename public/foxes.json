@@ -1,5 +1,5 @@
 {
-  "count": 441,
+  "count": 442,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9640,6 +9640,21 @@
         "tx": "0xd5da9f9b8e847ec241071c2bfc99bd136bead2ec55a39dbadd07424d4024e9b1",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 442,
+      "born": "2026-08-02T22:08:01.299Z",
+      "name": "Sable the 442nd"
     }
   ]
 }
