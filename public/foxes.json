@@ -1,5 +1,5 @@
 {
-  "count": 410,
+  "count": 411,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8958,6 +8958,21 @@
         "tx": "0xf228ebbe464f118120a41e9966eeb33702efc2ad1bc657ac0e8e0a1b849170a2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 411,
+      "born": "2026-08-02T06:38:02.052Z",
+      "name": "Sorrel the 411th"
     }
   ]
 }
