@@ -1,5 +1,5 @@
 {
-  "count": 427,
+  "count": 428,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9332,6 +9332,21 @@
         "tx": "0x08b2fed489265c9fa80a8b3d27ab8b0256d8476a195567783b203e33f16ff47b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 428,
+      "born": "2026-08-02T15:08:02.189Z",
+      "name": "Pyre the 428th"
     }
   ]
 }
