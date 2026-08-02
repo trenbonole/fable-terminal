@@ -9126,7 +9126,14 @@
       "rarity": "common",
       "id": 418,
       "born": "2026-08-02T10:08:02.137Z",
-      "name": "Mote the 418th"
+      "name": "Mote the 418th",
+      "img": "foxes/proc-418.png",
+      "nft": {
+        "tokenId": "413",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0xf2f2f42e021e3d35e001808d0b8d97df1b48424f3be4acdeb2ad9936e70db433",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
