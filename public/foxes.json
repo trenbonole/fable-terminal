@@ -9588,7 +9588,14 @@
       "rarity": "uncommon",
       "id": 439,
       "born": "2026-08-02T20:38:01.390Z",
-      "name": "Cairn the 439th"
+      "name": "Cairn the 439th",
+      "img": "foxes/proc-439.png",
+      "nft": {
+        "tokenId": "434",
+        "owner": "0x4a3b8f06f753c6e0b49758dcdc0b40d1799fbf03",
+        "tx": "0x4eeb6f3f151d720df69a49f82c06e6d815dc8fd7dcb5ca584999a2d887a41269",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
