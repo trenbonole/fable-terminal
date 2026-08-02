@@ -8884,7 +8884,14 @@
       "rarity": "common",
       "id": 407,
       "born": "2026-08-02T04:38:02.036Z",
-      "name": "Cinder the 407th"
+      "name": "Cinder the 407th",
+      "img": "foxes/proc-407.png",
+      "nft": {
+        "tokenId": "402",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x7e73a2a1e96f9bbf3a94954c367f063c64180dae965c7264ee9c70c0fbae838d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
