@@ -1,5 +1,5 @@
 {
-  "count": 440,
+  "count": 441,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9618,6 +9618,21 @@
         "tx": "0x2c1ef159f88882966e1f6f874194c44a6632c88c44efc3297d140be7074c2e54",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 441,
+      "born": "2026-08-02T21:38:01.415Z",
+      "name": "Tod the 441st"
     }
   ]
 }
