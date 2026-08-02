@@ -1,5 +1,5 @@
 {
-  "count": 438,
+  "count": 439,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9574,6 +9574,21 @@
         "tx": "0xb244b212337d2551ca74f43abd5af574f6ebffb2c941a937d6aa0ec6862e89fc",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 439,
+      "born": "2026-08-02T20:38:01.390Z",
+      "name": "Cairn the 439th"
     }
   ]
 }
