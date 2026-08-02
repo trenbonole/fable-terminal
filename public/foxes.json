@@ -8774,7 +8774,14 @@
       "rarity": "common",
       "id": 402,
       "born": "2026-08-02T02:08:02.002Z",
-      "name": "Vesper the 402nd"
+      "name": "Vesper the 402nd",
+      "img": "foxes/proc-402.png",
+      "nft": {
+        "tokenId": "397",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x5e405daa1b29bd0189b2176448a3e49f2f84448fd2f96f402bf2c6d6ba75c120",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
