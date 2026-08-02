@@ -1,5 +1,5 @@
 {
-  "count": 434,
+  "count": 435,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9486,6 +9486,21 @@
         "tx": "0x694a5b90b0f3d70cec97b036eb1f7b5d2708ae99e2d3f9129dbe3b46991b1ef6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 435,
+      "born": "2026-08-02T18:38:01.264Z",
+      "name": "Pyre the 435th"
     }
   ]
 }
