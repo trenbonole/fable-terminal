@@ -1,5 +1,5 @@
 {
-  "count": 408,
+  "count": 409,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8914,6 +8914,21 @@
         "tx": "0xf583236a406ffb375169dada9361e20ff7ff6ad052223f2c87a2e0375d879f5a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 409,
+      "born": "2026-08-02T05:38:02.037Z",
+      "name": "Pyre the 409th"
     }
   ]
 }
