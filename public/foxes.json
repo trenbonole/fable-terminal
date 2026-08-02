@@ -1,5 +1,5 @@
 {
-  "count": 425,
+  "count": 426,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9288,6 +9288,21 @@
         "tx": "0x6aaa7d6dc30d7795bcd38a0d464cc9c5ad6e735979f3cb39c64b6f9e348e57cb",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 426,
+      "born": "2026-08-02T14:08:02.194Z",
+      "name": "Quill the 426th"
     }
   ]
 }
