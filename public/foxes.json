@@ -1,5 +1,5 @@
 {
-  "count": 411,
+  "count": 412,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8980,6 +8980,21 @@
         "tx": "0x8377d3ed026fec3d49a63d17d8c843d314081e28e6fdb64d8cf5e3d92cb46af3",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 412,
+      "born": "2026-08-02T07:08:02.011Z",
+      "name": "Hollow the 412th"
     }
   ]
 }
