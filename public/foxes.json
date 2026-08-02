@@ -8686,7 +8686,14 @@
       "rarity": "uncommon",
       "id": 398,
       "born": "2026-08-02T00:08:02.010Z",
-      "name": "Hollow the 398th"
+      "name": "Hollow the 398th",
+      "img": "foxes/proc-398.png",
+      "nft": {
+        "tokenId": "393",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0xd5657791b25b9fa41750dfa9e9e4116cd04512a804b9572e8ff927bb9cd1334f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
