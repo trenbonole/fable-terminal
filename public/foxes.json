@@ -8906,7 +8906,14 @@
       "rarity": "uncommon",
       "id": 408,
       "born": "2026-08-02T05:08:02.032Z",
-      "name": "Tod the 408th"
+      "name": "Tod the 408th",
+      "img": "foxes/proc-408.png",
+      "nft": {
+        "tokenId": "403",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0xf583236a406ffb375169dada9361e20ff7ff6ad052223f2c87a2e0375d879f5a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
