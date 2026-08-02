@@ -1,5 +1,5 @@
 {
-  "count": 405,
+  "count": 406,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8848,6 +8848,21 @@
         "tx": "0xf6a0db1ecc2e6d960e92bc7cd63714416ca11c408ddf784e5960fecb7dc8f5d4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 406,
+      "born": "2026-08-02T04:08:02.019Z",
+      "name": "Hollow the 406th"
     }
   ]
 }
