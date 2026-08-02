@@ -1,5 +1,5 @@
 {
-  "count": 422,
+  "count": 423,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9222,6 +9222,21 @@
         "tx": "0x8fd205767fe237ed4eb3d35eaa30a54891a7c6863115a9c7f62a587246d31d60",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "moon-crest",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 423,
+      "born": "2026-08-02T12:38:02.239Z",
+      "name": "Hollow the 423rd"
     }
   ]
 }
