@@ -1,5 +1,5 @@
 {
-  "count": 398,
+  "count": 399,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -8694,6 +8694,21 @@
         "tx": "0xd5657791b25b9fa41750dfa9e9e4116cd04512a804b9572e8ff927bb9cd1334f",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 399,
+      "born": "2026-08-02T00:38:01.959Z",
+      "name": "Marlow the 399th"
     }
   ]
 }
