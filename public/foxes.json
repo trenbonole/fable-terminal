@@ -8972,7 +8972,14 @@
       "rarity": "common",
       "id": 411,
       "born": "2026-08-02T06:38:02.052Z",
-      "name": "Sorrel the 411th"
+      "name": "Sorrel the 411th",
+      "img": "foxes/proc-411.png",
+      "nft": {
+        "tokenId": "406",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x8377d3ed026fec3d49a63d17d8c843d314081e28e6fdb64d8cf5e3d92cb46af3",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
