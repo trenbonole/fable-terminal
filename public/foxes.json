@@ -9368,7 +9368,14 @@
       "rarity": "rare",
       "id": 429,
       "born": "2026-08-02T15:38:02.173Z",
-      "name": "Wick the 429th"
+      "name": "Wick the 429th",
+      "img": "foxes/proc-429.png",
+      "nft": {
+        "tokenId": "424",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0xf81aac13ffc0e2a50f8a845aa1c8dbf272b177848103663710b087fe84d25e07",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
