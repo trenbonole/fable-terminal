@@ -9390,7 +9390,14 @@
       "rarity": "common",
       "id": 430,
       "born": "2026-08-02T16:08:02.194Z",
-      "name": "Reynard the 430th"
+      "name": "Reynard the 430th",
+      "img": "foxes/proc-430.png",
+      "nft": {
+        "tokenId": "425",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x98729b46682f241542abd79c1ded775cc7a631979c94e1788762ce05b0114837",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
