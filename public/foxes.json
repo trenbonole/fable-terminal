@@ -9302,7 +9302,14 @@
       "rarity": "uncommon",
       "id": 426,
       "born": "2026-08-02T14:08:02.194Z",
-      "name": "Quill the 426th"
+      "name": "Quill the 426th",
+      "img": "foxes/proc-426.png",
+      "nft": {
+        "tokenId": "421",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0x8849b0241e8ab837852231bd7a0c6df946a4c388a889993a7a52c01b112c2307",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
