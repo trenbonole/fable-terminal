@@ -8796,7 +8796,14 @@
       "rarity": "common",
       "id": 403,
       "born": "2026-08-02T02:38:01.994Z",
-      "name": "Ash the 403rd"
+      "name": "Ash the 403rd",
+      "img": "foxes/proc-403.png",
+      "nft": {
+        "tokenId": "398",
+        "owner": "0xe15cd42024a0b8403a924b2f2f1e0b75385a8caf",
+        "tx": "0x934dd0c2f6668ffbb2e9b787a499d1fb0ab709a993254554b9316663d7e419f1",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
