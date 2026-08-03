@@ -10021,7 +10021,14 @@
       "rarity": "rare",
       "id": 459,
       "born": "2026-08-03T06:38:02.155Z",
-      "name": "Bracken the 459th"
+      "name": "Bracken the 459th",
+      "img": "foxes/proc-459.png",
+      "nft": {
+        "tokenId": "453",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0xb19588820ccd818a10caf2b7f2760a0f15d7b0210960b5ea09fe5699b805cf80",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
