@@ -10395,7 +10395,14 @@
       "rarity": "rare",
       "id": 476,
       "born": "2026-08-03T15:08:01.389Z",
-      "name": "Mote the 476th"
+      "name": "Mote the 476th",
+      "img": "foxes/proc-476.png",
+      "nft": {
+        "tokenId": "470",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xb62442a78c1564bee7c569df53872d63a3ef8bcce4711072b06213618935c7a2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
