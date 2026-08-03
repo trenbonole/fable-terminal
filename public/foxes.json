@@ -10263,7 +10263,14 @@
       "rarity": "rare",
       "id": 470,
       "born": "2026-08-03T12:08:02.302Z",
-      "name": "Vulpes the 470th"
+      "name": "Vulpes the 470th",
+      "img": "foxes/proc-470.png",
+      "nft": {
+        "tokenId": "464",
+        "owner": "0xbcba1854b36fcef07bfaf27245b6bc92361352a1",
+        "tx": "0x9d39a0622449d68a780a61c20ca9c457d356a9eb80b98a5859cc3982026f235e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
