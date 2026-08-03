@@ -1,5 +1,5 @@
 {
-  "count": 451,
+  "count": 452,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9853,6 +9853,21 @@
         "tx": "0x47ba8261ec19f56c434c97f69fa50a7f0a20373cf331d6889275f4d7ba57a761",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 452,
+      "born": "2026-08-03T03:08:02.065Z",
+      "name": "Kit the 452nd"
     }
   ]
 }
