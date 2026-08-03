@@ -10219,7 +10219,14 @@
       "rarity": "uncommon",
       "id": 468,
       "born": "2026-08-03T11:08:02.398Z",
-      "name": "Pyre the 468th"
+      "name": "Pyre the 468th",
+      "img": "foxes/proc-468.png",
+      "nft": {
+        "tokenId": "462",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x846aaf580b9e05da5320371df52e86c7bc76d94854ac0aa828fc1cf92e166b97",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
