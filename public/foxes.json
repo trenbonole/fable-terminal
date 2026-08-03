@@ -10065,7 +10065,14 @@
       "rarity": "uncommon",
       "id": 461,
       "born": "2026-08-03T07:38:02.121Z",
-      "name": "Fennec the 461st"
+      "name": "Fennec the 461st",
+      "img": "foxes/proc-461.png",
+      "nft": {
+        "tokenId": "455",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xe89c95d3e55358147091efc9084d45b1f77c621ec9ca2ee2d413f29e86300586",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
