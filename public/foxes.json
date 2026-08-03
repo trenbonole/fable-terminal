@@ -1,5 +1,5 @@
 {
-  "count": 487,
+  "count": 488,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10645,6 +10645,21 @@
         "tx": "0xf0c6a91cc337a99e1af39da9f28cfdec8a416d4067ce5831cb213960ee9d1cb2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 488,
+      "born": "2026-08-03T21:08:01.434Z",
+      "name": "Sable the 488th"
     }
   ]
 }
