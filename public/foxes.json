@@ -10505,7 +10505,14 @@
       "rarity": "rare",
       "id": 481,
       "born": "2026-08-03T17:38:01.267Z",
-      "name": "Reynard the 481st"
+      "name": "Reynard the 481st",
+      "img": "foxes/proc-481.png",
+      "nft": {
+        "tokenId": "475",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0x18e3603e4b8bd761fc840231d320d95a7a76558788fc5b6830ecaa08af7b99f4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
