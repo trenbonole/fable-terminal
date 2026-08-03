@@ -10593,7 +10593,14 @@
       "rarity": "rare",
       "id": 485,
       "born": "2026-08-03T19:38:01.346Z",
-      "name": "Cairn the 485th"
+      "name": "Cairn the 485th",
+      "img": "foxes/proc-485.png",
+      "nft": {
+        "tokenId": "479",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xe87861aae5528d8297af31998b121ecff2254d4a7502b3eee2cdae128782e671",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
