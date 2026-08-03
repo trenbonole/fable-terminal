@@ -10417,7 +10417,14 @@
       "rarity": "common",
       "id": 477,
       "born": "2026-08-03T15:38:01.298Z",
-      "name": "Sable the 477th"
+      "name": "Sable the 477th",
+      "img": "foxes/proc-477.png",
+      "nft": {
+        "tokenId": "471",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x8c0591c44fb1668919f99bbc0d6b3e95a8dfb06885274bde3557bb3b051dcaf6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
