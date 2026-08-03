@@ -9823,7 +9823,14 @@
       "rarity": "uncommon",
       "id": 450,
       "born": "2026-08-03T02:08:02.101Z",
-      "name": "Wick the 450th"
+      "name": "Wick the 450th",
+      "img": "foxes/proc-450.png",
+      "nft": {
+        "tokenId": "444",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0x503646ef345772c8a6e4b92e35fa0e2bf618229055c438c3248bfe50882616b6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
