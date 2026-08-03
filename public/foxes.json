@@ -10109,7 +10109,14 @@
       "rarity": "common",
       "id": 463,
       "born": "2026-08-03T08:38:02.347Z",
-      "name": "Vulpes the 463rd"
+      "name": "Vulpes the 463rd",
+      "img": "foxes/proc-463.png",
+      "nft": {
+        "tokenId": "457",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0x1a1f998c22e6f9f8a6a7f0c2ec5dd563596b0bdabee0b9b1ed23e769014bfd9d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
