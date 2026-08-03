@@ -1,5 +1,5 @@
 {
-  "count": 455,
+  "count": 456,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9941,6 +9941,21 @@
         "tx": "0xfd70010fc0f8847b45f4be2083f6e5b9d8794687572c8a8f8604c9a73301516a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 456,
+      "born": "2026-08-03T05:08:02.091Z",
+      "name": "Sorrel the 456th"
     }
   ]
 }
