@@ -10241,7 +10241,14 @@
       "rarity": "common",
       "id": 469,
       "born": "2026-08-03T11:38:02.339Z",
-      "name": "Pyre the 469th"
+      "name": "Pyre the 469th",
+      "img": "foxes/proc-469.png",
+      "nft": {
+        "tokenId": "463",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x62236c7d6a91481359e3685773834867bd4c32020772c57be14a1e217ffb20ca",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
