@@ -10197,7 +10197,14 @@
       "rarity": "rare",
       "id": 467,
       "born": "2026-08-03T10:38:02.323Z",
-      "name": "Cairn the 467th"
+      "name": "Cairn the 467th",
+      "img": "foxes/proc-467.png",
+      "nft": {
+        "tokenId": "461",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x5ce8b0e9dc511f658092550b378d8029dcdac0691d35ff9fdcbd6abd9844956f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
