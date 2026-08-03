@@ -1,5 +1,5 @@
 {
-  "count": 470,
+  "count": 471,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10271,6 +10271,21 @@
         "tx": "0x9d39a0622449d68a780a61c20ca9c457d356a9eb80b98a5859cc3982026f235e",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 471,
+      "born": "2026-08-03T12:38:02.263Z",
+      "name": "Mote the 471st"
     }
   ]
 }
