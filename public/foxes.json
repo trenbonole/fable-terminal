@@ -9845,7 +9845,14 @@
       "rarity": "common",
       "id": 451,
       "born": "2026-08-03T02:38:02.052Z",
-      "name": "Cinder the 451st"
+      "name": "Cinder the 451st",
+      "img": "foxes/proc-451.png",
+      "nft": {
+        "tokenId": "445",
+        "owner": "0xedc6531b10297788cbb0fcfaee904a3803d3e2e4",
+        "tx": "0x47ba8261ec19f56c434c97f69fa50a7f0a20373cf331d6889275f4d7ba57a761",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
