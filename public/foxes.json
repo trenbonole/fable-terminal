@@ -10153,7 +10153,14 @@
       "rarity": "common",
       "id": 465,
       "born": "2026-08-03T09:38:02.283Z",
-      "name": "Vesper the 465th"
+      "name": "Vesper the 465th",
+      "img": "foxes/proc-465.png",
+      "nft": {
+        "tokenId": "459",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x8a3060c7a18b2e3f85f9c137bedcca040a87b569e9ee09eb396d74171cb2e474",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
