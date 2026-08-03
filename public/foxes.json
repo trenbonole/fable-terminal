@@ -1,5 +1,5 @@
 {
-  "count": 469,
+  "count": 470,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10249,6 +10249,21 @@
         "tx": "0x62236c7d6a91481359e3685773834867bd4c32020772c57be14a1e217ffb20ca",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 5,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 470,
+      "born": "2026-08-03T12:08:02.302Z",
+      "name": "Vulpes the 470th"
     }
   ]
 }
