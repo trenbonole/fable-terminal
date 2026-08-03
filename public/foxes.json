@@ -9955,7 +9955,14 @@
       "rarity": "uncommon",
       "id": 456,
       "born": "2026-08-03T05:08:02.091Z",
-      "name": "Sorrel the 456th"
+      "name": "Sorrel the 456th",
+      "img": "foxes/proc-456.png",
+      "nft": {
+        "tokenId": "450",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0xa1f24d0e6002cc3838b697bf02f6c4a5cfb1f8a1076becc23299ce0f69e7a5a0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
