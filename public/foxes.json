@@ -10131,7 +10131,14 @@
       "rarity": "common",
       "id": 464,
       "born": "2026-08-03T09:08:02.282Z",
-      "name": "Cairn the 464th"
+      "name": "Cairn the 464th",
+      "img": "foxes/proc-464.png",
+      "nft": {
+        "tokenId": "458",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x11425e5658b6e1306cf75ec9a00b701fdff2949a51eee5db7dc24be9c56b595c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
