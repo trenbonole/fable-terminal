@@ -1,5 +1,5 @@
 {
-  "count": 453,
+  "count": 454,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9897,6 +9897,21 @@
         "tx": "0x267f059a428298d20d2fa7420c16274ad2133d0af31d416709917acab88d92f9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 454,
+      "born": "2026-08-03T04:08:02.077Z",
+      "name": "Quill the 454th"
     }
   ]
 }
