@@ -9999,7 +9999,14 @@
       "rarity": "uncommon",
       "id": 458,
       "born": "2026-08-03T06:08:02.130Z",
-      "name": "Ember the 458th"
+      "name": "Ember the 458th",
+      "img": "foxes/proc-458.png",
+      "nft": {
+        "tokenId": "452",
+        "owner": "0x56bab42ea4cf60be55f9e52008fea40a18247b77",
+        "tx": "0xe1a5bde621bed941bc6b902709deda27acf412bbdb37a95f6901b5ce8244ef13",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
