@@ -1,5 +1,5 @@
 {
-  "count": 481,
+  "count": 482,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10513,6 +10513,21 @@
         "tx": "0x18e3603e4b8bd761fc840231d320d95a7a76558788fc5b6830ecaa08af7b99f4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 482,
+      "born": "2026-08-03T18:08:01.336Z",
+      "name": "Sorrel the 482nd"
     }
   ]
 }
