@@ -1,5 +1,5 @@
 {
-  "count": 452,
+  "count": 453,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9875,6 +9875,21 @@
         "tx": "0x57d1166de7047a9b95c8be9942f86fb585d580141ff35ba8a348a6e5646d0adc",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 453,
+      "born": "2026-08-03T03:38:02.067Z",
+      "name": "Tod the 453rd"
     }
   ]
 }
