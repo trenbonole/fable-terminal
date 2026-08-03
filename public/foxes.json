@@ -1,5 +1,5 @@
 {
-  "count": 457,
+  "count": 458,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9985,6 +9985,21 @@
         "tx": "0xb64f48c7d7bbf64967101bf4b60b17947ad98742e2fbffc08e16651858e9aeb2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 458,
+      "born": "2026-08-03T06:08:02.130Z",
+      "name": "Ember the 458th"
     }
   ]
 }
