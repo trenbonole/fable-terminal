@@ -1,5 +1,5 @@
 {
-  "count": 471,
+  "count": 472,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10293,6 +10293,21 @@
         "tx": "0x6a7815e4f786e238ad50568941262c6adabf0d7eab642197dda1688d8bb90946",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 472,
+      "born": "2026-08-03T13:08:01.346Z",
+      "name": "Mote the 472nd"
     }
   ]
 }
