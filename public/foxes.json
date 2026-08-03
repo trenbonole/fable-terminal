@@ -9911,7 +9911,14 @@
       "rarity": "common",
       "id": 454,
       "born": "2026-08-03T04:08:02.077Z",
-      "name": "Quill the 454th"
+      "name": "Quill the 454th",
+      "img": "foxes/proc-454.png",
+      "nft": {
+        "tokenId": "448",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0x1d1722027ae13630f9012a0b4ef2c02133f2c3ee6a1dca50a4f2587a27a03939",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
