@@ -10769,7 +10769,14 @@
       "rarity": "common",
       "id": 493,
       "born": "2026-08-03T23:38:02.101Z",
-      "name": "Bracken the 493rd"
+      "name": "Bracken the 493rd",
+      "img": "foxes/proc-493.png",
+      "nft": {
+        "tokenId": "487",
+        "owner": "0x756b59f0fab7cb95399846517eb01de1c9970698",
+        "tx": "0x231bf38e692d390d872932a7b4e8598615215d0ff03afa98ef36df79855d061e",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
