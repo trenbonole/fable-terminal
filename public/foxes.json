@@ -1,5 +1,5 @@
 {
-  "count": 445,
+  "count": 446,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9721,6 +9721,21 @@
         "tx": "0x6e301652f1a1f0b3c2b6761d9490e8370efa1a2662dc210945a436f49ec727d4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "halo",
+      "bg": "dawn",
+      "rarity": "rare",
+      "id": 446,
+      "born": "2026-08-03T00:08:02.290Z",
+      "name": "Fennec the 446th"
     }
   ]
 }
