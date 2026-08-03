@@ -1,5 +1,5 @@
 {
-  "count": 490,
+  "count": 491,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10711,6 +10711,21 @@
         "tx": "0x0a76e679367abe5f6c27e600e2a4cdcf72628bd6717343180bbbc522f230e8d8",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 491,
+      "born": "2026-08-03T22:38:01.415Z",
+      "name": "Pyre the 491st"
     }
   ]
 }
