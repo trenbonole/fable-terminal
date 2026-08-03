@@ -1,5 +1,5 @@
 {
-  "count": 474,
+  "count": 475,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10359,6 +10359,21 @@
         "tx": "0x0c5090b736971baf299ada87a860d48dcf211b7aa1340034143c2f0c12be2232",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 475,
+      "born": "2026-08-03T14:38:01.328Z",
+      "name": "Marlow the 475th"
     }
   ]
 }
