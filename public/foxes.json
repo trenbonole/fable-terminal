@@ -10659,7 +10659,14 @@
       "rarity": "rare",
       "id": 488,
       "born": "2026-08-03T21:08:01.434Z",
-      "name": "Sable the 488th"
+      "name": "Sable the 488th",
+      "img": "foxes/proc-488.png",
+      "nft": {
+        "tokenId": "482",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x7eeea8a9ae5306148b71b56d6a3a42669682190b30511ece3b55e1cee74ee7be",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
