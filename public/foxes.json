@@ -1,5 +1,5 @@
 {
-  "count": 492,
+  "count": 493,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10755,6 +10755,21 @@
         "tx": "0xdefd9e8abf8629ab90d42ac1b054a99ed1f3f788bd4e52a9f71f5e672baf6e01",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 493,
+      "born": "2026-08-03T23:38:02.101Z",
+      "name": "Bracken the 493rd"
     }
   ]
 }
