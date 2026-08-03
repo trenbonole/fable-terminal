@@ -1,5 +1,5 @@
 {
-  "count": 489,
+  "count": 490,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10689,6 +10689,21 @@
         "tx": "0xd842672f656dc0fe753566d83976fb3ea2d84b3b0595b7d899b6d4cf04b37e59",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 490,
+      "born": "2026-08-03T22:08:01.499Z",
+      "name": "Sorrel the 490th"
     }
   ]
 }
