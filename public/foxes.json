@@ -10703,7 +10703,14 @@
       "rarity": "rare",
       "id": 490,
       "born": "2026-08-03T22:08:01.499Z",
-      "name": "Sorrel the 490th"
+      "name": "Sorrel the 490th",
+      "img": "foxes/proc-490.png",
+      "nft": {
+        "tokenId": "484",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0x0a76e679367abe5f6c27e600e2a4cdcf72628bd6717343180bbbc522f230e8d8",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
