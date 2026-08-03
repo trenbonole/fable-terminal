@@ -1,5 +1,5 @@
 {
-  "count": 479,
+  "count": 480,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10469,6 +10469,21 @@
         "tx": "0x1b18ac4e86d75e4e5685fa1b2c5d249b91d168777477bbd6b15b02ccf5ce6719",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 480,
+      "born": "2026-08-03T17:08:01.288Z",
+      "name": "Kit the 480th"
     }
   ]
 }
