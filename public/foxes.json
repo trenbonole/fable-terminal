@@ -1,5 +1,5 @@
 {
-  "count": 477,
+  "count": 478,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10425,6 +10425,21 @@
         "tx": "0x8c0591c44fb1668919f99bbc0d6b3e95a8dfb06885274bde3557bb3b051dcaf6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 478,
+      "born": "2026-08-03T16:08:01.292Z",
+      "name": "Marlow the 478th"
     }
   ]
 }
