@@ -10087,7 +10087,14 @@
       "rarity": "common",
       "id": 462,
       "born": "2026-08-03T08:08:02.149Z",
-      "name": "Pyre the 462nd"
+      "name": "Pyre the 462nd",
+      "img": "foxes/proc-462.png",
+      "nft": {
+        "tokenId": "456",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0xd1c371b5dfe3593367126cdd3bfa00deb1b3f470add546af44754aa674ce57fc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
