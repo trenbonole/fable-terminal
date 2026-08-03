@@ -9801,7 +9801,14 @@
       "rarity": "rare",
       "id": 449,
       "born": "2026-08-03T01:38:02.037Z",
-      "name": "Mote the 449th"
+      "name": "Mote the 449th",
+      "img": "foxes/proc-449.png",
+      "nft": {
+        "tokenId": "443",
+        "owner": "0x2636fbf545822687a1c5118a9546ed0c6b1b521d",
+        "tx": "0x2c0afdaed0379a3b47f702ff31f5597f189294efc6632c70192522b5834dacc6",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
