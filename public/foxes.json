@@ -10725,7 +10725,14 @@
       "rarity": "rare",
       "id": 491,
       "born": "2026-08-03T22:38:01.415Z",
-      "name": "Pyre the 491st"
+      "name": "Pyre the 491st",
+      "img": "foxes/proc-491.png",
+      "nft": {
+        "tokenId": "485",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0xbb7f055d1915763911a95ccbd9454653d0f2da74887110bdfdf8cccab74e7093",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
