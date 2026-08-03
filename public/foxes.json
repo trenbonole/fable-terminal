@@ -10373,7 +10373,14 @@
       "rarity": "common",
       "id": 475,
       "born": "2026-08-03T14:38:01.328Z",
-      "name": "Marlow the 475th"
+      "name": "Marlow the 475th",
+      "img": "foxes/proc-475.png",
+      "nft": {
+        "tokenId": "469",
+        "owner": "0x7b6049f3392bbcf72ad0f0e3339a74402bbdeb8a",
+        "tx": "0x18b5eab56982e016d81d014f44d8a37ccd51500dbc6f5a30d169ee43d1cf6f99",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
