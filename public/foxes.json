@@ -1,5 +1,5 @@
 {
-  "count": 483,
+  "count": 484,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10557,6 +10557,21 @@
         "tx": "0xad408d5c90978b8ff8bf896f1a834a39838b6f1b08ee411f8639c7612e12d400",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 484,
+      "born": "2026-08-03T19:08:01.381Z",
+      "name": "Bracken the 484th"
     }
   ]
 }
