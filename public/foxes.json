@@ -10549,7 +10549,14 @@
       "rarity": "common",
       "id": 483,
       "born": "2026-08-03T18:38:01.357Z",
-      "name": "Quill the 483rd"
+      "name": "Quill the 483rd",
+      "img": "foxes/proc-483.png",
+      "nft": {
+        "tokenId": "477",
+        "owner": "0xe15cd42024a0b8403a924b2f2f1e0b75385a8caf",
+        "tx": "0xad408d5c90978b8ff8bf896f1a834a39838b6f1b08ee411f8639c7612e12d400",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
