@@ -10615,7 +10615,14 @@
       "rarity": "uncommon",
       "id": 486,
       "born": "2026-08-03T20:08:01.501Z",
-      "name": "Kit the 486th"
+      "name": "Kit the 486th",
+      "img": "foxes/proc-486.png",
+      "nft": {
+        "tokenId": "480",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0xf1df85882e59e889c95d9ba20b503b77c4a42b2f8d84338bb5e80bfa41e1fa5f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
