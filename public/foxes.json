@@ -1,5 +1,5 @@
 {
-  "count": 449,
+  "count": 450,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9809,6 +9809,21 @@
         "tx": "0x2c0afdaed0379a3b47f702ff31f5597f189294efc6632c70192522b5834dacc6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 450,
+      "born": "2026-08-03T02:08:02.101Z",
+      "name": "Wick the 450th"
     }
   ]
 }
