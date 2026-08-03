@@ -9889,7 +9889,14 @@
       "rarity": "rare",
       "id": 453,
       "born": "2026-08-03T03:38:02.067Z",
-      "name": "Tod the 453rd"
+      "name": "Tod the 453rd",
+      "img": "foxes/proc-453.png",
+      "nft": {
+        "tokenId": "447",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x267f059a428298d20d2fa7420c16274ad2133d0af31d416709917acab88d92f9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
