@@ -1,5 +1,5 @@
 {
-  "count": 450,
+  "count": 451,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9831,6 +9831,21 @@
         "tx": "0x503646ef345772c8a6e4b92e35fa0e2bf618229055c438c3248bfe50882616b6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 451,
+      "born": "2026-08-03T02:38:02.052Z",
+      "name": "Cinder the 451st"
     }
   ]
 }
