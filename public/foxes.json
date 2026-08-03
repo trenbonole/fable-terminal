@@ -10681,7 +10681,14 @@
       "rarity": "common",
       "id": 489,
       "born": "2026-08-03T21:38:01.409Z",
-      "name": "Bracken the 489th"
+      "name": "Bracken the 489th",
+      "img": "foxes/proc-489.png",
+      "nft": {
+        "tokenId": "483",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xd842672f656dc0fe753566d83976fb3ea2d84b3b0595b7d899b6d4cf04b37e59",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
