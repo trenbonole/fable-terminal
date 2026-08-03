@@ -10285,7 +10285,14 @@
       "rarity": "uncommon",
       "id": 471,
       "born": "2026-08-03T12:38:02.263Z",
-      "name": "Mote the 471st"
+      "name": "Mote the 471st",
+      "img": "foxes/proc-471.png",
+      "nft": {
+        "tokenId": "465",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x6a7815e4f786e238ad50568941262c6adabf0d7eab642197dda1688d8bb90946",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
