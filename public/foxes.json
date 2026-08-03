@@ -9933,7 +9933,14 @@
       "rarity": "rare",
       "id": 455,
       "born": "2026-08-03T04:38:02.068Z",
-      "name": "Quill the 455th"
+      "name": "Quill the 455th",
+      "img": "foxes/proc-455.png",
+      "nft": {
+        "tokenId": "449",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0xfd70010fc0f8847b45f4be2083f6e5b9d8794687572c8a8f8604c9a73301516a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
