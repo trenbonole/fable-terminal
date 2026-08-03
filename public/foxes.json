@@ -1,5 +1,5 @@
 {
-  "count": 459,
+  "count": 460,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10029,6 +10029,21 @@
         "tx": "0xb19588820ccd818a10caf2b7f2760a0f15d7b0210960b5ea09fe5699b805cf80",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 460,
+      "born": "2026-08-03T07:08:02.116Z",
+      "name": "Ember the 460th"
     }
   ]
 }
