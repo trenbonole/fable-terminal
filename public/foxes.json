@@ -10175,7 +10175,14 @@
       "rarity": "common",
       "id": 466,
       "born": "2026-08-03T10:08:02.299Z",
-      "name": "Umbra the 466th"
+      "name": "Umbra the 466th",
+      "img": "foxes/proc-466.png",
+      "nft": {
+        "tokenId": "460",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0x07290511065fe81b47e64b77776ed57ff76ee1d06a59a0db039fcf958945520c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
