@@ -10043,7 +10043,14 @@
       "rarity": "common",
       "id": 460,
       "born": "2026-08-03T07:08:02.116Z",
-      "name": "Ember the 460th"
+      "name": "Ember the 460th",
+      "img": "foxes/proc-460.png",
+      "nft": {
+        "tokenId": "454",
+        "owner": "0xc5fcb169cc20307a266dda3fcb61dfedce311c3e",
+        "tx": "0xf3bc257922ae9dc6416328080d01d507172cfa4d4fa4e43935d185f88b24192f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
