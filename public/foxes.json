@@ -1,5 +1,5 @@
 {
-  "count": 486,
+  "count": 487,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10623,6 +10623,21 @@
         "tx": "0xf1df85882e59e889c95d9ba20b503b77c4a42b2f8d84338bb5e80bfa41e1fa5f",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 487,
+      "born": "2026-08-03T20:38:01.497Z",
+      "name": "Ember the 487th"
     }
   ]
 }
