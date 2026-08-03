@@ -10637,7 +10637,14 @@
       "rarity": "common",
       "id": 487,
       "born": "2026-08-03T20:38:01.497Z",
-      "name": "Ember the 487th"
+      "name": "Ember the 487th",
+      "img": "foxes/proc-487.png",
+      "nft": {
+        "tokenId": "481",
+        "owner": "0xda4bcee76b29efec9697fcf663601c2042043968",
+        "tx": "0xf0c6a91cc337a99e1af39da9f28cfdec8a416d4067ce5831cb213960ee9d1cb2",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
