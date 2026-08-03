@@ -1,5 +1,5 @@
 {
-  "count": 468,
+  "count": 469,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10227,6 +10227,21 @@
         "tx": "0x846aaf580b9e05da5320371df52e86c7bc76d94854ac0aa828fc1cf92e166b97",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 469,
+      "born": "2026-08-03T11:38:02.339Z",
+      "name": "Pyre the 469th"
     }
   ]
 }
