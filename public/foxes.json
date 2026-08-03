@@ -1,5 +1,5 @@
 {
-  "count": 447,
+  "count": 448,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -9765,6 +9765,21 @@
         "tx": "0xec35098444cb0827e70d5e017cfa2b3ef824cfd581c97d08d1c6ef9943efaa3b",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 448,
+      "born": "2026-08-03T01:08:02.161Z",
+      "name": "Reynard the 448th"
     }
   ]
 }
