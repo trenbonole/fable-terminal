@@ -1,5 +1,5 @@
 {
-  "count": 484,
+  "count": 485,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10579,6 +10579,21 @@
         "tx": "0x94b668568720081cc947ecaefb26813a9af1da631b5c3a2d1ffacec5ba9858ba",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 485,
+      "born": "2026-08-03T19:38:01.346Z",
+      "name": "Cairn the 485th"
     }
   ]
 }
