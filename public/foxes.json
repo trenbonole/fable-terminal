@@ -1,5 +1,5 @@
 {
-  "count": 482,
+  "count": 483,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10535,6 +10535,21 @@
         "tx": "0x230e0d3caed4913433bbaa60d9dada815feca63428b7a828c13be4ea8ca7d781",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 483,
+      "born": "2026-08-03T18:38:01.357Z",
+      "name": "Quill the 483rd"
     }
   ]
 }
