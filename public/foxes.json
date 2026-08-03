@@ -10483,7 +10483,14 @@
       "rarity": "common",
       "id": 480,
       "born": "2026-08-03T17:08:01.288Z",
-      "name": "Kit the 480th"
+      "name": "Kit the 480th",
+      "img": "foxes/proc-480.png",
+      "nft": {
+        "tokenId": "474",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x7f804f39c155150f14beea55e48625e619e01e77fb7a15df08e0763ea524d485",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
