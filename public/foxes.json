@@ -10571,7 +10571,14 @@
       "rarity": "uncommon",
       "id": 484,
       "born": "2026-08-03T19:08:01.381Z",
-      "name": "Bracken the 484th"
+      "name": "Bracken the 484th",
+      "img": "foxes/proc-484.png",
+      "nft": {
+        "tokenId": "478",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x94b668568720081cc947ecaefb26813a9af1da631b5c3a2d1ffacec5ba9858ba",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
