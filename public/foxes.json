@@ -1,5 +1,5 @@
 {
-  "count": 473,
+  "count": 474,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10337,6 +10337,21 @@
         "tx": "0xd00a0acbf6b4c0a2b921130acc6c04fe272e7620adbf3793ec37d6be4f2376ad",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 2,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 474,
+      "born": "2026-08-03T14:08:01.346Z",
+      "name": "Ash the 474th"
     }
   ]
 }
