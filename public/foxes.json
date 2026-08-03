@@ -1,5 +1,5 @@
 {
-  "count": 485,
+  "count": 486,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10601,6 +10601,21 @@
         "tx": "0xe87861aae5528d8297af31998b121ecff2254d4a7502b3eee2cdae128782e671",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "third-eye",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 486,
+      "born": "2026-08-03T20:08:01.501Z",
+      "name": "Kit the 486th"
     }
   ]
 }
