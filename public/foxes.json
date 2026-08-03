@@ -9735,7 +9735,14 @@
       "rarity": "rare",
       "id": 446,
       "born": "2026-08-03T00:08:02.290Z",
-      "name": "Fennec the 446th"
+      "name": "Fennec the 446th",
+      "img": "foxes/proc-446.png",
+      "nft": {
+        "tokenId": "440",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0x419ccfdf17395aa088351309792fc1500ef3b2fa9261c760ef670ac90966bb80",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
