@@ -10439,7 +10439,14 @@
       "rarity": "rare",
       "id": 478,
       "born": "2026-08-03T16:08:01.292Z",
-      "name": "Marlow the 478th"
+      "name": "Marlow the 478th",
+      "img": "foxes/proc-478.png",
+      "nft": {
+        "tokenId": "472",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xec32c9713475bf6700b73059e709582fc69ee22eabb998124e94c2ae679402ce",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
