@@ -1,5 +1,5 @@
 {
-  "count": 476,
+  "count": 477,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10403,6 +10403,21 @@
         "tx": "0xb62442a78c1564bee7c569df53872d63a3ef8bcce4711072b06213618935c7a2",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 477,
+      "born": "2026-08-03T15:38:01.298Z",
+      "name": "Sable the 477th"
     }
   ]
 }
