@@ -1,5 +1,5 @@
 {
-  "count": 475,
+  "count": 476,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10381,6 +10381,21 @@
         "tx": "0x18b5eab56982e016d81d014f44d8a37ccd51500dbc6f5a30d169ee43d1cf6f99",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "moon-crest",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 476,
+      "born": "2026-08-03T15:08:01.389Z",
+      "name": "Mote the 476th"
     }
   ]
 }
