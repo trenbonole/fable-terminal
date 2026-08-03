@@ -10307,7 +10307,14 @@
       "rarity": "common",
       "id": 472,
       "born": "2026-08-03T13:08:01.346Z",
-      "name": "Mote the 472nd"
+      "name": "Mote the 472nd",
+      "img": "foxes/proc-472.png",
+      "nft": {
+        "tokenId": "466",
+        "owner": "0x4353b6393c0b3214d9100c438dbc5ac041545cf9",
+        "tx": "0xedc19d7b3cf22bed5200b6e3a5681fe1a1e2243486cf0fd7f01f27869530950f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
