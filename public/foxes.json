@@ -1,5 +1,5 @@
 {
-  "count": 465,
+  "count": 466,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10161,6 +10161,21 @@
         "tx": "0x8a3060c7a18b2e3f85f9c137bedcca040a87b569e9ee09eb396d74171cb2e474",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "void",
+      "rarity": "common",
+      "id": 466,
+      "born": "2026-08-03T10:08:02.299Z",
+      "name": "Umbra the 466th"
     }
   ]
 }
