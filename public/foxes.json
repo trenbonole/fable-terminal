@@ -1,5 +1,5 @@
 {
-  "count": 521,
+  "count": 522,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11393,6 +11393,21 @@
         "tx": "0xd280f900cc3f1d95dd02c49286f1f6a2ac3ed4f24402456023519f7ffa40425d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 522,
+      "born": "2026-08-04T14:08:02.463Z",
+      "name": "Cairn the 522nd"
     }
   ]
 }
