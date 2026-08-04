@@ -1,5 +1,5 @@
 {
-  "count": 512,
+  "count": 513,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11195,6 +11195,21 @@
         "tx": "0x296c6a7f0a22fb225360218641672309fdddc142db92afcae84b6a0e069e5f35",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 513,
+      "born": "2026-08-04T09:38:02.145Z",
+      "name": "Ash the 513th"
     }
   ]
 }
