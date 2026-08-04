@@ -11825,7 +11825,14 @@
       "rarity": "uncommon",
       "id": 541,
       "born": "2026-08-04T23:38:01.677Z",
-      "name": "Ash the 541st"
+      "name": "Ash the 541st",
+      "img": "foxes/proc-541.png",
+      "nft": {
+        "tokenId": "535",
+        "owner": "0xbe41dbc50995e9ba418abeb0988fa63e40b86bd0",
+        "tx": "0x5224c195a33008f80c4c826a095a4fff02ca208d53c5dda04d8be0b4046301cf",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
