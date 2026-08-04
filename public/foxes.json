@@ -11275,7 +11275,14 @@
       "rarity": "rare",
       "id": 516,
       "born": "2026-08-04T11:08:02.364Z",
-      "name": "Ash the 516th"
+      "name": "Ash the 516th",
+      "img": "foxes/proc-516.png",
+      "nft": {
+        "tokenId": "510",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x693b107be64d9b4f33b3eba69554e555b5b896e073695aff11158e797d3f4fce",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
