@@ -1,5 +1,5 @@
 {
-  "count": 527,
+  "count": 528,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11525,6 +11525,21 @@
         "tx": "0x695e3651a69a675d7d900fd9381e2bdc5d2bd53d2e7f93383416880947a5a7ff",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "third-eye",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 528,
+      "born": "2026-08-04T17:08:01.402Z",
+      "name": "Cinder the 528th"
     }
   ]
 }
