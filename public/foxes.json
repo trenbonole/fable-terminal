@@ -11143,7 +11143,14 @@
       "rarity": "uncommon",
       "id": 510,
       "born": "2026-08-04T08:08:02.084Z",
-      "name": "Cairn the 510th"
+      "name": "Cairn the 510th",
+      "img": "foxes/proc-510.png",
+      "nft": {
+        "tokenId": "504",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0xfcb1bba4ccf65e6a169967f5aef89cd34fb3e76e3b0e337adcf59efd92e66185",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
