@@ -11429,7 +11429,14 @@
       "rarity": "common",
       "id": 523,
       "born": "2026-08-04T14:38:02.340Z",
-      "name": "Cairn the 523rd"
+      "name": "Cairn the 523rd",
+      "img": "foxes/proc-523.png",
+      "nft": {
+        "tokenId": "517",
+        "owner": "0x4353b6393c0b3214d9100c438dbc5ac041545cf9",
+        "tx": "0x7a2ccfd3cb86238260cb6fb34dc2e24eba7901908ce1c8d1028521b4602cd6a4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
