@@ -1,5 +1,5 @@
 {
-  "count": 506,
+  "count": 507,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11063,6 +11063,21 @@
         "tx": "0x98d01149d6f5e8864cfbdd73d78cc3da70b383b2a4d899e28bee7e238672dc15",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 507,
+      "born": "2026-08-04T06:38:02.137Z",
+      "name": "Ash the 507th"
     }
   ]
 }
