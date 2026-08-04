@@ -1,5 +1,5 @@
 {
-  "count": 534,
+  "count": 535,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11679,6 +11679,21 @@
         "tx": "0x3557e343d432f3f58ce62dffca3460004c08fa58828f8e0f9b670159798ed200",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 535,
+      "born": "2026-08-04T20:38:01.446Z",
+      "name": "Reynard the 535th"
     }
   ]
 }
