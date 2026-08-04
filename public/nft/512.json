@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #512 — Reynard the 518th",
+  "description": "One of the foxes the machine dreams. uncommon, 3 tails, moonlit fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-518.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "moonlit"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 3
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "closed"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}
