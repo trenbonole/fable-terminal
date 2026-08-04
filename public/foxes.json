@@ -10901,7 +10901,14 @@
       "rarity": "common",
       "id": 499,
       "born": "2026-08-04T02:38:02.026Z",
-      "name": "Kit the 499th"
+      "name": "Kit the 499th",
+      "img": "foxes/proc-499.png",
+      "nft": {
+        "tokenId": "493",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x56eccbd8260e0e35cbaf90384145e8ba7765e911fc7b38e47fc0de5e144738f5",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
