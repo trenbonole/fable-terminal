@@ -11495,7 +11495,14 @@
       "rarity": "common",
       "id": 526,
       "born": "2026-08-04T16:08:01.420Z",
-      "name": "Ash the 526th"
+      "name": "Ash the 526th",
+      "img": "foxes/proc-526.png",
+      "nft": {
+        "tokenId": "520",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0x628da5e71f9b4c6ab0b59910dab12a865b6991c3c5cc71a721356d5389885e0f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
