@@ -11385,7 +11385,14 @@
       "rarity": "rare",
       "id": 521,
       "born": "2026-08-04T13:38:02.265Z",
-      "name": "Umbra the 521st"
+      "name": "Umbra the 521st",
+      "img": "foxes/proc-521.png",
+      "nft": {
+        "tokenId": "515",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0xd280f900cc3f1d95dd02c49286f1f6a2ac3ed4f24402456023519f7ffa40425d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
