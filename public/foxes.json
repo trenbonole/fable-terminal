@@ -1,5 +1,5 @@
 {
-  "count": 516,
+  "count": 517,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11283,6 +11283,21 @@
         "tx": "0x693b107be64d9b4f33b3eba69554e555b5b896e073695aff11158e797d3f4fce",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 517,
+      "born": "2026-08-04T11:38:02.329Z",
+      "name": "Kit the 517th"
     }
   ]
 }
