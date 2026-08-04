@@ -1,5 +1,5 @@
 {
-  "count": 538,
+  "count": 539,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11767,6 +11767,21 @@
         "tx": "0xff13314e79256241a24f9b51760bee46f250c9544b85b4ed05341e684f556918",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "void",
+      "rarity": "uncommon",
+      "id": 539,
+      "born": "2026-08-04T22:38:01.531Z",
+      "name": "Cairn the 539th"
     }
   ]
 }
