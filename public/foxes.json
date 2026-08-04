@@ -1,5 +1,5 @@
 {
-  "count": 514,
+  "count": 515,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11239,6 +11239,21 @@
         "tx": "0x86f395b99e0095bd7523017d977aa42885d64540ff042c1350b5a176131ebc0a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "halo",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 515,
+      "born": "2026-08-04T10:38:02.334Z",
+      "name": "Umbra the 515th"
     }
   ]
 }
