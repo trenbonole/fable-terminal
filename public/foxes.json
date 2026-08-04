@@ -1,5 +1,5 @@
 {
-  "count": 505,
+  "count": 506,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11041,6 +11041,21 @@
         "tx": "0x58235381db059c57620f607a11c0e002760385c4497e439da45e53959099e835",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 5,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 506,
+      "born": "2026-08-04T06:08:02.138Z",
+      "name": "Umbra the 506th"
     }
   ]
 }
