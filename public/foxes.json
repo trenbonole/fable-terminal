@@ -1,5 +1,5 @@
 {
-  "count": 499,
+  "count": 500,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10909,6 +10909,21 @@
         "tx": "0x56eccbd8260e0e35cbaf90384145e8ba7765e911fc7b38e47fc0de5e144738f5",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 500,
+      "born": "2026-08-04T03:08:02.035Z",
+      "name": "Cinder the 500th"
     }
   ]
 }
