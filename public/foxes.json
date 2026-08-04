@@ -1,5 +1,5 @@
 {
-  "count": 509,
+  "count": 510,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11129,6 +11129,21 @@
         "tx": "0x4e89360e1e94a0eedf074def90ce563d1f7d1e71d5c623151420ca7608af7dcc",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 510,
+      "born": "2026-08-04T08:08:02.084Z",
+      "name": "Cairn the 510th"
     }
   ]
 }
