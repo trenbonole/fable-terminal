@@ -11407,7 +11407,14 @@
       "rarity": "uncommon",
       "id": 522,
       "born": "2026-08-04T14:08:02.463Z",
-      "name": "Cairn the 522nd"
+      "name": "Cairn the 522nd",
+      "img": "foxes/proc-522.png",
+      "nft": {
+        "tokenId": "516",
+        "owner": "0xc06ebbefd94032b85424d51906e2a335efae264b",
+        "tx": "0x9df3d47705ed9073c681aeb3dc5e7566648385c945f338c0ef329330708edc3a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
