@@ -11121,7 +11121,14 @@
       "rarity": "rare",
       "id": 509,
       "born": "2026-08-04T07:38:02.080Z",
-      "name": "Kit the 509th"
+      "name": "Kit the 509th",
+      "img": "foxes/proc-509.png",
+      "nft": {
+        "tokenId": "503",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0x4e89360e1e94a0eedf074def90ce563d1f7d1e71d5c623151420ca7608af7dcc",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
