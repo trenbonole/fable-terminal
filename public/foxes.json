@@ -11737,7 +11737,14 @@
       "rarity": "uncommon",
       "id": 537,
       "born": "2026-08-04T21:38:01.464Z",
-      "name": "Wick the 537th"
+      "name": "Wick the 537th",
+      "img": "foxes/proc-537.png",
+      "nft": {
+        "tokenId": "531",
+        "owner": "0x7bda845d50aa04e90c7117465d776ddc6bf82db6",
+        "tx": "0xf2cd4526d2919b0c55f380a3736d36f9162b72086d1e18e20175b2970b3ebb73",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
