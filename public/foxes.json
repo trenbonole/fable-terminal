@@ -11693,7 +11693,14 @@
       "rarity": "common",
       "id": 535,
       "born": "2026-08-04T20:38:01.446Z",
-      "name": "Reynard the 535th"
+      "name": "Reynard the 535th",
+      "img": "foxes/proc-535.png",
+      "nft": {
+        "tokenId": "529",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x47f2cbafa792ae5b9d8aa76dff48af870227affd21b87c1c73207aec8282edf9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
