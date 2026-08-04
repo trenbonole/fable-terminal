@@ -1,5 +1,5 @@
 {
-  "count": 502,
+  "count": 503,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10975,6 +10975,21 @@
         "tx": "0x1b90658004d372f1f4ba6ad467f5a8d110ca5e976f759e7697f3fb463a9ea39c",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 503,
+      "born": "2026-08-04T04:38:02.105Z",
+      "name": "Vulpes the 503rd"
     }
   ]
 }
