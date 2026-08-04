@@ -11165,7 +11165,14 @@
       "rarity": "common",
       "id": 511,
       "born": "2026-08-04T08:38:02.136Z",
-      "name": "Cinder the 511th"
+      "name": "Cinder the 511th",
+      "img": "foxes/proc-511.png",
+      "nft": {
+        "tokenId": "505",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xf253543ccff7e0ad5ace01d5523acb7cbccbd540ca6d6cca9942de9acbae4a30",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
