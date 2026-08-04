@@ -10923,7 +10923,14 @@
       "rarity": "common",
       "id": 500,
       "born": "2026-08-04T03:08:02.035Z",
-      "name": "Cinder the 500th"
+      "name": "Cinder the 500th",
+      "img": "foxes/proc-500.png",
+      "nft": {
+        "tokenId": "494",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xce45db223f8bc7d6e3ff09b49957c9fcab05954675b901d04673fee062bd040d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
