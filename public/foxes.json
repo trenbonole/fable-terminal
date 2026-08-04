@@ -11297,7 +11297,14 @@
       "rarity": "uncommon",
       "id": 517,
       "born": "2026-08-04T11:38:02.329Z",
-      "name": "Kit the 517th"
+      "name": "Kit the 517th",
+      "img": "foxes/proc-517.png",
+      "nft": {
+        "tokenId": "511",
+        "owner": "0xce5592a39550a03526997cc92397e5e2794689c5",
+        "tx": "0xaaa83e3c885c73a5cdaa762786ef666b360df894b89a92263d3933536b17b409",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
