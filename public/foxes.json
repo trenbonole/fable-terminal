@@ -10791,7 +10791,14 @@
       "rarity": "common",
       "id": 494,
       "born": "2026-08-04T00:08:02.092Z",
-      "name": "Fennec the 494th"
+      "name": "Fennec the 494th",
+      "img": "foxes/proc-494.png",
+      "nft": {
+        "tokenId": "488",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0x41f1c531c0cc17d49340688cfab2f23bb1f6f6321b40e870f8a42a14a1f6aaaa",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
