@@ -1,5 +1,5 @@
 {
-  "count": 532,
+  "count": 533,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11635,6 +11635,21 @@
         "tx": "0x3503963cbe9f669f12b2a62405523b40281a17a4eddb96349bd7cd31598a7f3a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 3,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 533,
+      "born": "2026-08-04T19:38:01.594Z",
+      "name": "Cinder the 533rd"
     }
   ]
 }
