@@ -11077,7 +11077,14 @@
       "rarity": "uncommon",
       "id": 507,
       "born": "2026-08-04T06:38:02.137Z",
-      "name": "Ash the 507th"
+      "name": "Ash the 507th",
+      "img": "foxes/proc-507.png",
+      "nft": {
+        "tokenId": "501",
+        "owner": "0xe68a854ab691413552b7d848bb07e0f21fd0825d",
+        "tx": "0xe61ec0470e2f2d7d9c3b9c2b6679bc337648588bdf5d45f9b78d06e2eeceb1ff",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
