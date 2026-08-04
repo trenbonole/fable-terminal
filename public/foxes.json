@@ -1,5 +1,5 @@
 {
-  "count": 531,
+  "count": 532,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11613,6 +11613,21 @@
         "tx": "0x2a863814adbf16bbaca949fcad6c219f8a275d46fd658eb85ed157e619dcca88",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "ember",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 532,
+      "born": "2026-08-04T19:08:01.717Z",
+      "name": "Ember the 532nd"
     }
   ]
 }
