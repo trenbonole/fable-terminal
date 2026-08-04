@@ -10879,7 +10879,14 @@
       "rarity": "rare",
       "id": 498,
       "born": "2026-08-04T02:08:02.000Z",
-      "name": "Quill the 498th"
+      "name": "Quill the 498th",
+      "img": "foxes/proc-498.png",
+      "nft": {
+        "tokenId": "492",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x0b5c635e1c5f458d23393151b4f03677317848575f7e7ab4fc5e27562624c9d9",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
