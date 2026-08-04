@@ -11781,7 +11781,14 @@
       "rarity": "uncommon",
       "id": 539,
       "born": "2026-08-04T22:38:01.531Z",
-      "name": "Cairn the 539th"
+      "name": "Cairn the 539th",
+      "img": "foxes/proc-539.png",
+      "nft": {
+        "tokenId": "533",
+        "owner": "0x2cf3ea4e0396694877b61d8518edc81f1d40a353",
+        "tx": "0xb81338abf780b13ca71e67e651cd0e5d931efb1cc45776fe56366b67991f44d4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
