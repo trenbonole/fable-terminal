@@ -1,5 +1,5 @@
 {
-  "count": 496,
+  "count": 497,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10843,6 +10843,21 @@
         "tx": "0x72a24d40bfb0813843c021fb0ececdc5f3903b99dc29d24d2649e0ab693435ab",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#5fa9c4",
+      "belly": "#e6fbff",
+      "accent": "#9fe8ff",
+      "palette": "frost",
+      "tails": 3,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 497,
+      "born": "2026-08-04T01:38:01.979Z",
+      "name": "Fennec the 497th"
     }
   ]
 }
