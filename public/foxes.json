@@ -10813,7 +10813,14 @@
       "rarity": "uncommon",
       "id": 495,
       "born": "2026-08-04T00:38:02.136Z",
-      "name": "Bracken the 495th"
+      "name": "Bracken the 495th",
+      "img": "foxes/proc-495.png",
+      "nft": {
+        "tokenId": "489",
+        "owner": "0x636b434ee493d85b78b40c4eb57e47e803f760de",
+        "tx": "0x8aae805f2dc645e64ff774bd5b7daeddb112fb80b4be4cf182c016ebe2bd0017",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
