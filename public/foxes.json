@@ -11539,7 +11539,14 @@
       "rarity": "rare",
       "id": 528,
       "born": "2026-08-04T17:08:01.402Z",
-      "name": "Cinder the 528th"
+      "name": "Cinder the 528th",
+      "img": "foxes/proc-528.png",
+      "nft": {
+        "tokenId": "522",
+        "owner": "0x134c665236bf46da96b8d7b8b4f15371e697294a",
+        "tx": "0x179c4e78e4b507d7b8e1aaf1f3901e27771bc0335eaaa5e464ec00efa3bfc0f0",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
