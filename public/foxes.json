@@ -11759,7 +11759,14 @@
       "rarity": "uncommon",
       "id": 538,
       "born": "2026-08-04T22:08:01.488Z",
-      "name": "Pyre the 538th"
+      "name": "Pyre the 538th",
+      "img": "foxes/proc-538.png",
+      "nft": {
+        "tokenId": "532",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0xff13314e79256241a24f9b51760bee46f250c9544b85b4ed05341e684f556918",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
