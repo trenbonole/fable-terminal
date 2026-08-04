@@ -1,5 +1,5 @@
 {
-  "count": 526,
+  "count": 527,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11503,6 +11503,21 @@
         "tx": "0x628da5e71f9b4c6ab0b59910dab12a865b6991c3c5cc71a721356d5389885e0f",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "none",
+      "accessory": "scarf",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 527,
+      "born": "2026-08-04T16:38:01.350Z",
+      "name": "Wick the 527th"
     }
   ]
 }
