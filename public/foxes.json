@@ -11583,7 +11583,14 @@
       "rarity": "rare",
       "id": 530,
       "born": "2026-08-04T18:08:01.610Z",
-      "name": "Quill the 530th"
+      "name": "Quill the 530th",
+      "img": "foxes/proc-530.png",
+      "nft": {
+        "tokenId": "524",
+        "owner": "0x81216a0669b5708d55a222ca64d1b9577279382c",
+        "tx": "0x326e2df12a64e1ebe64fa5b97029b52550ee9c7b54f9e4c7f17f872256fc11ea",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
