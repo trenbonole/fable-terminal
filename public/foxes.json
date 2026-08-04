@@ -1,5 +1,5 @@
 {
-  "count": 501,
+  "count": 502,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10953,6 +10953,21 @@
         "tx": "0x063b4fe3e26156892b6e61c28b0bcc46bc4e59a173d5080c5f8af7b254b0c579",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "star",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 502,
+      "born": "2026-08-04T04:08:02.044Z",
+      "name": "Cinder the 502nd"
     }
   ]
 }
