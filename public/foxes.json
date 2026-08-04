@@ -1,5 +1,5 @@
 {
-  "count": 533,
+  "count": 534,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11657,6 +11657,21 @@
         "tx": "0xdc78c277a23da25a42eb7d74732b21b766717871a2a23060a5dd5220700aa5a4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 1,
+      "eyes": "round",
+      "marking": "none",
+      "accessory": "crown",
+      "bg": "night",
+      "rarity": "rare",
+      "id": 534,
+      "born": "2026-08-04T20:08:01.485Z",
+      "name": "Bracken the 534th"
     }
   ]
 }
