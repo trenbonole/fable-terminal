@@ -1,5 +1,5 @@
 {
-  "count": 517,
+  "count": 518,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11305,6 +11305,21 @@
         "tx": "0xaaa83e3c885c73a5cdaa762786ef666b360df894b89a92263d3933536b17b409",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 3,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 518,
+      "born": "2026-08-04T12:08:02.501Z",
+      "name": "Reynard the 518th"
     }
   ]
 }
