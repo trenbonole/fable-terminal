@@ -1,5 +1,5 @@
 {
-  "count": 503,
+  "count": 504,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10997,6 +10997,21 @@
         "tx": "0x3739c67e29aa311444c8d3216a69a96f72179ea317b957b4fd70915f5f6d847f",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#37a862",
+      "belly": "#e2fced",
+      "accent": "#5cff8e",
+      "palette": "phosphor",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "none",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "common",
+      "id": 504,
+      "born": "2026-08-04T05:08:02.101Z",
+      "name": "Sorrel the 504th"
     }
   ]
 }
