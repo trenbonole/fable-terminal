@@ -11649,7 +11649,14 @@
       "rarity": "uncommon",
       "id": 533,
       "born": "2026-08-04T19:38:01.594Z",
-      "name": "Cinder the 533rd"
+      "name": "Cinder the 533rd",
+      "img": "foxes/proc-533.png",
+      "nft": {
+        "tokenId": "527",
+        "owner": "0xde72e56f2158124ffa907f822790d4a61fa29434",
+        "tx": "0xdc78c277a23da25a42eb7d74732b21b766717871a2a23060a5dd5220700aa5a4",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
