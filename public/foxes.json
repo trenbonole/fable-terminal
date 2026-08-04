@@ -1,5 +1,5 @@
 {
-  "count": 523,
+  "count": 524,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11437,6 +11437,21 @@
         "tx": "0x7a2ccfd3cb86238260cb6fb34dc2e24eba7901908ce1c8d1028521b4602cd6a4",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c99a2e",
+      "belly": "#fff4d0",
+      "accent": "#ffd869",
+      "palette": "gilded",
+      "tails": 2,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 524,
+      "born": "2026-08-04T15:08:01.333Z",
+      "name": "Quill the 524th"
     }
   ]
 }
