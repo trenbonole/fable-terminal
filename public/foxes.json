@@ -11561,7 +11561,14 @@
       "rarity": "common",
       "id": 529,
       "born": "2026-08-04T17:38:01.430Z",
-      "name": "Cinder the 529th"
+      "name": "Cinder the 529th",
+      "img": "foxes/proc-529.png",
+      "nft": {
+        "tokenId": "523",
+        "owner": "0x80418b2c34518c722befd33d1782d4d4a5736d7a",
+        "tx": "0x69283849e8335d2df40713e2b5715e5f58dde5f0cd4c672f2601ff97a48f1226",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
