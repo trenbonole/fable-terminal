@@ -1,5 +1,5 @@
 {
-  "count": 500,
+  "count": 501,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10931,6 +10931,21 @@
         "tx": "0xce45db223f8bc7d6e3ff09b49957c9fcab05954675b901d04673fee062bd040d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#a4362f",
+      "belly": "#ffdcd6",
+      "accent": "#ff6f63",
+      "palette": "blood",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "third-eye",
+      "accessory": "scarf",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 501,
+      "born": "2026-08-04T03:38:02.064Z",
+      "name": "Vulpes the 501st"
     }
   ]
 }
