@@ -1,5 +1,5 @@
 {
-  "count": 540,
+  "count": 541,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11811,6 +11811,21 @@
         "tx": "0x14a73a2fa0019a65c41418f4fd7ff0644ccbb061c657b9958eca3a5c04e4729d",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#7a54b5",
+      "belly": "#e9dcff",
+      "accent": "#c4a6ff",
+      "palette": "amethyst",
+      "tails": 1,
+      "eyes": "sleepy",
+      "marking": "freckles",
+      "accessory": "ember",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 541,
+      "born": "2026-08-04T23:38:01.677Z",
+      "name": "Ash the 541st"
     }
   ]
 }
