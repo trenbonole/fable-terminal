@@ -11627,7 +11627,14 @@
       "rarity": "uncommon",
       "id": 532,
       "born": "2026-08-04T19:08:01.717Z",
-      "name": "Ember the 532nd"
+      "name": "Ember the 532nd",
+      "img": "foxes/proc-532.png",
+      "nft": {
+        "tokenId": "526",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0x3503963cbe9f669f12b2a62405523b40281a17a4eddb96349bd7cd31598a7f3a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
