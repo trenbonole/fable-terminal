@@ -11517,7 +11517,14 @@
       "rarity": "uncommon",
       "id": 527,
       "born": "2026-08-04T16:38:01.350Z",
-      "name": "Wick the 527th"
+      "name": "Wick the 527th",
+      "img": "foxes/proc-527.png",
+      "nft": {
+        "tokenId": "521",
+        "owner": "0xe15cd42024a0b8403a924b2f2f1e0b75385a8caf",
+        "tx": "0x695e3651a69a675d7d900fd9381e2bdc5d2bd53d2e7f93383416880947a5a7ff",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
