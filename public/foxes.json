@@ -10967,7 +10967,14 @@
       "rarity": "common",
       "id": 502,
       "born": "2026-08-04T04:08:02.044Z",
-      "name": "Cinder the 502nd"
+      "name": "Cinder the 502nd",
+      "img": "foxes/proc-502.png",
+      "nft": {
+        "tokenId": "496",
+        "owner": "0x4acb6c4321253548a7d4bb9c84032cc4ee04bfd7",
+        "tx": "0x1b90658004d372f1f4ba6ad467f5a8d110ca5e976f759e7697f3fb463a9ea39c",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
