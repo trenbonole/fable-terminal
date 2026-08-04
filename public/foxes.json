@@ -10989,7 +10989,14 @@
       "rarity": "uncommon",
       "id": 503,
       "born": "2026-08-04T04:38:02.105Z",
-      "name": "Vulpes the 503rd"
+      "name": "Vulpes the 503rd",
+      "img": "foxes/proc-503.png",
+      "nft": {
+        "tokenId": "497",
+        "owner": "0xcd6b980029e6e6e0733ac8ec3e02be9410d09799",
+        "tx": "0x3739c67e29aa311444c8d3216a69a96f72179ea317b957b4fd70915f5f6d847f",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
