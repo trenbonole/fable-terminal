@@ -11671,7 +11671,14 @@
       "rarity": "rare",
       "id": 534,
       "born": "2026-08-04T20:08:01.485Z",
-      "name": "Bracken the 534th"
+      "name": "Bracken the 534th",
+      "img": "foxes/proc-534.png",
+      "nft": {
+        "tokenId": "528",
+        "owner": "0xe5f7be7db9497b2b9239512cfebfb021e2240775",
+        "tx": "0x3557e343d432f3f58ce62dffca3460004c08fa58828f8e0f9b670159798ed200",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
