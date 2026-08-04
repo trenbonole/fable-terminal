@@ -11605,7 +11605,14 @@
       "rarity": "uncommon",
       "id": 531,
       "born": "2026-08-04T18:38:01.416Z",
-      "name": "Sorrel the 531st"
+      "name": "Sorrel the 531st",
+      "img": "foxes/proc-531.png",
+      "nft": {
+        "tokenId": "525",
+        "owner": "0xb199893c384309259d481d76cf7ae625e3bae3a6",
+        "tx": "0x2a863814adbf16bbaca949fcad6c219f8a275d46fd658eb85ed157e619dcca88",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
