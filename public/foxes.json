@@ -11803,7 +11803,14 @@
       "rarity": "rare",
       "id": 540,
       "born": "2026-08-04T23:08:01.537Z",
-      "name": "Pyre the 540th"
+      "name": "Pyre the 540th",
+      "img": "foxes/proc-540.png",
+      "nft": {
+        "tokenId": "534",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0x14a73a2fa0019a65c41418f4fd7ff0644ccbb061c657b9958eca3a5c04e4729d",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
