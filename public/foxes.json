@@ -1,5 +1,5 @@
 {
-  "count": 508,
+  "count": 509,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11107,6 +11107,21 @@
         "tx": "0xa4c52bddbb54641d55571593ee27405ca63ac93f44af63a501086f59b8b4c7b6",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#3a3f4d",
+      "belly": "#c3ccda",
+      "accent": "#8b98b3",
+      "palette": "ink",
+      "tails": 5,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "grid",
+      "rarity": "rare",
+      "id": 509,
+      "born": "2026-08-04T07:38:02.080Z",
+      "name": "Kit the 509th"
     }
   ]
 }
