@@ -1,5 +1,5 @@
 {
-  "count": 519,
+  "count": 520,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11349,6 +11349,21 @@
         "tx": "0xbcdc3c958720864cd7ba7fdd775e441d632f152d0ff1d3c97403c858fc614c3a",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#c05f33",
+      "belly": "#ffe7d3",
+      "accent": "#ff9a5c",
+      "palette": "rust",
+      "tails": 2,
+      "eyes": "round",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "common",
+      "id": 520,
+      "born": "2026-08-04T13:08:02.315Z",
+      "name": "Tod the 520th"
     }
   ]
 }
