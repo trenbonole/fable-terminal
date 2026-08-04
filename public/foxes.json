@@ -1,5 +1,5 @@
 {
-  "count": 497,
+  "count": 498,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -10865,6 +10865,21 @@
         "tx": "0x36c06d27253a3246e74d1cb114d1be658ab9e7530c331ce36c73087f8c8f7d05",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "glow",
+      "marking": "freckles",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "rare",
+      "id": 498,
+      "born": "2026-08-04T02:08:02.000Z",
+      "name": "Quill the 498th"
     }
   ]
 }
