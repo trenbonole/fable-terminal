@@ -11473,7 +11473,14 @@
       "rarity": "uncommon",
       "id": 525,
       "born": "2026-08-04T15:38:01.351Z",
-      "name": "Fennec the 525th"
+      "name": "Fennec the 525th",
+      "img": "foxes/proc-525.png",
+      "nft": {
+        "tokenId": "519",
+        "owner": "0xaf2722ad7312d4d4be1c6a6f13315f67febf5e98",
+        "tx": "0x578390c6e386e726a2a6b786e2d092d625a99b445e3115fb74eac048ad693660",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
