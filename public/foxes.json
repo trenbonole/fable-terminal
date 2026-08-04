@@ -11231,7 +11231,14 @@
       "rarity": "common",
       "id": 514,
       "born": "2026-08-04T10:08:02.300Z",
-      "name": "Wick the 514th"
+      "name": "Wick the 514th",
+      "img": "foxes/proc-514.png",
+      "nft": {
+        "tokenId": "508",
+        "owner": "0x30f51f5dac7045950e659a441b31b2403b531592",
+        "tx": "0x86f395b99e0095bd7523017d977aa42885d64540ff042c1350b5a176131ebc0a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
