@@ -1,5 +1,5 @@
 {
-  "count": 511,
+  "count": 512,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11173,6 +11173,21 @@
         "tx": "0xf253543ccff7e0ad5ace01d5523acb7cbccbd540ca6d6cca9942de9acbae4a30",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "moon-crest",
+      "accessory": "scarf",
+      "bg": "grid",
+      "rarity": "uncommon",
+      "id": 512,
+      "born": "2026-08-04T09:08:02.094Z",
+      "name": "Pyre the 512th"
     }
   ]
 }
