@@ -11715,7 +11715,14 @@
       "rarity": "uncommon",
       "id": 536,
       "born": "2026-08-04T21:08:01.452Z",
-      "name": "Mote the 536th"
+      "name": "Mote the 536th",
+      "img": "foxes/proc-536.png",
+      "nft": {
+        "tokenId": "530",
+        "owner": "0xbe41dbc50995e9ba418abeb0988fa63e40b86bd0",
+        "tx": "0xfaf037b595fa4501dd59419dc8115f25e604a11f6e964bbf170fdb539f023f82",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
