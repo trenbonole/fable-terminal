@@ -1,5 +1,5 @@
 {
-  "count": 525,
+  "count": 526,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11481,6 +11481,21 @@
         "tx": "0x578390c6e386e726a2a6b786e2d092d625a99b445e3115fb74eac048ad693660",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#9aa0a6",
+      "belly": "#f4f6f7",
+      "accent": "#d3dade",
+      "palette": "ash",
+      "tails": 1,
+      "eyes": "closed",
+      "marking": "freckles",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "common",
+      "id": 526,
+      "born": "2026-08-04T16:08:01.420Z",
+      "name": "Ash the 526th"
     }
   ]
 }
