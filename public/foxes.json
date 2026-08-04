@@ -11451,7 +11451,14 @@
       "rarity": "uncommon",
       "id": 524,
       "born": "2026-08-04T15:08:01.333Z",
-      "name": "Quill the 524th"
+      "name": "Quill the 524th",
+      "img": "foxes/proc-524.png",
+      "nft": {
+        "tokenId": "518",
+        "owner": "0x5e5c6c1786863865b348087c10d4f0a6c2423938",
+        "tx": "0x033539ce9142b443d690416107e114a6f2ec30f98254f0e5148106d880833ede",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
