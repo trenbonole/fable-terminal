@@ -1,5 +1,5 @@
 {
-  "count": 518,
+  "count": 519,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11327,6 +11327,21 @@
         "tx": "0x19684e46a59623260d3fd3f78c99681bbe59dd36fb68c09cc899166aca61b252",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#f0803a",
+      "belly": "#fff1e0",
+      "accent": "#ffc061",
+      "palette": "ember",
+      "tails": 9,
+      "eyes": "sleepy",
+      "marking": "moon-crest",
+      "accessory": "crown",
+      "bg": "void",
+      "rarity": "legendary",
+      "id": 519,
+      "born": "2026-08-04T12:38:02.419Z",
+      "name": "Marlow the 519th"
     }
   ]
 }
