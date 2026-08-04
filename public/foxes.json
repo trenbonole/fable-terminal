@@ -11187,7 +11187,14 @@
       "rarity": "uncommon",
       "id": 512,
       "born": "2026-08-04T09:08:02.094Z",
-      "name": "Pyre the 512th"
+      "name": "Pyre the 512th",
+      "img": "foxes/proc-512.png",
+      "nft": {
+        "tokenId": "506",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0x296c6a7f0a22fb225360218641672309fdddc142db92afcae84b6a0e069e5f35",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
