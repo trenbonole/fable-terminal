@@ -10857,7 +10857,14 @@
       "rarity": "rare",
       "id": 497,
       "born": "2026-08-04T01:38:01.979Z",
-      "name": "Fennec the 497th"
+      "name": "Fennec the 497th",
+      "img": "foxes/proc-497.png",
+      "nft": {
+        "tokenId": "491",
+        "owner": "0xad01c20d5886137e056775af56915de824c8fce5",
+        "tx": "0x36c06d27253a3246e74d1cb114d1be658ab9e7530c331ce36c73087f8c8f7d05",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
