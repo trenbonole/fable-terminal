@@ -10835,7 +10835,14 @@
       "rarity": "uncommon",
       "id": 496,
       "born": "2026-08-04T01:08:02.117Z",
-      "name": "Pyre the 496th"
+      "name": "Pyre the 496th",
+      "img": "foxes/proc-496.png",
+      "nft": {
+        "tokenId": "490",
+        "owner": "0x2ac3d7aa0b448a1db53265b914c7acbf196277a7",
+        "tx": "0x72a24d40bfb0813843c021fb0ececdc5f3903b99dc29d24d2649e0ab693435ab",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
