@@ -1,5 +1,5 @@
 {
-  "count": 536,
+  "count": 537,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11723,6 +11723,21 @@
         "tx": "0xfaf037b595fa4501dd59419dc8115f25e604a11f6e964bbf170fdb539f023f82",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "sleepy",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "night",
+      "rarity": "uncommon",
+      "id": 537,
+      "born": "2026-08-04T21:38:01.464Z",
+      "name": "Wick the 537th"
     }
   ]
 }
