@@ -1,5 +1,5 @@
 {
-  "count": 535,
+  "count": 536,
   "foxes": [
     {
       "fur": "#8f2d2d",
@@ -11701,6 +11701,21 @@
         "tx": "0x47f2cbafa792ae5b9d8aa76dff48af870227affd21b87c1c73207aec8282edf9",
         "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
       }
+    },
+    {
+      "fur": "#8090b8",
+      "belly": "#eef3ff",
+      "accent": "#cfe6ff",
+      "palette": "moonlit",
+      "tails": 2,
+      "eyes": "closed",
+      "marking": "third-eye",
+      "accessory": "none",
+      "bg": "dawn",
+      "rarity": "uncommon",
+      "id": 536,
+      "born": "2026-08-04T21:08:01.452Z",
+      "name": "Mote the 536th"
     }
   ]
 }
