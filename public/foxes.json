@@ -11341,7 +11341,14 @@
       "rarity": "legendary",
       "id": 519,
       "born": "2026-08-04T12:38:02.419Z",
-      "name": "Marlow the 519th"
+      "name": "Marlow the 519th",
+      "img": "foxes/proc-519.png",
+      "nft": {
+        "tokenId": "513",
+        "owner": "0x8c0813d3627db4247d19f3f0faf54ba9223cdc8d",
+        "tx": "0xbcdc3c958720864cd7ba7fdd775e441d632f152d0ff1d3c97403c858fc614c3a",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }

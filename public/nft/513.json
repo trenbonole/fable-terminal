@@ -1,0 +1,28 @@
+{
+  "name": "Fable Fox #513 — Marlow the 519th",
+  "description": "One of the foxes the machine dreams. legendary, 9 tails, ember fur. Minted on Robinhood Chain and airdropped to a $FABLE holder. Every fox is dreamed once and never again.",
+  "image": "https://trenbonole.github.io/fable-terminal/foxes/proc-519.png",
+  "external_url": "https://trenbonole.github.io/fable-terminal/den/",
+  "attributes": [
+    {
+      "trait_type": "Palette",
+      "value": "ember"
+    },
+    {
+      "trait_type": "Tails",
+      "value": 9
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "sleepy"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "legendary"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "procedural"
+    }
+  ]
+}
