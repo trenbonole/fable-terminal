@@ -11363,7 +11363,14 @@
       "rarity": "common",
       "id": 520,
       "born": "2026-08-04T13:08:02.315Z",
-      "name": "Tod the 520th"
+      "name": "Tod the 520th",
+      "img": "foxes/proc-520.png",
+      "nft": {
+        "tokenId": "514",
+        "owner": "0x33eabd63853e74ff70d8b89982dfb5bc3eb0a189",
+        "tx": "0x09943b7a3509605b116a6d69bba36cd4e586b20bbf11138ef77c997692bb37ca",
+        "contract": "0x7D922d1737370b0CB24fd30afe6454B6DE8EbC07"
+      }
     }
   ]
 }
